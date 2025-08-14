@@ -1,0 +1,8834 @@
+[
+  {
+    "COLUMNA": "BBVA CONTINENTAL",
+    "NUM": 3606
+  },
+  {
+    "COLUMNA": "VARIOS",
+    "NUM": 957
+  },
+  {
+    "COLUMNA": "SUNAT",
+    "NUM": 712
+  },
+  {
+    "COLUMNA": "CORPORACION SERMIN E.I.R.L",
+    "NUM": 599
+  },
+  {
+    "COLUMNA": "M&O FERRETERIA E.I.R.L",
+    "NUM": 502
+  },
+  {
+    "COLUMNA": "MADERERA SEBASTIAN E.I.R.L",
+    "NUM": 436
+  },
+  {
+    "COLUMNA": "MAPFRE PERU COMPAÑÍA DE SEGUROS Y REASEGUROS",
+    "NUM": 350
+  },
+  {
+    "COLUMNA": "REPRESENTACIONES PIERO´S E.I.R.L",
+    "NUM": 323
+  },
+  {
+    "COLUMNA": "DISTRIBUIDORA E INVERSIONES MARBELLA S.A.C",
+    "NUM": 321
+  },
+  {
+    "COLUMNA": "MANTARO CASAMAC S.A.C",
+    "NUM": 313
+  },
+  {
+    "COLUMNA": "LIBRERÍA BAZAR SANTA MARIA S.A.C",
+    "NUM": 287
+  },
+  {
+    "COLUMNA": "SUAREZ AMBOLAYA YOLANDA YUVISA",
+    "NUM": 254
+  },
+  {
+    "COLUMNA": "ELIAS ALBERTO TUPAC YUPANQUI",
+    "NUM": 249
+  },
+  {
+    "COLUMNA": "MANAGE AND PROTECT YOUR COMPANY S.A.C",
+    "NUM": 213
+  },
+  {
+    "COLUMNA": "ADAIR AROLDI CHALCO BONIFACIO",
+    "NUM": 209
+  },
+  {
+    "COLUMNA": "RODCON INGENIEROS S.A.C",
+    "NUM": 209
+  },
+  {
+    "COLUMNA": "VASQUEZ CCENCHO IRAIDA",
+    "NUM": 200
+  },
+  {
+    "COLUMNA": "MATFER COMPANY S.A.C",
+    "NUM": 199
+  },
+  {
+    "COLUMNA": "NEGOCIACIONES PERU WOODS E.I.R.L",
+    "NUM": 189
+  },
+  {
+    "COLUMNA": "FERRUZO TORRES RICARDO",
+    "NUM": 188
+  },
+  {
+    "COLUMNA": "JUSTO PAUCAR ANGELA ESMERALDA",
+    "NUM": 158
+  },
+  {
+    "COLUMNA": "CIEL INGENIEROS S.A.C",
+    "NUM": 152
+  },
+  {
+    "COLUMNA": "BANBIF",
+    "NUM": 144
+  },
+  {
+    "COLUMNA": "UNIMAQ S.A",
+    "NUM": 143
+  },
+  {
+    "COLUMNA": "MAPFRE PERU COMPAÑÍA DE SEGUROS Y REASEGUROS SA",
+    "NUM": 141
+  },
+  {
+    "COLUMNA": "ICGSA E.I.R.L",
+    "NUM": 140
+  },
+  {
+    "COLUMNA": "CONAFOVICER",
+    "NUM": 139
+  },
+  {
+    "COLUMNA": "CIEL INGENIEROS",
+    "NUM": 139
+  },
+  {
+    "COLUMNA": "CASAS YUPANQUI JULIO MARCIAL",
+    "NUM": 131
+  },
+  {
+    "COLUMNA": "IMPORTACIONES ESTEBAN CENTER E.I.R.L",
+    "NUM": 123
+  },
+  {
+    "COLUMNA": "TULIO RODRIGUEZ PAREDES",
+    "NUM": 115
+  },
+  {
+    "COLUMNA": "AFP INTEGRA",
+    "NUM": 115
+  },
+  {
+    "COLUMNA": "FREDY FERRUZO TORRES",
+    "NUM": 114
+  },
+  {
+    "COLUMNA": "BENDEZU ACEVEDO ANDER LUIS",
+    "NUM": 114
+  },
+  {
+    "COLUMNA": "COPORACIÓN KAZUKY MERCURY E.I.R.L",
+    "NUM": 113
+  },
+  {
+    "COLUMNA": "HOMECENTER PERUANOS SA",
+    "NUM": 111
+  },
+  {
+    "COLUMNA": "SISTEMAS Y TOPOGRAFIA S.A.C",
+    "NUM": 99
+  },
+  {
+    "COLUMNA": "INVERSIONES G&S CONSTRUCTORA MINERA S.A.C",
+    "NUM": 97
+  },
+  {
+    "COLUMNA": "GERARDINE LLANCO JHON ELEDIN",
+    "NUM": 97
+  },
+  {
+    "COLUMNA": "CONSORCIO HIDROSOL",
+    "NUM": 96
+  },
+  {
+    "COLUMNA": "COMERCIO, SERVICIOS INTEGRALES Y TECNOLOGIAS S.A.C. (COMSITEC)",
+    "NUM": 95
+  },
+  {
+    "COLUMNA": "CORPORACION E&J MAQUINARIAS E.I.R.L",
+    "NUM": 94
+  },
+  {
+    "COLUMNA": "KOPYMIX S.A.C",
+    "NUM": 93
+  },
+  {
+    "COLUMNA": "QUISPE ATAYPUMA WILDER HUGO",
+    "NUM": 87
+  },
+  {
+    "COLUMNA": "JACKELINE POVIS GARCIA",
+    "NUM": 87
+  },
+  {
+    "COLUMNA": "TIRAJAYA ENCISO JUAN JORGE",
+    "NUM": 86
+  },
+  {
+    "COLUMNA": "AFP PRIMA",
+    "NUM": 83
+  },
+  {
+    "COLUMNA": "GEOLEMCO S.A.C",
+    "NUM": 82
+  },
+  {
+    "COLUMNA": "INVERSIONES PIEDRA DEL CENTRO S.A.C",
+    "NUM": 79
+  },
+  {
+    "COLUMNA": "INVERSIONES CRGV S.R.L",
+    "NUM": 78
+  },
+  {
+    "COLUMNA": "DAN FRANCO EIRL",
+    "NUM": 76
+  },
+  {
+    "COLUMNA": "GEOCI CONSTRUCTORES E.I.R.L",
+    "NUM": 75
+  },
+  {
+    "COLUMNA": "FERRUZO CAMPOS LIZ KETTY",
+    "NUM": 75
+  },
+  {
+    "COLUMNA": "CORPORACION E INVERSIONES FABRI S.A.C",
+    "NUM": 72
+  },
+  {
+    "COLUMNA": "CORPORACION RUTTI S.A.C",
+    "NUM": 72
+  },
+  {
+    "COLUMNA": "INVERSIONES E IMPORTACIONES FERREBOOM SCRL",
+    "NUM": 72
+  },
+  {
+    "COLUMNA": "GEOVICON S.A.C",
+    "NUM": 71
+  },
+  {
+    "COLUMNA": "FIVCO MAQUINARIAS & HERRAMIENTAS S.A.C",
+    "NUM": 71
+  },
+  {
+    "COLUMNA": "PIÑAS CAMAC ELIZABETH YOVANA",
+    "NUM": 70
+  },
+  {
+    "COLUMNA": "ELMER OSCAR ZUASNABAR HUARIPATA",
+    "NUM": 70
+  },
+  {
+    "COLUMNA": "TIENDAS DE MEJORAMIENTO DEL HOGAR S.A",
+    "NUM": 69
+  },
+  {
+    "COLUMNA": "ZEGARRA OLAGUIBEL JEHU DAVID",
+    "NUM": 69
+  },
+  {
+    "COLUMNA": "PAUCAR PALIAN JHONY",
+    "NUM": 69
+  },
+  {
+    "COLUMNA": "INVERSIONES E IMPORTACIONES FERREBOM S.C.R.L",
+    "NUM": 69
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD PROVINCIAL SALCAHUASI",
+    "NUM": 69
+  },
+  {
+    "COLUMNA": "CHIQUILLANQUI CHILENO TEOFILA CIRILA",
+    "NUM": 68
+  },
+  {
+    "COLUMNA": "SOCIO CONSTRUCTOR S.A.C",
+    "NUM": 68
+  },
+  {
+    "COLUMNA": "TRANSREAL EXPRESS S.A.C",
+    "NUM": 68
+  },
+  {
+    "COLUMNA": "INVERSACIONES CRGV SRL",
+    "NUM": 68
+  },
+  {
+    "COLUMNA": "HOMECENTERS PERUANOS SA",
+    "NUM": 66
+  },
+  {
+    "COLUMNA": "LIBRERÍA BAZAR SANTA MARIA SAC",
+    "NUM": 66
+  },
+  {
+    "COLUMNA": "PROYECTOS INNOVADORES SMART JOMARI S.C.R.L",
+    "NUM": 62
+  },
+  {
+    "COLUMNA": "ELECTROCENTRO S.A",
+    "NUM": 62
+  },
+  {
+    "COLUMNA": "AFP PROFUTURO",
+    "NUM": 60
+  },
+  {
+    "COLUMNA": "TAI LOY SA",
+    "NUM": 60
+  },
+  {
+    "COLUMNA": "ELIAS MOISES GAMBOA PARI",
+    "NUM": 58
+  },
+  {
+    "COLUMNA": "RODRIGUEZ PAREDES TULIO",
+    "NUM": 58
+  },
+  {
+    "COLUMNA": "CONSORCIO SALCAHUASI",
+    "NUM": 57
+  },
+  {
+    "COLUMNA": "CONTRERAS NUÑEZ MONICA",
+    "NUM": 56
+  },
+  {
+    "COLUMNA": "AFP HABITAT",
+    "NUM": 56
+  },
+  {
+    "COLUMNA": "AUTOMOVILES S.A",
+    "NUM": 55
+  },
+  {
+    "COLUMNA": "EMPRESA CONSTRUCTORA SERVICIOS Y SUMINISTROS LA MARTINA S.A.C",
+    "NUM": 55
+  },
+  {
+    "COLUMNA": "GARJAK S.R.L",
+    "NUM": 54
+  },
+  {
+    "COLUMNA": "ELVIS RAYMUNDO ESTRADA",
+    "NUM": 54
+  },
+  {
+    "COLUMNA": "INVERSINES PALANTE E.I.R.L",
+    "NUM": 54
+  },
+  {
+    "COLUMNA": "ECOHIDRO",
+    "NUM": 54
+  },
+  {
+    "COLUMNA": "JL ANDINO CONSULTORES Y EJECUTORES E.I.R.L",
+    "NUM": 53
+  },
+  {
+    "COLUMNA": "UNIMAQ SA",
+    "NUM": 53
+  },
+  {
+    "COLUMNA": "EMPRESA CONSTRUCTORA Y SERVICIOS MINEROS JRJ S.A.C",
+    "NUM": 52
+  },
+  {
+    "COLUMNA": "GRUPO CARBAJAL & REPRESENTACIONES S.A.C",
+    "NUM": 52
+  },
+  {
+    "COLUMNA": "MOVISTAR",
+    "NUM": 52
+  },
+  {
+    "COLUMNA": "AVLA PERU COMPAÑIA DE SEGUROS S.A",
+    "NUM": 52
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD DE CHONGOS ALTO",
+    "NUM": 50
+  },
+  {
+    "COLUMNA": "ICGSA EIRL",
+    "NUM": 50
+  },
+  {
+    "COLUMNA": "ROMAN MUÑOZ VICTOR JAIRO",
+    "NUM": 49
+  },
+  {
+    "COLUMNA": "FIERROS IMAN S.A.C",
+    "NUM": 48
+  },
+  {
+    "COLUMNA": "CONSTRUCTORA & CONSULTORA UNSAR S.A.C",
+    "NUM": 48
+  },
+  {
+    "COLUMNA": "GEOCI CONSTRUCTORES EIRL",
+    "NUM": 48
+  },
+  {
+    "COLUMNA": "TIENDAS DE MEJORAMIENTO DEL HOGAR SA",
+    "NUM": 48
+  },
+  {
+    "COLUMNA": "RELIGER ZUASNABAR PALOMINO",
+    "NUM": 47
+  },
+  {
+    "COLUMNA": "C3 INGENIERIA ESPECIALIZADA S.A.C",
+    "NUM": 47
+  },
+  {
+    "COLUMNA": "CORPORACION GRUPO BENDEZU S.A.C",
+    "NUM": 46
+  },
+  {
+    "COLUMNA": "SAN JUAN UNVERSIONES COMERCIALES Y SERVICIOS MULTIPLES SRL",
+    "NUM": 46
+  },
+  {
+    "COLUMNA": "CARHUANCHO ÑAÑA ROCIO",
+    "NUM": 45
+  },
+  {
+    "COLUMNA": "MULTISERVICIOS JULI E.I.R.L",
+    "NUM": 44
+  },
+  {
+    "COLUMNA": "FLORES VALLEJO JOSE CARLOS",
+    "NUM": 44
+  },
+  {
+    "COLUMNA": "TIRAJAYA ENCISO JUAN",
+    "NUM": 44
+  },
+  {
+    "COLUMNA": "MASTER ADITIVOS QUIMICOS S.A.C",
+    "NUM": 42
+  },
+  {
+    "COLUMNA": "DC & L COAMISEG S.A.C",
+    "NUM": 42
+  },
+  {
+    "COLUMNA": "TRACKLAYER S.R.L",
+    "NUM": 42
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD DISTRITAL DE PILCOMAYO",
+    "NUM": 42
+  },
+  {
+    "COLUMNA": "CORPORACION EL GUAPO EIRL",
+    "NUM": 42
+  },
+  {
+    "COLUMNA": "LIBRERÍA AMAUTA",
+    "NUM": 41
+  },
+  {
+    "COLUMNA": "TORRES LARA FRACLIN JHOEL",
+    "NUM": 41
+  },
+  {
+    "COLUMNA": "MEDINA QUISPE TEOFILO",
+    "NUM": 40
+  },
+  {
+    "COLUMNA": "CORPORACION ROCAP S.A.C",
+    "NUM": 40
+  },
+  {
+    "COLUMNA": "INVERSIONES YOMARIO S.A.C",
+    "NUM": 40
+  },
+  {
+    "COLUMNA": "GRUPO HIDRORIEGO INGENIEROS S.A.C",
+    "NUM": 40
+  },
+  {
+    "COLUMNA": "JOSE CARLOS FLORES VALLEJO",
+    "NUM": 39
+  },
+  {
+    "COLUMNA": "GINA HILARIO RAMOS",
+    "NUM": 38
+  },
+  {
+    "COLUMNA": "INVERSIONES LA INDUSTRIAL S.R.L",
+    "NUM": 38
+  },
+  {
+    "COLUMNA": "COCA PEREZ YANETH LILIANA",
+    "NUM": 38
+  },
+  {
+    "COLUMNA": "GRUPO INDUSTRIAL NEIL SAC",
+    "NUM": 38
+  },
+  {
+    "COLUMNA": "INVERSIONES SHANTA EIRL",
+    "NUM": 38
+  },
+  {
+    "COLUMNA": "HUAMAN VALERO YONEL IVAN",
+    "NUM": 37
+  },
+  {
+    "COLUMNA": "INGENIERIA DE ALTA CALIDAD PERU S.A.C",
+    "NUM": 36
+  },
+  {
+    "COLUMNA": "ELECTROCENTRO SA",
+    "NUM": 36
+  },
+  {
+    "COLUMNA": "RAUL PACO DE LA TORRE",
+    "NUM": 35
+  },
+  {
+    "COLUMNA": "EMP. COMUNAL PAMPALCA SERVICIOS MULTIPLES RL",
+    "NUM": 35
+  },
+  {
+    "COLUMNA": "MATIAS CERVANTES LUIS ALBERTO-SEÑALIZACION - SEÑAFORIZACION & MAS",
+    "NUM": 34
+  },
+  {
+    "COLUMNA": "ADOLFO HITLER OLIVAR ROJAS",
+    "NUM": 34
+  },
+  {
+    "COLUMNA": "AMERICAN CERTICATION SERVICE S.A.C",
+    "NUM": 34
+  },
+  {
+    "COLUMNA": "DISTRIBUIDORA SANTA ROSA",
+    "NUM": 34
+  },
+  {
+    "COLUMNA": "MOLISA HOME CENTER S.A.C",
+    "NUM": 34
+  },
+  {
+    "COLUMNA": "VILCHEZ MEZA JORGE ANTONIO",
+    "NUM": 34
+  },
+  {
+    "COLUMNA": "COSSER SANTIVAÑEZ WENDY NASHEYRA",
+    "NUM": 33
+  },
+  {
+    "COLUMNA": "ALIAGA LLANTOY GISELA NINOSKA",
+    "NUM": 33
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD DISTRITAL DE ANDABAMBA",
+    "NUM": 33
+  },
+  {
+    "COLUMNA": "CALDAS ROMERO DULCE FELITA",
+    "NUM": 32
+  },
+  {
+    "COLUMNA": "SAVFER CONTRACTORS E.I.R.L",
+    "NUM": 32
+  },
+  {
+    "COLUMNA": "CORPORACION EL GUAPO E.I.R.L",
+    "NUM": 32
+  },
+  {
+    "COLUMNA": "AVLA PERU COMPAÑÍA DE SEGUROS SA",
+    "NUM": 32
+  },
+  {
+    "COLUMNA": "CORPORACION RIO BRANCO S.A",
+    "NUM": 31
+  },
+  {
+    "COLUMNA": "MILAGROS MONTES SANABRIA",
+    "NUM": 31
+  },
+  {
+    "COLUMNA": "CARRASCO HUAMAN ELFA",
+    "NUM": 31
+  },
+  {
+    "COLUMNA": "D Y M AMPUERO CONSTRUCCION S.A.C",
+    "NUM": 31
+  },
+  {
+    "COLUMNA": "INVERSIONES RODRIZ E.I.R.L",
+    "NUM": 31
+  },
+  {
+    "COLUMNA": "RAMON HUAMAN EDMI WILBER",
+    "NUM": 31
+  },
+  {
+    "COLUMNA": "PABLO JULCA  CAYETANO",
+    "NUM": 30
+  },
+  {
+    "COLUMNA": "CONSTRUCTORA, CONSULTORA Y MULTISERVICIOS D'LUEMYX S.C.R.L",
+    "NUM": 30
+  },
+  {
+    "COLUMNA": "ARANDA CANCHUMONI KEVIN",
+    "NUM": 30
+  },
+  {
+    "COLUMNA": "GRUPO HIDRORIEGO INGENIEROS SAC",
+    "NUM": 30
+  },
+  {
+    "COLUMNA": "MIGUEL PITUY CAPCHA",
+    "NUM": 29
+  },
+  {
+    "COLUMNA": "HUAROC PEREZ YESENIA GLORIA",
+    "NUM": 29
+  },
+  {
+    "COLUMNA": "ABIGAIL FERRUZO CAMPOS",
+    "NUM": 29
+  },
+  {
+    "COLUMNA": "CYNTHIA BEATRIZ TORRES PRADO",
+    "NUM": 29
+  },
+  {
+    "COLUMNA": "TORRES SANCHEZ WILLINGTON",
+    "NUM": 28
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD PROVINCIAL DE AMBO",
+    "NUM": 28
+  },
+  {
+    "COLUMNA": "LYNX PUBLICITY E.I.R.L",
+    "NUM": 28
+  },
+  {
+    "COLUMNA": "QUISPE GUTIERREZ ROBERT",
+    "NUM": 28
+  },
+  {
+    "COLUMNA": "GEOLEMCO SAC",
+    "NUM": 28
+  },
+  {
+    "COLUMNA": "STARLINK PERU SRL",
+    "NUM": 28
+  },
+  {
+    "COLUMNA": "NEGOCIACIONES Y SERVICENTRO MELGAR SAC",
+    "NUM": 28
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD DISTRITAL DE YANACANCHA",
+    "NUM": 27
+  },
+  {
+    "COLUMNA": "AMERICA MOVIL PERU S.A.C",
+    "NUM": 27
+  },
+  {
+    "COLUMNA": "HUARCAYA MESCUA VILMA MARUJA",
+    "NUM": 27
+  },
+  {
+    "COLUMNA": "ESCOBAR INGA SUSANA SIBIA",
+    "NUM": 27
+  },
+  {
+    "COLUMNA": "CONSTRUCTORA CONCRETERA J Y R SAC",
+    "NUM": 27
+  },
+  {
+    "COLUMNA": "HUGHES DE PERU S.R.L",
+    "NUM": 26
+  },
+  {
+    "COLUMNA": "QUISPE MAYTA ROCIO FLOR",
+    "NUM": 26
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD DE SAN PEDRO DE CHUNAN",
+    "NUM": 26
+  },
+  {
+    "COLUMNA": "OSORIO RIVERA FREDY JAVIER",
+    "NUM": 26
+  },
+  {
+    "COLUMNA": "TRANSREAL EXPRESS SAC",
+    "NUM": 26
+  },
+  {
+    "COLUMNA": "MINISTERIO DE CULTURA",
+    "NUM": 25
+  },
+  {
+    "COLUMNA": "QUIMICOS Y PRODUCCION S.C.R.L",
+    "NUM": 25
+  },
+  {
+    "COLUMNA": "INSUR SA COMPAÑIA DE SEGUROS SA",
+    "NUM": 25
+  },
+  {
+    "COLUMNA": "SILVER GEOTEC S.A.C",
+    "NUM": 25
+  },
+  {
+    "COLUMNA": "NICOLL PERU S.A",
+    "NUM": 25
+  },
+  {
+    "COLUMNA": "KOVALTEK IMPORT E.I.R.L",
+    "NUM": 25
+  },
+  {
+    "COLUMNA": "BUILDERS TROOP MAQUINARIAS & INGENIEROS S.A.C",
+    "NUM": 25
+  },
+  {
+    "COLUMNA": "CAPCHA LEIVA EDGAR",
+    "NUM": 25
+  },
+  {
+    "COLUMNA": "TAI LOY S.A",
+    "NUM": 25
+  },
+  {
+    "COLUMNA": "PERUTEST S.A.C",
+    "NUM": 24
+  },
+  {
+    "COLUMNA": "CASABEN CONSTRUCTORA INMOBILIARIA E.I.R.L",
+    "NUM": 24
+  },
+  {
+    "COLUMNA": "INVERSIONES LABOON SAC",
+    "NUM": 24
+  },
+  {
+    "COLUMNA": "KADE S.A.C",
+    "NUM": 23
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD DISTRITAL DE SINCOS",
+    "NUM": 23
+  },
+  {
+    "COLUMNA": "INVERSIONES ARI DEL PERU S.A.C",
+    "NUM": 23
+  },
+  {
+    "COLUMNA": "CARHUAPOMA FLORES LUIS FERNANDO",
+    "NUM": 23
+  },
+  {
+    "COLUMNA": "MAQUIRENTAL S.A.C",
+    "NUM": 23
+  },
+  {
+    "COLUMNA": "CAMARGO MAYTA CANDY",
+    "NUM": 23
+  },
+  {
+    "COLUMNA": "FLORES NESTARES BETSABETH",
+    "NUM": 23
+  },
+  {
+    "COLUMNA": "PARRAGA MANTARI SUSANA LORENZA",
+    "NUM": 23
+  },
+  {
+    "COLUMNA": "CHAVEZ ATUNGA ANGELY",
+    "NUM": 23
+  },
+  {
+    "COLUMNA": "EDIFIKA CONSTRUCTORA",
+    "NUM": 22
+  },
+  {
+    "COLUMNA": "CORPORACION K&R PLASTIREY S.A.C",
+    "NUM": 22
+  },
+  {
+    "COLUMNA": "MANUEL ANTONIO INGA PINO",
+    "NUM": 22
+  },
+  {
+    "COLUMNA": "SANABRIA CONDOR YELTSIN MICHAEL",
+    "NUM": 22
+  },
+  {
+    "COLUMNA": "BORQUEZ CHAMORRO JUAN BRUNO",
+    "NUM": 22
+  },
+  {
+    "COLUMNA": "INVERSIONES PAYANO GARCIA E.I.R.L",
+    "NUM": 22
+  },
+  {
+    "COLUMNA": "PEREZ RAMIREZ IRMA SUSANA",
+    "NUM": 22
+  },
+  {
+    "COLUMNA": "HIDROTEK S.C.R.L - HIDROTEK S.R.L",
+    "NUM": 22
+  },
+  {
+    "COLUMNA": "ALANIA TRAVEZAÑO GLORIA",
+    "NUM": 22
+  },
+  {
+    "COLUMNA": "BS GRUPO S.A.C",
+    "NUM": 22
+  },
+  {
+    "COLUMNA": "EMPRESA DE SERVICIOS MULTIPLES VITAS E.I.R.L",
+    "NUM": 22
+  },
+  {
+    "COLUMNA": "JEHOGRAN EIRL",
+    "NUM": 22
+  },
+  {
+    "COLUMNA": "EMPRESA SHUMYOKY SAC",
+    "NUM": 22
+  },
+  {
+    "COLUMNA": "ARANDA CACHUMONI KEVIN RAUL",
+    "NUM": 22
+  },
+  {
+    "COLUMNA": "GLOBAL PRECISION INSTRUMENTS SAC",
+    "NUM": 22
+  },
+  {
+    "COLUMNA": "DISTRIBUIDORA CUELLAR SAC",
+    "NUM": 22
+  },
+  {
+    "COLUMNA": "JOSE ANGEL VILLA BENDEZU",
+    "NUM": 21
+  },
+  {
+    "COLUMNA": "AGUIRRE GALINDO MAGALY",
+    "NUM": 21
+  },
+  {
+    "COLUMNA": "INVERSIONES CCOÑAS E.I.R.L",
+    "NUM": 21
+  },
+  {
+    "COLUMNA": "MAKRO SUPER MAYORISTAS S.A",
+    "NUM": 21
+  },
+  {
+    "COLUMNA": "KEPLER BAHAM E.I.R.L",
+    "NUM": 21
+  },
+  {
+    "COLUMNA": "CANTO AVILA JACKELINE",
+    "NUM": 21
+  },
+  {
+    "COLUMNA": "BORJA ROMAN JAIME",
+    "NUM": 21
+  },
+  {
+    "COLUMNA": "MEDRANO VENTOCILLA GLICERIA",
+    "NUM": 21
+  },
+  {
+    "COLUMNA": "PRODUCTOS SORIA PERU E.I.R.L",
+    "NUM": 21
+  },
+  {
+    "COLUMNA": "FOGUE CONTRATISTAS GENERALES S.A.C",
+    "NUM": 20
+  },
+  {
+    "COLUMNA": "YURI GOMEZ",
+    "NUM": 20
+  },
+  {
+    "COLUMNA": "JHONATAN",
+    "NUM": 20
+  },
+  {
+    "COLUMNA": "NACHO MAQUINARIAS Y HERRAMIENTAS E.I.R.L",
+    "NUM": 20
+  },
+  {
+    "COLUMNA": "RIVERA INGAROCA EDDY MARGOT",
+    "NUM": 20
+  },
+  {
+    "COLUMNA": "ICHAPAS QUISPE FELIPE",
+    "NUM": 20
+  },
+  {
+    "COLUMNA": "HERRAMIENTAS Y FERRETERIA ROJAVA E.I.R.L",
+    "NUM": 20
+  },
+  {
+    "COLUMNA": "SECREX CIA DE SEGUROS DE CRED Y GARANTIA",
+    "NUM": 20
+  },
+  {
+    "COLUMNA": "PAUCAR ADAUTO KEVIN MARDO (VIDRERIA HUANCAYO)",
+    "NUM": 20
+  },
+  {
+    "COLUMNA": "MANUEL ROJAS ECHEVARRIA",
+    "NUM": 20
+  },
+  {
+    "COLUMNA": "ALCARRAZ HUILCA DAVID ENRIQUE",
+    "NUM": 20
+  },
+  {
+    "COLUMNA": "MAKRO SUPER MAYORISTAS SA",
+    "NUM": 20
+  },
+  {
+    "COLUMNA": "MULTISERVICIOS JULI EIRL",
+    "NUM": 20
+  },
+  {
+    "COLUMNA": "CONSTRATISTAS MINEROS ADISOL EIRL",
+    "NUM": 20
+  },
+  {
+    "COLUMNA": "LUIS QUISPE QUISPE",
+    "NUM": 19
+  },
+  {
+    "COLUMNA": "LOPEZ ARMES TEODULA COYA",
+    "NUM": 19
+  },
+  {
+    "COLUMNA": "INSPIRA GROUP PUBLICIDAD IMAGEN & MARKETING E.I.R.L",
+    "NUM": 19
+  },
+  {
+    "COLUMNA": "NAVARRO SANCHEZ LIDIA",
+    "NUM": 19
+  },
+  {
+    "COLUMNA": "CHIU KU TOMAS SANTIAGO",
+    "NUM": 19
+  },
+  {
+    "COLUMNA": "ADAUTO MOSCOSO DERIAM ELIAS",
+    "NUM": 19
+  },
+  {
+    "COLUMNA": "SANCHEZ LAZO JUAN CARLOS",
+    "NUM": 19
+  },
+  {
+    "COLUMNA": "INVERSIONES GENERALES CENTAURO INGENIEROS S.A.C",
+    "NUM": 19
+  },
+  {
+    "COLUMNA": "ESPINOZA MARTINES MARIA ELENA",
+    "NUM": 19
+  },
+  {
+    "COLUMNA": "HUARINGA PAUCARCAJA MADY LUZ",
+    "NUM": 19
+  },
+  {
+    "COLUMNA": "HUAMANCAJA MERCADO RABELE",
+    "NUM": 18
+  },
+  {
+    "COLUMNA": "UNIVERSO EMPRESARIAL S.A.C",
+    "NUM": 18
+  },
+  {
+    "COLUMNA": "FERRUZO CAMPOS LIZETH NATHALY",
+    "NUM": 18
+  },
+  {
+    "COLUMNA": "FERRETERIA VARGAS EIRL",
+    "NUM": 18
+  },
+  {
+    "COLUMNA": "CORPORACION PANCAN E.I.R.L",
+    "NUM": 18
+  },
+  {
+    "COLUMNA": "CONSTRUCTORA Y CONCRETERA JYR S.A.C",
+    "NUM": 18
+  },
+  {
+    "COLUMNA": "ZURITA SANCHEZ HERNAN OMAR",
+    "NUM": 18
+  },
+  {
+    "COLUMNA": "LC CONSTRUCCION Y MINERIA S.A.C",
+    "NUM": 18
+  },
+  {
+    "COLUMNA": "TRACKLAYER SRL",
+    "NUM": 18
+  },
+  {
+    "COLUMNA": "M&O FERRETERIA EIRL",
+    "NUM": 18
+  },
+  {
+    "COLUMNA": "KOVALTEC EIRL",
+    "NUM": 18
+  },
+  {
+    "COLUMNA": "BANCO DE CREDITO",
+    "NUM": 17
+  },
+  {
+    "COLUMNA": "PECHO ALEJOS MARIO ALFONSO",
+    "NUM": 17
+  },
+  {
+    "COLUMNA": "ANGEL RICHARD SOTO CABELLO",
+    "NUM": 17
+  },
+  {
+    "COLUMNA": "SANTA ANA GRUPO EMPRESARIAL S.A.C",
+    "NUM": 17
+  },
+  {
+    "COLUMNA": "DANIEL HANS VALENTIN VICENTE",
+    "NUM": 17
+  },
+  {
+    "COLUMNA": "CIE CONSTRUCTORA EMPRESARIAL S.R.L",
+    "NUM": 17
+  },
+  {
+    "COLUMNA": "JC INGENIERIA Y CONSTRUCCION S.A.C",
+    "NUM": 17
+  },
+  {
+    "COLUMNA": "COLONIO CHUQUILLANQUI GERALDYNE FIORELA",
+    "NUM": 17
+  },
+  {
+    "COLUMNA": "IMPORACIONES PEREZ S.A.C",
+    "NUM": 17
+  },
+  {
+    "COLUMNA": "BRHECL MMQ S.R.L",
+    "NUM": 17
+  },
+  {
+    "COLUMNA": "STARLINK PERU S.R.L",
+    "NUM": 17
+  },
+  {
+    "COLUMNA": "CANCHANYA ROJAS EULOGIO BALERIO",
+    "NUM": 17
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD DISTRITAL DE ACOSTAMBO",
+    "NUM": 17
+  },
+  {
+    "COLUMNA": "APONTE LIMACHE NANCY KARINA",
+    "NUM": 17
+  },
+  {
+    "COLUMNA": "CONTRERAS MACHUCA SOFIA",
+    "NUM": 17
+  },
+  {
+    "COLUMNA": "OSCANOA ZACARIAS KEVIN ROBERT",
+    "NUM": 16
+  },
+  {
+    "COLUMNA": "NOA CURO JOSUE ELISEO",
+    "NUM": 16
+  },
+  {
+    "COLUMNA": "LINTUR S.A.C",
+    "NUM": 16
+  },
+  {
+    "COLUMNA": "JRM CIA MINERA",
+    "NUM": 16
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD DISTRITAL DE HUANCANI",
+    "NUM": 16
+  },
+  {
+    "COLUMNA": "FREDOL S.A.C",
+    "NUM": 16
+  },
+  {
+    "COLUMNA": "GRUPO SANNY S.A.C",
+    "NUM": 16
+  },
+  {
+    "COLUMNA": "EMPRESA CONTRATISTAS GENERALES VALENTINA E.I.R.L",
+    "NUM": 16
+  },
+  {
+    "COLUMNA": "PICON S.A.C",
+    "NUM": 16
+  },
+  {
+    "COLUMNA": "CIA MACAÉ S.A.C",
+    "NUM": 16
+  },
+  {
+    "COLUMNA": "MONTALVO FLORES DE JESUS JULIA MARIA",
+    "NUM": 16
+  },
+  {
+    "COLUMNA": "GAMEZ L&D CONTRATISTAS E.I.R.L",
+    "NUM": 16
+  },
+  {
+    "COLUMNA": "BORQUEZ CHAMORRO RICHARD ANIBAL",
+    "NUM": 16
+  },
+  {
+    "COLUMNA": "GAVILAN EDSON FABIAN JESUS",
+    "NUM": 16
+  },
+  {
+    "COLUMNA": "INVERSIONES CASO EIRL",
+    "NUM": 16
+  },
+  {
+    "COLUMNA": "JL ANDINO CONSULTORES Y EJECUTORES EIRL",
+    "NUM": 16
+  },
+  {
+    "COLUMNA": "CORPORACION HUANCAYO SAC",
+    "NUM": 16
+  },
+  {
+    "COLUMNA": "GRUPO EMPRESARIAL MEGAMIX SAC",
+    "NUM": 16
+  },
+  {
+    "COLUMNA": "RAMOS HUAMANI WUILMER",
+    "NUM": 15
+  },
+  {
+    "COLUMNA": "RODER LEON QUISPE",
+    "NUM": 15
+  },
+  {
+    "COLUMNA": "BLAS MERCADO SERGIO",
+    "NUM": 15
+  },
+  {
+    "COLUMNA": "ECONOFESA E.I.R.L",
+    "NUM": 15
+  },
+  {
+    "COLUMNA": "TAYPE LEDEZMA FELIPE",
+    "NUM": 15
+  },
+  {
+    "COLUMNA": "BERTHA ESPINAL DE GAMARRA",
+    "NUM": 15
+  },
+  {
+    "COLUMNA": "ZARATE ESPINOZA JUAN CARLOS",
+    "NUM": 15
+  },
+  {
+    "COLUMNA": "BORJA CCANTO DENIS JHONATHAN",
+    "NUM": 15
+  },
+  {
+    "COLUMNA": "VILLENA OCHOA YORSHYO ARTEMIO",
+    "NUM": 15
+  },
+  {
+    "COLUMNA": "JJEHOGRAN E.I.R.L",
+    "NUM": 15
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD DISTRITAL DE LEONOR HORDOÑEZ",
+    "NUM": 15
+  },
+  {
+    "COLUMNA": "MADERERA E INVERSIONES CRISTIAN E.I.R.L",
+    "NUM": 15
+  },
+  {
+    "COLUMNA": "JESUS WILFREDO AQUINO FILIO",
+    "NUM": 15
+  },
+  {
+    "COLUMNA": "JULIO CESAR ESPINAL SUAREZ",
+    "NUM": 15
+  },
+  {
+    "COLUMNA": "TRANSPORTES TESSY",
+    "NUM": 14
+  },
+  {
+    "COLUMNA": "TRANSPORTES PALOMA DAYRA S.A.C",
+    "NUM": 14
+  },
+  {
+    "COLUMNA": "ESCOBAR TORRES KENIA",
+    "NUM": 14
+  },
+  {
+    "COLUMNA": "GUTIERREZ CORILLOCLLA CINTHIA",
+    "NUM": 14
+  },
+  {
+    "COLUMNA": "ARQUIDRON E.I.R.L",
+    "NUM": 14
+  },
+  {
+    "COLUMNA": "INVERSIONES LABOON S.A.C",
+    "NUM": 14
+  },
+  {
+    "COLUMNA": "PROGRESO INDUSTRIAL CONTRATISTAS Y SERVICIOS GENERALES E.I.R.L",
+    "NUM": 14
+  },
+  {
+    "COLUMNA": "MIOMEMITA CG S.R.L",
+    "NUM": 14
+  },
+  {
+    "COLUMNA": "OSORIO HILARIO ANDERSON",
+    "NUM": 14
+  },
+  {
+    "COLUMNA": "PONGO AYAYPOMA ROSA TARCILA",
+    "NUM": 14
+  },
+  {
+    "COLUMNA": "ENTEL PERU S.A",
+    "NUM": 14
+  },
+  {
+    "COLUMNA": "CASTRO CAPCHA MARIA OLENCA",
+    "NUM": 14
+  },
+  {
+    "COLUMNA": "CERRON CARDENAS GUISSELA",
+    "NUM": 14
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD PROVINCIAL DE CURICACA",
+    "NUM": 14
+  },
+  {
+    "COLUMNA": "HUAMAN COTERA SCORT",
+    "NUM": 14
+  },
+  {
+    "COLUMNA": "SAN JUAN INVERSIONES COMERCIALES Y SERVICIOS MULTIPLES S.R.L",
+    "NUM": 14
+  },
+  {
+    "COLUMNA": "EDIFIKA CONSTRUCTORA E INMOBILIARIA E.I.R.L",
+    "NUM": 14
+  },
+  {
+    "COLUMNA": "INVERSIONES PAYANO GARCIA EIRL",
+    "NUM": 14
+  },
+  {
+    "COLUMNA": "EMPRESA DE SERVICIOS MULTIPLES VITAS EIRL",
+    "NUM": 14
+  },
+  {
+    "COLUMNA": "LADRON DE GUERVARA BASALDUA ESTELA NILDA",
+    "NUM": 13
+  },
+  {
+    "COLUMNA": "CORPORACION INVTEXSA E.I.R.L",
+    "NUM": 13
+  },
+  {
+    "COLUMNA": "CORPORACION TAIPACH",
+    "NUM": 13
+  },
+  {
+    "COLUMNA": "ALDABA INOCENTE NORMA LUZMILA",
+    "NUM": 13
+  },
+  {
+    "COLUMNA": "RAMOS SAYAS EDWIN RONALD",
+    "NUM": 13
+  },
+  {
+    "COLUMNA": "CONSTRUCTORA INFRAGROUP S.A.C",
+    "NUM": 13
+  },
+  {
+    "COLUMNA": "SINCHE CAPCHA MAXIMILIANO",
+    "NUM": 13
+  },
+  {
+    "COLUMNA": "GRUPO HUARCAYA Y PEREZ SAC",
+    "NUM": 13
+  },
+  {
+    "COLUMNA": "MESA PANDO JEAN PAUL SMITH",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "MENDOZA APARCO YURI ANGEL",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "EGAS ARROYO ABRAHAM",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "FELISA LAPA CLEMENTE",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "MAS PERNOS S.A.C",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "SOCIETY MADRID E.I.R.L",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "ROSAMEL YOBANA FERNANDEZ AGUIRRE",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "SILVIA LILIANA PEREZ RAMIREZ",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "CONSTRUCTORA INGENIEROS Y ARQUITECTOS ASESORES SANTA CRUZ S.C.R.L",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "COORPORACION Y SERVICIOS MULTIPLES DUDOO E.I.R.L",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "SACHA COSINGA JHONATAN",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "FERNANDEZ CASO JAIME LUIS",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "PEREZ MARTINEZ SILVIA LILIANA",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "CORPORACION WALDA SCRL",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "MALLMA INGAROCA WILLIAM YOEL",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "FERRUZO TORRES OSCAR PABLO",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "COTRINA ATENCIO JHON",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "INGENIEROS ASOCIADOS FYR SAC",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "JJ SAENZ PEÑA ASESORES EIRL",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "PS REAL HUANUCO EIRL",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "SECREX CIA DE SEGUROS DE CREDITO Y GARANTIAS",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "QUISPE COLLANA GEOVANA",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "CRUZ MARCAS RITA",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "TERABYTE SERVICE EIRL",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "PINTADO AGUILAR JOSE DOLORES",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "MAPFRE PERU CIA DE SEGUROS SA",
+    "NUM": 12
+  },
+  {
+    "COLUMNA": "GABRIELA FLORES",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "VELASQUEZ BRUNO LISSET SANDY",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "YAHVE MINERIA Y CONSTRUCCION E.I.R.L",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "GONZALO ROJAS BERNARD PABLO",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "VILLAR REYNA DARIO OSWALDO",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "SEAJECE EJECUTORES CONSTRUCTORES S.A.C",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "OMAR HUAMANI SALAZAR",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "ARAUCO CORDOVA LUIS ALBERTO",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "COMPU GAMING STORE E.I.R.L",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "INNOVATIVE SERVICES E.I.R.L",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "YOBERT TORO MENDOZA",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "GRUPO ECOANDINA S.A.C",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "TERESA RODRIGUEZ ZENTENO",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "ESPINOZA CRUZ CRISTHIAN JOSE",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "CENTRO MOTOR SCRL",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "ESTEBAN CAPCHA GRENIN ESTIF",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "EMPRESA ANNTA E.I.R.L",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "MEGAREX CPR RA EIRL",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "TELEFONICA DEL PERU S.A",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "ALVAREZ BARRIENTOS OSWALDO",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "LAVADO MISAYAURI ISAAC JOSUE",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "TORRES PRADO CINTHYA BEATRIZ",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "AYALA ALVAREZ LUZ",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "ESTACION DE SERVICIOS HNOS GOLSY",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "HINOSTROZA CONDORI GLADYS ZORAIDA",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "MASTER ADITIVOS QUIMICOS SAC",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "PONGO ATAYPOMA ROSA TARCILA",
+    "NUM": 11
+  },
+  {
+    "COLUMNA": "GRUPO DALIZ S.A.C",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "ECHABAUDIS MATAMOROS JORGE",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "INVERSIONES JOHALYS E.I.R.L",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "CRISTOBAL VIDAL NOE",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "VICENTE CARHUAPOMA ALIAGA",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "MIRIAM RIOS OSORIO",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "CORPORACION SAUÑI H S.C.R.L",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "RENATO MANUEL SAMANIEGO LAZO",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "VASQUEZ ORIHUELA DEYVI KEVIN",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "CAMIPPEL S.A.C",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "LUIS ANTONIO SANTIVAÑEZ CASTILLO",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "RASH PERU S.R.L",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "JESUS MONTALVO NOEI KAREN",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "TIENDAS DE COMPUTO E.I.R.L",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "MONTAÑEZ ADAMA BRYAN MARCELINO",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "CAMPOSANO SIUCE LUIS ALBERTO",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "CASTRO OSORIO GERMAN",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "CARHUAPOMA ALIAGA CARLOS",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "MEDIANA JAIME RENAN",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "LAUREANO CORDOVA RENZO JOSE",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "CORPORACION HUANCAYO S.A.C",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "FLORES CASTILLO ROXANA CATALINA",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "DYM EMPUERO CONSTRUCCION S.A.C",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "SOCIEDAD MINERA RL",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "MEZA CAJA MARKO ALFREDO",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "BENDEZU VILLAR MICHAEL PAUL",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "EQUIPOS Y MAQUINARIAS EDMIRO SAC",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "FIERROS IMAN SAC",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "ORELLANA MAURICIO YURI",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "TRACKLAYER EIRL",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "INVERSIONES DASA CORP SAC",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "INSPIRA GROUP PUBLICIDAD & IMAGEN EIRL",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "CASTRO SANABRIA JUDITH DIANA",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "IGNACIO CONSULTORES & CONSTRUCTORES SAC",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "LOGISTICA ANTEZANA SAC",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "NEGOCIACIONES ALTAGRACIA E.I.R.L",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "ECHABAUTIS NAVARRO LIDIA",
+    "NUM": 10
+  },
+  {
+    "COLUMNA": "CHAMORRO MATOS ANDRES",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "CORDOVA INGA JUAN CARLOS",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "CERRON CAJA MESIAS DARWIN",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "REPRESENTACIONES CANDYS S.R.L",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "ABOG CHARLES BONIFACIO",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "CHANCA MARTINEZ RAFAEL",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "AGREGADOS CONSTRUCCIONES Y ASFALTOS DANTON S.R.L",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "FRANCINE ORLANDO MUÑICO CROCCO",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "RAIMONDI CALDERON DE GUTARRA ROCIO",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "CAMPOS CABELLO MARIVEL",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "MARIA MEZA RAMOS",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "CONTASIC S.A",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "AG Y M CONTRATISTAS",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "JULIET KATTERINE PEREZ ALDERETE",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "MENDOZA PARIONA SONIA BERNANDINA",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "PEÑA CAMARGO POMPEYO",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "INVERSIONES JUMICAS S.R.L",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "CERRON PALACIOS JOSE CESAR ( IMPORTACIONES TELCOPY)",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "NATALY TUEROS ABREGÚ",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "HUACHUHUILLCA BARRIOS AMADOR",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "MARTINEZ LLALLI EDGAR",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "ESPINOZA ESPINAL SIMONA",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "ALVARO JESUS GOMEZ HERMOZA",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "CONSORCIO RA",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "DE LA TORRE DE LA CRUZ LENIN DANIEL",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "EMERSON VELASQUEZ VILLANUEVA",
+    "NUM": 9
+  },
+  {
+    "COLUMNA": "ROGER QUILCA CASTRO",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "CHACON ACEVEDO RICHARD DAVID",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "DIEGO JIMENEZ SALTACHIN",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "FREDY HERNANDEZ",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "CLETO CARHUAPOMA",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "JHON URBINA HUAMANI",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "BETTY ABREGU",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "TAIPE ALANIA JUAN HENRY",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "JAMP INGENIEROS S.R.L",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "KENDY ELVIZ ROJAS TORO",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "P&R MULTISERVICIOS E.I.R.L",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "DOB EXPRESS INGENIERIA & SOFTWARE S.A.C",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "JULCA CRUZ JHORZHIÑO MASSHIÑO",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "APONTE SIERRA ROBINSON EDUARDO",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "LOPEZ DELGADILLO HENRY",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "CORPORACION SETRACOM PERU S.A.C",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "WOW TEL S.A.C",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "CORDOVA ESTRADA SARA",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "CASTRO PEREZ MEYER",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "GLOBAL PRECISION INSTRUMENTS S.A.C",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "REPRESENTACIONES GENERALES ESCOBAR E.I.R.L",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "QUISPE MONTEJO MIRIAM ROSALYN",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "CORPORACION MOLISA CONSTRUCTOR S.A.C",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "MARCELINO SANCHEZ MELVER",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "LAVADO MISAYAURI JOEL GEDEON",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "MARCELIANO SANCHEZ BEETHOVEN",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "SULCARAY PINO CLARIVEL",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "ELIAS ALBERTO TUPAC YUPANQUI SOTELO",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "CARTULIN LANDEO GEAN CARLO",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "SAJECE EJECUTORES CONSTRUCTORES SAC",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "EMPRESA CONSTRUCTORA Y SERVICIOS MINEROS RJR SAC",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "AUTOMOVILES SA",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "APARCO LIMA VICTOR",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "CORPORACION MOLISA CONSTRUCTOR SAC",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "SEDAM HUANCAYO SA",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "WOW TEL SAC",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "TCR CONCRETOS & SERVICIOS EIRL",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "RAMON HAUMAN EDMI WILBER",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "GRUPO SANNY SAC",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "ZAVALA ROJAS JULIO JACINTO",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "ATIY ILLIMITE PERU SAC",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "PS REAL HUANUCO SRL",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "AQUASISTEMAS G&J S.A.C",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "CENTRO CERAMICO TITO EIRL",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "IRIARTE GONZALES BRAYAN EDGAR",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "CONSTRUCTORA & CONSULTORA UNSAR SAC",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "ANMA IMPORTACIONES EIRL",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "CARDENAS MIRANDA ELIO",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "ROMULO EDWIN HUAMAN MALLASCA",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "SILVER GEOTEC SAC",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "MARIO RODRIGO CHAMBERGO ROMAN",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "PALIAN FLORES ESYLIN",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "FIKAN INVERSIONES SAC",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "LLOCLLA LLANTOY DIANA",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "YRRAZABAL BENDEZU PAOLA KAHERINE",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "EMPRESA DE TRANSPORTE CARGO PIERO SAC",
+    "NUM": 8
+  },
+  {
+    "COLUMNA": "RODRIGUEZ CONTRERAS YACKELINE",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "ARQ RONY HUAMANI",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "SAMUEL DIAZ SUAREZ",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "LUIS TORRES SAMANIEGO",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "MARCO CUNYAS CORDOVA",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "CONSTRUCTORA Y MAQUINARIAS RODRIGUEZ",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "INVERSIONES CONSTRUCTORES RODRIGUEZ",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "DIANA CAROLINA HUAMAN RIOS",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "MEZA RAMIREZ FREDY",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "ROMERO ROJAS TEOFANES",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "TERABYTE SERVICE E.I.R.L",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "HUAYTA MAYTA IVAN LUIS",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "VISTONY COMPAÑÍA INDUSTRIAL DEL PERU S.A.C",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "TENSEGRITY INGENIERIA ESTRUCTURAL S.A.C",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "VILMA LUZ RUIZ PEREZ",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "AYDE VERONICA COTRINA MIRANDA",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD DE PAUCARA",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "TRANSPORTES LOGISTICA KAORI E.I.R.L",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "ENCOR CONSTRUCTORES S.A.C",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "JORGE LUIS QUISPE NAVARRO",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "SAMANIEGO LEIVA MARIBEL",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "CACCHI QUIROZ RAYSA SADITH",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "CALLCENTER SEGURITY S.A.C",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "AYALA GOMEZ ANDERSON",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "CONSTRUCTORA E INVERSIONES SIERRA VERDE S.A.C",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "MEJIA ARAYPOMA MERY",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "RIVAS CASTAÑEDA KELLY MARISOL",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "VALERO CHICANA PABLO AUGUSTO",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "WG DISTRIBUCIONES E.I.R.L",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "LABORTEC E.I.R.L",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "ELVIS VILLALOBOS GONZALES",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "ELVIA CASTELLARES HUAYLINOS",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "VELASQUEZ RODRIGUEZ EDUARDO PEDRO",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "CASTILLON LAYMITO CRISTIAN",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD PROVINCIAL DE PAUCARA",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "CASAS YUPANQUI HECTOR",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "DE LA CRUZ HUAMAN EDWIN WILVER",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "CONSTRUCTORA E INVERSIONES GRENALI S.A.C",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "CANCHANYA BARBOZA MARISELA",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD DISTRITAL EL CARMEN",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "REGINALDO MAYTA RAYDO",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "JJ SAENZ PEÑA ASESORES E.I.R.L",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "IMPORTACIONES PEREZ SAC",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "EMPRESA SHUMYOKY S.A.C",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "NUÑEZ BARZOLA KATTERIN ROSY",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "VILA QUISPE WILDER",
+    "NUM": 7
+  },
+  {
+    "COLUMNA": "ERNESTO GUTIERREZ ZUASNAVAR",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "MEDINA CORILLOCLLA DEYBI",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "ANGEL DANILO TRAVERZO",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "ARMANDO PALACIOS SANTOS",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "CARLA BALTAZAR MIRANDA",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "RUBEN RODRIGUEZ HUALI",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "MICHAEL PAUL BENDEZU(LABORATORIO CONCRET - LAB 360 ENSAYOS Y SOLUCIONES EN INGENIERIA)",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "SANDRO BARRIENTOS CHOCCATA",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "JEREMIAS QUISPE",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "DANIEL VALENTIN",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "PAREDES LAURA YESENIA GRACIELA",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "INVERSIONES EL MAESTRO E.I.R.L",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "CONCRETOS Y MARMOLES PERALTA",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD DE LEONOR ORDOÑEZ",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "GRUPO FERNANDEZ H & H S.A.C",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "INVERSIONES CHOLO S.A.C",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "ESPINOZA DIAZ JHORDY",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "MERLY MARGOTH AMARO CALERO",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "SALAZAR ROCA MERCEDES GAUDENCIA",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "DE LA CRUZ ROMAN JUANA",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "REPRESENTACIONES GENERALES AROTOMA E.I.R.L",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "CLINICA ORTEGA S.R.L",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "DE LA CRUZ GARCIA GABRIELA",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "RAMOS VILLALVA EMERSON",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "HINGTOP INGENIERIA Y TOPOGRAFIA S.A.C",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "LAPTOP CENTER S.A.C",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "ROJAS CAPCHA ALDO",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "RR & JR CONTRATISTAS Y CONSULTORES S.R.L",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "GRUPO FERROMAC E.I.R.L",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "FRANCISCA LANAZCA PEREZ",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "ASTUDILLO CORNEJO JORGE LUIS",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "ROCA RAMOS KEVIN ORLANDO",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "ROGELIO MINA MENDEZ",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "GARCIA INGA MADELEYNE",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "ROJAS TORO YOSEL ISAIAS",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "MAMAKILLA E.I.R.L",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "ECHABAUDIS NAVARRO LIDIA BEL",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "DISTRIBUIDORA ERICK S.R.L",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "RIVERA INGA HENRY LUIS",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "AMBROSIO ARTEZANO EDSON GORGE",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "QUISPE PEREZ JOSE",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "YANQUI CALDERON OMAR",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "LAZARO BUENDIA KARINA",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "DISTRIBUIDORA CUELLAR S.A.C",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "CIA EMBOTELLADORA OASIS EIRL",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "INVERSIONES SEÑOR DE ACORIA SAC",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "MATIAS CERVANTES LUIS ALBERTO",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "HYDRAMIN PERU SAC",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "INDUSTRIAS CASA ANDINA SAC",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "EMPRESA DE TRANSPORTES Y CONSTRUCCIONES SENAFER EIRL",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "RASH PERU SRL",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "GRUPO ECOANDINA SAC",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "CORPORACION ACERO AREQUIPA SA",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "AMANCIA ALBERTA RAMIREZ DE ALEJANDRO",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "KAREN ROJAS SANCHEZ",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "CAMPOS LOPEZ YSAMHAR JHORGE",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "ZETTACOM SAC",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "GRUPO VECARD SCRL",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "PERUTEST SAC",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "FLORES COMBUSTIBLE SAC",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "CORPORACION M&R SAC",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "SECREX CIA DE SEGUROS",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "EDHIVAN PERU SAC",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "HERNAN EDMUNDO ESTRELLA VITOR",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "NORMAN L&V INGENIEROS EIRL",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "QUIMICOS Y PRODUCCION SCRL",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "AMERICAN CERTIFICATION SERVICE SAC",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "GREGORIO PINO ROJAS",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "ESTEBAN AQUINO YENNI MARLENI",
+    "NUM": 6
+  },
+  {
+    "COLUMNA": "INVTEXSA SAC",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "DANIEL HANS",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "CATHERINE GONZALES",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "NILTON PAUCAR",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "SUSANA",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "RODRIGUEZ CONTRERAS ANDY",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "MEDICINA INTEGRAL PERU",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD DISTRITAL DE SAN MARCOS DE ROCCHAC",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "EMILIO PALOMINO",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "KLAFFER S.A.C",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "SGCEO MACONAV S.A.C",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "CORPORACION CALLUPE GROUP",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "GRUPO HINOSTROZA S.A.C",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "NEGOCIACIONES FERTHI S.A.C",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "CORPORACION PRUCENTRO",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "NATHFER INVERSIONES E.I.R.L",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "BANCES AQUINO CLEMENCIA ISABEL",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "BALDEON LANDEO DANNY WILFREDO",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "ELIZARES BRAÑES JHON MARVIN",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "AREQUIPA EXPRESO MARVISUR",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "AROTOMA HUAMANI PABLO",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "EDWARD QUEBEDO SANTA CRUZ",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "EXPRESO TURISMO NACIONAL",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "INVERSIONES SAN JORGE S.C.R.L",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "OSCO POMA ROSARIO GUADALUPE",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "JHOJAN SMITH ONOFRE SORDOMEZ",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "QUISPE ATAYPOMA YENI",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "CREACIONES MIMI",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "CARBAJAL CHAHUAYLA YURI JHON",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "ABAN FLORES EDUARDO LUIS",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "MADUEÑO CLAROS LISBETH ROCIO",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "TITO CUELLAR MARIO",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "COMUNIDAD CAMPESINA DE CHONGOS",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "CONSULTORA CONSTRUCTORA BUENAVENTURA E.I.R.L",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "COMUNIDAD DE LLAMAPSILLON",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "CASTRO GARAY YEHISON JOSEL",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "TRANSPORTE CALIFORNIA S.A",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "CERRON PORTA LUCIO ANDRES",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "SIND DE TRABAJADORES EN CONTRUCCION CIVIL Y ACTIVIDADES AFINES",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "GONZALES CANO BRIGHIT",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "ERNAN HUGO RAMON",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "FLORES TITO YESABELLA NATALY",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "PC SYSTEM STORE S.A.C",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "SVYN MAQUINARIAS S.C.R.L",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "POMA HUALI MAYUMI YORKA",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "HILARIO CABELLO IVETTE ZELLE",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "ALVAREZ FLORES ANIBAL ANGEL",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "SOTO ENCISO MOISES",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "INGENIEROS ASOCIADOS FYR S.A.C",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "GALINDO VELAZCO FREDY",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "IGNACIO CONSULTORES & CONSTRUCTORES S.A.C",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "LAPA ANTONIO FRANCISCO",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "GRUPO INDUSTRIAL NEIL S.A.C",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "FIBER CENTRO PERU",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "HOMECENTER PERUANOS S.A",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "VICTOR JAIRO ROMAN MUÑOZ",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "RODRIGUEZ QUISPE EDGAR JULIO",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "SOLANO PEÑA CELIA",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "VARGAS ANCALLE RAUL",
+    "NUM": 5
+  },
+  {
+    "COLUMNA": "FERROCONSTRUCCION EL CAIRO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "JANETH MENDOZA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "MENDOZA QUILCA JOAQUIN",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "CERRON INGA EDSEN JORGE",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "BUS PERU",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "CONCRELAB",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "SECOPRE E.I.R.L",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "RODRIGUEZ BENITO LORENZO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "FIOLUXLED JYC",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "JILVER MARTINEZ CHAVEZ",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "LIZ ZAPATA CALDERON",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "PAUCAR CONTRERAS IRIS",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "JUNIOR HUALPA ZARATE",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "JHON CABELLO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "COPY LIDER IMPORT E.I.R.L",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "IDEAS CAMPUS S.A.C",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "JINEZ BAQUERIZO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "CARLOS FERRUZO CAMPOS",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "GERALDINE CORDOVA ALEJANDRO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "HUANCA DE VILA JULIA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "CECY MELINA ZARATE GUILLERMO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "POMA BARRETO WALTER",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "JOSE MANUEL HERRERA TRINIDAD",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "TEODORA CHACA CARHUAZ",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "ABEL GONZALES SULLCARAY",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "CONSTRUCTORA Y CONSULTORA V&R GRUPO ROSAS",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "MELAMET S.A.C",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "LEON RAMOS PAULO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "QUIÑONEZ GARCIA ALFREDO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "HUAMAN ISIDRO ET JHERSON",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "ALDANA CONTRERAS ARNULDO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "CORPORACION SYR PERU S.A.C",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "ALEJANDRO MONTES LEDEZMA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "AUTORIDAD NACIONAL DEL AGUA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "AQUINO ESPINOZA ROCIO MARIA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "ROMARIO JERSON TORIBIO AYALA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "YPANAQUE MENA RICHARD",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "ESPALANA PACO ROLANDO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "TORRE LAZO REBECA ASTRID",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "NORMA ANGELA LIZARBE BALDEON",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "HUALLPA ARCA JENEFER",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "MULTICOPIERS S.A.C",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "GRUPO DELTRON S.A",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "CAMPOS DEL PINO SUSAN KAREN",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "HUAMANYALLI RAMOS HENRY CLAUDIO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "HOYOU S.A.C",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "CINTHYA CRISTOBAL DIAZ",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "FLORIDA INTERNACIONAL GROUP E.I.R.L",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "RODRIGUEZ FERNANDEZ CRISTIAN MAURO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "HUAMANI MENDOZA YHAN CARLOS",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "ELIZABETH ROSAS CHACPA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "JA LU IMPORTADORA FERRETERA E.I.R.L",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "VENTURO MEZA JEAN PAUL",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "VERA ROMAN MARTIN FABIO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "TURPA INGENIEROS",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "LAIME FERNANDEZ ORLANDO DANIEL",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "BERNABE CARGO EXPRESS S.A.C",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "UNITEC CORPORATION S.A.C",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "LEON REYES CLEMENTE JUAN",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "KOGASHA INGENIEROS S.A.C",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "LAZO VILLALOBOS JHON FAUSTO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD PROVINCIAL DE TAYACAJA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "INVERTEC PERU E.I.R.L",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "GUZMAN GUZMAN JUAN CARLOS",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "LOPEZ PEREZ DANIELA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "SAUL WILDER RUIZ NINANYA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "GARAY CAMARGO DOMINGO AUGUSTO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "MARTINEZ YANCAN MARIBEL TANIA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "ARISTE CALDERON ADELA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "M&A CENTER WINNERS E.I.R.L",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "ROMANI RAMOS CRIS BRUSS",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "ESTRELLA & MAYO GROUP E.I.R.L",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "GEOESTUDIOS Y LABORATORIO DE ENSAYO DE MATERIALES PARA LA CONSTRUCCION EN GENERAL Y TECNOLOGIA DEL C",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "TRANSPORTES CHINITO HERMANOS S.A.C",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "CORPORACION RECINES S.A.C",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "RAMOS CALDDERON MARIA FELICIA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "CONTRATISTAS MINEROS ADISOL E.I.R.L",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "RAMOS TAPIA VICTOR",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "CONSORCIO ANTA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "CAHUANA HIDALGO MAURINO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "VILLAR JORGE KEVIN CRHIS",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "COPIERS SERVICE SOLUCIONES S.A.C",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "JC CAMILA INVERSIONES EIRL",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "LOGISTICA ANTEZANA S.A.C",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "TAIPE LEDESMA HIDALIO PABLO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "LOBO BARZOLA BEATRIZ FORTUNATA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "MAPFRE PERU COMPAÑÍA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "NEGOCIOS Y SERVICENTRO MELGAR SAC",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "GAMBOA PARI ELIAS MOISES",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "SOTO ESCOBAR FELICITA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "INVERSIONES G&S CONSTRUCCION Y MINERIA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "KEPLER RENTAL EIRL",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "CORPORACION RIO BRANCO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "ARANDA CANAHUALPA DANILO SANTIAGO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "BELLO AYLLON MELITON",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD DE CAJAS",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "S. G. C. E. O. MACONAV SAC",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "CORPORATIVO MMS EIRL",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD DE SAN AGUSTÍN",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "ANGEL ROSALES BASTIDAS",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "MASLIK STEEL SAC",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "CORPORACION ROCAP SAC",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "GERENCIA GENERAL",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "SANITAS PERU SA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "CONCRETOS Y MARMOLES PERALTA CONSTRUCTORA EIRL",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD DISTRITAL DE SAN LORENZO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "LAURENTE SANTOS JESSICA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "SGCEO MACONAV SAC",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "MULTICOPIERS SAC",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "SIMON ORNETA ORIOL NELSON",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "VASQUEZ CCHENCHO ARAIDA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "ALVARO PONCE POLINARIO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "WILBER RICHARD HUAMAN MIRANDA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "EDUCAVANZA IZZUI EIRL",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "ALEJANDRO BARNECHEO JANAMPA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "BENDEZU GONZALES JUANA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "GEOMEDIS SAC",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "NICOLL PERU SA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "BUILDERS TROOP MAQUINARIAS & INGENIERIA SAC",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "ORE ORE MADELEINE EDITH",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "CORPORACION PANCAN EIRL",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "EMPRESA CONSTRUCTORA Y MULTISERVICIOS KALISOOF EIRL",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "PROYECTOS SMART JOMARI SRL",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "DC & L COAMISEG SAC",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "CONSTRUCTORA CONSULTORA Y MULTISERVICIOS D'LUMYX SCRL",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "MENDOZA ARISTE SONALY ANGELES",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "PALOMINO PUACAR RENZO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "IRAIDA DAVILA CHUMBES",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "OTIDIANO MARREROS DIANIRA CORAL",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "BUSINESS INVESTMENTS BARRERA EIRL",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "GRUPO BACCHOCC EIRL",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "PAUCAR ADAUTO KEVIN MARDO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "QUICHACA JUÑURICO DIEGO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "ALBERT TORIBIDO VELASCO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "FAO CONSULT SAC",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "MOTORES DIESEL ANDINOS SA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "ZAVALA PARRAGA JASMIN BEATRIZ",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "MARTINEZ CAMARENA IBSEN GERDY",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "ERICK ALBERTO VARGAS NAVARRO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "ESTACIONES SAN LUIS",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "RR & JR CONTRATISTAS Y CONSULTORES SRL",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "CAYETANO CABELLO CESAR CASSIOS",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "MAYDAM HOMECENTER EIRL",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "OBREGON RUIZ EDIL",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "RAUL HUAMAN HIDALGO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "DIAS AYALA EMILIA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "INV Y MULTISERVICIOS JK",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "C3 INGENIERIA ESPECIALIZADA SAC",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "POMAHUALI BARJA JULIO JAVIER",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "PALACIOS CAPUCHO SHAYNE CORINA",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "PECHO VILA TANIA MILAGROS",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "TUPAC YUPANQUI SOTELO ELIAS",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "HINGTOP INGENIERIA Y TOPOGRAFIA SAC",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "NOVEDADES MIL OFERTAS EIRL",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "QUISPE NAVARRO EDSON",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "HUACCACHI CARBAJAL EDER CRISOSTOMO",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "VS MULITISERVICIOS GENERALES EIRL",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "INGENIEROS CONSULTEC HR SAC",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "INVERSIONES DK PERNOS FERRETERIA Y ACEROS SAC",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "JORGE LUIS ROJAS",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "GRIFO TYG",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "NOAL GROUP SAC",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "FERRETERIA DONDE IVAN",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "FARMACIA SOCORRO SAC",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "J.R.D.",
+    "NUM": 4
+  },
+  {
+    "COLUMNA": "ALTA INGENIERIA DE CALIDAD ESPECIALIZADA E.I.R.L",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "HERNANDEZ ORIHUELA FREDY WALTER",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "GILBONIO GARAY LEONOR VANESSA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "JUAN HUAMAN",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "JACKS HUARI CORDOVA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "OFELIA ARAMBURU VIVANCO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "OFICINA ADMINISTRATIVA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "JULIO FLORES",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "GERSON BENDEZU",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CESAR HINOSTROZA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "PLASTICOS ALBERTO ESPINOZA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "PEDRO RIVERA CARDENAS",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "ALFREDO BELITO  LANDEO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "YOSEP PERALES",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "DOMINGO ROMERO GONZALES",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "ARAUJO BERAUN EVER",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CORPORACION STRUVE",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "MAGALY ÑAUPARI CALZADA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "MAGDA VELASCO SANTOS",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "HORTENCIA VELASCO GUTIERREZ",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "DORA VICAN",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "NEXTCODE S.A.C",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CANDYS FERRE IMPORT",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CGB PERU S.A.C",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CORPORACION LORENTE",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "INDERCO S.A.C",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "RONY LAPA CLEMENTE",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "HENRY HUAMANYALLI",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "SR ROYER",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "ROCIO RAIMONDI GUTARRA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "AGUA SORIA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "COAMISEG",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "RAUL CAMPOS ORELLANA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "GARY VERGARA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "MIRIAM VEGA PARRAGA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "KEVIN PAUCAR ADAUTO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "RAFAEL CHANCA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "MARTIN FLORES JAVIER",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "ANA ESTRELLA VITOR",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "PERSONAL OFICINA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "PERSONAL LOCACION",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "ROCAMO CONSTRUCTORA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "F&E CORPORACION EL ARTE",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "JULIA HUANCA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "SENAMHI",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "JUANA BENDEZU",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "DANY GUZMAN",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CALIBRATEC S.A.C",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CAMARA DE COMERCIO DE LIMA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CESAR QUISPE NOLBERTO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "DIOSER HUARCAYA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "COSTOS S.A.C",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "WILDER PAUCAR SANTIAGO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CORPORACION PRUCIL S.A.C",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "GLORIA MERMA RODRIGUEZ",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CORPORACION CRV S.A.C",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "LIZARBE QUISPE NOE",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "NOTARIA TOVAR",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "ELMER ANTONIO CABRERA CASTROZ",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "ALMACENES ALTIPLANO S.C.R.L",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "KUKIN ERICK USQUIANO USCUVILCA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "GRUPO COLOR CENTRO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "ROMULO PEREZ CAPCHA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "SOLEDAD AROTOMA MURILLOS",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "COSERCON PERU S.A.C",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "BS MAQUINARIAS",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "PEREZ CAPCHA ROMULO-DISTRIBUIDORA PEREZ",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "EXPRESO GRAEL",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "ECHEBAUTIS ESCOBAR JOSUE",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "FERNANDEZ ASCANOA RONALDO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "RIEGO AGRO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "COSME LOPEZ CESAR CARLOS",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "GJL LOGISTICA & CONSTRUCTORES",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "AYALA DAVILA CONSTANTINO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "ESTRELLA CONDORI ULDARICO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "JHONY AROTOMA MURILLOS",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "ALEJANDRA MARTINEZ AROTOMA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CHAVEZ MEJIA DANIEL BASTHIAN",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "HERMOSA TAIPE ELIZABETH",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CANTERA LOS ANGELES",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "BARZOLA SAMANIEGO ALEX DEEBBI",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CESAR CLAUDIO DEIVY JHIMY",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "VON TERRA S.A.C",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "ZAMBRANO BLANCO HAYDEE AURORA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "FERNANDEZ TOLEDO LEONCIO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "MACHUCA PALOMINO YOLANDA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "ZENTENO RAMIREZ SERGIO EDUARDO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "SIMON SOTO FREDDY RANDOLPH",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "RAMOS GASPAR ADA LIZ",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "MONDALGO GOMEZ ROCIO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CELIS ESCANDON YAZMIN MISHEL",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "GICASA E.I.R.L",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "NOEMI CRISTOBAL CACHUAN",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "EMPYOPE",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "MEDINA ROJAS REBECA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "PERUDATA CONSULT E.I.R.L",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CENTRO POBLADO DE PALACO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "ENCARNACION LUIS MARIEL ALEXANDRA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "DOMUN GROUP S.A.C",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "QUISPE BORJA FRANKLIN DEYVI",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "ANTEZANA CARGO S.A.C",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "GALVAN RAMOS PAMELA NATHALY",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "EGOAVIL AQUINO JOEL ELVIS",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "SANTIVAÑEZ ORELLANA STEVE FREDDY",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "GABY GRABEL MATEO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "MALPARTIDA FLORES NEIL ALONZO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "PACHECO PUCUHIAYLA FREDY ROLAN",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CORPORACION MASTEK S.A.C",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CANCHANYA CANAHUALPA FLUDER TITO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "LADRON DE GUEVARA BASALDUA JUAN ALCIDES",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "QORY SERVICIOS INDUSTRIALES GENERALES S.A.C",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "TORPOCO MEZA GABY ZANDY",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CORPORACION PEREZ AMD S.A.C",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "LLANTAS Y AROS IMPORTACIONES E.I.R.L",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD DE PATAMARCA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "PERULUBE S.A.C",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CALSINO CURIE ALEIDA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "AFP",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "MAITA PEREZ PAULINO ROBERTO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "QUINTANA AGUILAR ROBERTO ALFREDO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "RICHARD CAMPOS ROMANI",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "ALAYO BERRIOS LUIS ENRIQUE",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "NOEMI ESPIRITU",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CORPORACION CENTRAL EXPRESS S.R.L",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "SALAZAR CRISPIN YUDITH NAYELI",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "SMART JOMARI SRL",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "DIONISIO FLORES MARLENI",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CESAR REYMUNDO ORELLANA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "PARRAGA SOSA EDWIN FREDY",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "LARA PATILLA RUTH KELLY",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "PARTS & SERVICE JM S.A.C",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD DISTRITAL DE ÑAHUIMPUQUIO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "DENISSE ROXANA HUAMAN DANIEL",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD DISTRITAL DE ANTA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "PAUCAR PADILLA ROGER",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "QUISPE SOTO ARTURO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "FILMER VALLEJOS PEREZ",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CARMAGO MAYTA CANDY",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "ALFONSO RAMOS JAVIER REYMER",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "MULTISERVICIOS SELVA SIERRA EIRL",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "PAOLA KATHERINE YRRAZABAL BENDEZU",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "PEREZ ESTRADA DANNY EVERT",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "TORALVA VILLAVERDE GABRIELA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "KOPYMIX SAC",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CORPORACION TEMAPEL SAC",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "BACILIO VENTURA YERALDINE ROSSLIN",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "INVERSIONES SHANTA E.I.R.L",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "RODRIGUEZ HUAYTA PERCY",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CONAFOVICER JUNIO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CONSTRUCTORA SERVICIOS Y SUMINISTROS LA MARTINA S.A.C",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "MORENO MORALES MIGUEL ANGEL",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "QUISPE PEÑALOZA HOBERT JOSE",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "FERRUZO TORRES RICARDO SOCRATES",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "HOYOU SAC",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "GUTARRA ALARCON YERSON JIMMY",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "QUISPE PEREZ SONIA DORIS",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "MADERA SEBASTIAN EIRL",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CARBAJAL CHAHUAYLA LUIS ANGEL",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "COPORACION GEOMAN SAC",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CHANCADORA PIEDRA AZUL EIRL",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "PS REAL HUANUCO E.I.R.L",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "SERGIO AMBROSIO ARTEZANO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "COMUNIDAD ESMERALDA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "EMPRESA CONSTRUCTORA Y MULTISERVICIOS KALISOOF E.I.R.L",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "INVERSIONES DK SAC",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "NINAHUANCA MIGUEL ZURY",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CHUQUIMANTARI ROJAS EBELYN THALIA",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "QUISPE HUANAY VICTOR GERMAN",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "GEOLUMAS SAC",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "CONCRETOS ECOLOGICOS FC PERU SAC",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "DIESEL PART QUIÑONEZ SAC",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "WILLINGGTON JHONNY TORRES SANCHEZ",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "LAZO VILLABOS JHON FAUSTO",
+    "NUM": 3
+  },
+  {
+    "COLUMNA": "INVERSIONES GRUPO PERKAM S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "METODIO RUTTI",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "VALENCIA STEFANY",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "SERVICENTRO PALIAN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CARLA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "A & E VILLANUEVA S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ISABEL CAMAYO LAPA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "WILMER CORONEL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "EDWARD CALZADA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JUAN CARLOS LAURENTE",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JAIME FERNANDO MATIAS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "LETICIA PEREZ",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CARMEN ROMERO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "DAVID ZAMBRANO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JORGE BALVIN PEÑA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "SAUL SULLCA  LORENZO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MOLISA IMPORT",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GRAFICA CERRON",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ANDRES SULLCARAY",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MARCO,KIMI,SUSANA,YOSI",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CRISTIAN RAMOS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MEDINA CORILLOCLLA BRAYAN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PACIFICA CHAMORRO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JHEFERSON ALIAGA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "D FABRIKAS JAMI",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ERNESTO ANDRES ORTIZ ORTIZ",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JOSE HERRERA HINOSTROZA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PYS EQUIPOS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "KIMBERLY DELGADO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "KIMBERLY COTERA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "DIONICIO ESTRADA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JOSUE NAHUIN SOLANO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MARCO ANTONIO CUNTAS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ANA VELASCO GUTIERREZ",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ARAMBURU",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "IVAN BEDOYA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ELECTRO LIMA SOLUTION",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JHONNY ROMERO LINARES",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JUANCARLOS INGA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "SISTEL INGENIEROS S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JUAN BORQUEZ",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GUZMAN SANCHEZ DANNI",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GILAPATA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "KAREN ROJAS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "NICOLE OSORIO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "LUIS NAVEZ LAURA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "DIOGENES",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MARCO CANCHUCAJA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MILAGROS MUCHA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GERSON GODINO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ING LUIS ARAUCO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ESNIDER ROJAS TORO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "EQUIPO TECNICO GILAPATA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "EQUIPO TECNICO MONTECOLPA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PERSONAL MAQUINARIAS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "DAMARIS HUAROC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JHONY ALVAREZ HUAYTALLA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "DELPHIN  EXPRES",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "YANINA ARTICA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JUAN ROMERO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "RONNY CAMARENA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GUSTAVO VEGA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "EVELYN VENTURA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "DIEGO LEANDRO GABRIEL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "KATERIN ESPLANA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ISABEL QUISPE",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JHON VICTORIO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JORDAN SALINAS RIVERA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JERSON ILIZARBE",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ELVIS YANCAN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CAROLIN MALPARTIDA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CANCHANCYA BALVIN DANIEL ABRHAM",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "E-LEAN STUDIO E.I.R.L",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "REPRESENTACIONES PRISO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INDUSTRIA DE ENERGIA INCA E.I.R.L",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CLELIA  ARTEAGA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "VICTORIANO PALOMINO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INVERSIONES PERKAM",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "NOTARIA LAOS DE LAMA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "L&C MEDICAL E IMPORT",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PAOLA ACO LAZO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "VERA GROUP ART & TECHNOLOGY",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GALINDO ANTEZANA KEVIN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "LEDESMA MUNIVE MARCO ANTONIO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "TAIPE AGUIRRE YORDY",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ARANDA CUSILAYME ELIAN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "VILCA FLORES EZEQUIEL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INGENIEROS GEOTECNICOS CONTRATISTAS GENERALES",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ROXANA ROMERO LLACUA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ESTACION DE SERVICIOS ETASA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ANMA IMPORTACIONES E.I.R.L",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CARMEN MILENA CHAMORRO ACOSTA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MELVIN EDUARD ROJAS TORO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PAULINO ORELLANA ORTIZ",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "HEBER MONTES SULLCARAY",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "AGRO FERTILIZANTES MARTINEZ E.I.R.L",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "TEBAMA CONSTRUCCIONES",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MEZA BERROSPI ROY ULISES",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GAVIDIA LEON ROBERTO ELIAS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "SALAZAR SALVATIERRA ELIAN KATIUSKA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "VENERO BOCANGEL RONALD",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GUTIERREZ MARQUEZ MARCO ANTONIO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INKAFARMA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "HERRERA TRINIDAD JOSE MANUEL-CHAMELEON GRAPHIC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ERLINDA REBECA VILLANUEVA JANAMPA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ISABEL ITURRE JARA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "COTARATE TEJEDA ALEJANDRO MATIAS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PARRAGA MIGUEL RUBEN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "HUGO MUNGUIA ABREGU",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "LIZ ESTELA SERVA BELLO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "COMUNIDAD CAMPESINA DE PALACO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ZAMBRANO ZAMBRANO YUDITH ESTEFANY",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "RUTTY DELGADO LUIS ALBERTO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "VERANO SIUCE HERMER TITO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GAMATRACTOR PERU S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "TRANSPORTES & SERVICIOS HUAMAN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "SERVICIO NACIONAL METEOROLOGIA E HIDROLOGIA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "FLOR LIFONZO MUNIVE",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "A&J PEREZ  GROUP",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JHONY TORRES SANCHEZ",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "HUARANGA ARREDONDO ELOW WILDER",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PALACIOS POMA PAOLA KATHERINE",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "LIBRERÍA UNICIENCIA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MUEBLES HUANCAYO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "BERNUY RAMOS LUIS ALBERTO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "VIDAL CRISPIN MORI DELCHI",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CAMARENA DE LA CRUZ RONY ALEJANDRO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "VARGAS PALMA HAMLET",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "TIMANA SUAREZ RENAN AUGUSTO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PIO ARENAS FIDEL GUSTAVO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "HURTADO GUZMAN RAUL OCTAVIO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "DE LA CRUZ TEJADA JOSE ANTONIO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "FLORES PALACIOS CARLOS PIERO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INVERSIONES COMTEC E.I.R.L",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "AUGUSTO RUTTI MACUCACHI",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GUTIERREZ BARRETO JOHANN ANIBAL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "FREDY RAFAEL YOME",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "LAURA CURASMA GUSTAVO ABEL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MULTISERVICIOS SU",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "FALCONI TODELANO VILMA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "VICTOR MENDOZA QUISPE",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CHALCO MEZA MERY LILIANA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ASTRID TORRE",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CORPORACION DIGITAL TECHNOLOGY",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INVERSIONES Y CONTRATISTAS ECOP E.I.R.L",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INVERSIONES BRISANDY S.R.L",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MIRANDA ALVARES LESLLY",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "KSV TEC & CIENCIA S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "VASQUEZ GONZALES LUIS ANTONIO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "HUAMAN RAMOS ALMIS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PINO SOTO IBERIA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "SERVICIOS & COMERCIO BRAVO E.I.R.L",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JOAQUIN CAJAHUARINGA LUIS MIGUEL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CIPRIANO ORTEGA OLGA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "HORTUS S.A",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MARIN DIAZ MALDOZANO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "TRANSPORTES E&J UNION FLORES S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "THALIA BENITO PEREZ",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "LLANCARE QUISPE CAROL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "NAVARRO SILVA LISBETH MARILYN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "HUACHOS GRABEL DAYVE",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "HENRY CANALES PAUCAR",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "BOTICAS IP S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "HUAMAN SOTO MANUEL ANGEL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MEZA ASTURIMA EDGAR JESUS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "FREDD Y MATEO MINERIA Y CONSTRUCCION S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "TORRES ROMANI JOSE MIGUEL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "OBREGON PARRAGA EMAEL MOISES",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CARBAJAL SERRANO ABEL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ORGA RICSE EDER LORENZO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JAVIER MARCOS OCHOA TRUJILLO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CHUMBE ROMAN JEFTE BENJAMIN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "TEOFILO HUARCAYA MENESES",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "WANDER S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "UNIVERSIDAD NACIONAL DE INGENIERIA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INGA PARIONA ARON ANDERSON",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INVERSIONES DASA CORP S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ROJAS LAZO BESSY DENISSE",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ATAO ZARATE DEISY LUZ",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CHAGUA QUISPE GIOVANA ELIZABETH",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PACAHUALA MONTES ZOILA MARLENE",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "FLORES MAYTA GIOVANA CECILIA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PAPUICO CUELLAS YEFREY YEISON",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MEZA COSME PILAR CRISTINA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "VILCAHUAMAN PAUCAR DIEGO DESAID",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MULTISERVICIOS SAN ESTEBAN E.I.R.L",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "SANABRIA CONDOR DENYS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ESTRELLA ALANIA OSCAR FRANCO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CUCHI CONDOR PERCY",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MADPRO DEL PERU S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "VILCHEZ MERCADO MARGOT NORES",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MULTISERVICIOS TAXES S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PEREZ AYUNQUE FELIPE",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GRUPO EMPRESARIAL VYRZAG S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PERCY RAUL PAUCAR TURCO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PICHIULI SOBA ARICELI DIANA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ELIZABETH AMELIA VELASQEUZ ROMERO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MISAQUI PALOMINO RUBEN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "VIBRA BLOCK INTERNATIONAL CORPORATION S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "SIMON ANTONIO HUBER",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "HUAYTAPALLA BAÑOS ELICEO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "BARRA RIVERA ANTONIO ABAD",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "HIDROTEL S.C.R.L",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PALACIOS SANTOS MILAGROS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PARIONA TAIPE JOSE SAUL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "AMBROSIO PAITAN FRANCISCO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PERU RODOZ S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CHUCHON VIVANCO ISMAEL ROMEO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "IMPORTACIONES COFEPY E.I.R.L",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PARIONA MAYHUA FELIX",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ROMANI FELIX PERCY",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "UNCP",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "NARVAEZ JACINTO RAUL ALAN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ROJAS TRUJILLO ADOLFO FRANKLIN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "SALVATIERRA SACHA KAREN LIZBETH",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "NEGOCIACIONES Y SERVICENTRO MELGAR S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CORPATILLA A&B E.I.R.L",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "SERVICIOS GENERALES PJ FENIX S.C.R.L",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "FRANCO MESARES LEONIDAS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "HUAMAN CASTRO ARTURO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "TCR CONCRETOS & SERVICIOS E.I.R.L",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MINERA SEÑOR DE LUREN E.I.R.L",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "COLLACHAGUA HUAMAN JAIME ROMULO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ACEVEDO MAYTA JENNER",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CESAR CHAVEZ FLORES",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "EFRAIN MAX TAYPE SANCHEZ",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "RUIZ CARHUALLANQUI TYSON LISCANO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ECODALA E.I.R.L",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ATUNCA CAHUANA ELEAZAR",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "HUAMAN AROTOMA FRANK ANDRES",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "REAL PLAZA S.R.L",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INGENIERIA Y CONSULTORIA SAN ANTONIO S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "FEDERACION UNITARIA DE TRABAJADORES",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "EMPRESA DE ACUMULADORES INCA E.I.R.L",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GAVILAN TITO EDSON",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INVERSIONES SRGV S.R.L",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "QUISPE HUAMANI OSCAR",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CAJA CHICA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PEREZ CARBAJAL RICHARD YOEL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "COLCA TOVAR RAUL IGNACIO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GRUPO INVERSIONES SUYAN S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "FAEM RH S.R.L",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CERAMICOS UNION S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GRUPO SOCORRO SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "BRICEÑO MALLAUPOMA ESTHER EDITH",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CONSTRUCTORA CONCRETERA JYR S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "FERRETERIA MARJOBIK",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CARLOS JORGE MALLMA SOTO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "TIENDAS DEL MEJORAMIENTO DEL HOGAR",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "AMBROSIO GABRIEL MILAN GEORGE",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CORPORACION KAZUKI MERCURY E.I.R.L",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "WELLSERV PERU SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "TIRAJAYA YAURI JORGE MARCIAL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MULTISERVICIOS MELANIA EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "EDHIVAN PERU S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CORPORACION ACEROS AREQUIPA S.A",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "DYM AMPUERO CONSTRUCCION S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "YANDEL'S SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "TAYPE LEDESMA FELIPE",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INVERSIONES MANYARI ESPIRITU SCRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "SANCHEZ FIGUEROA NERY",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "AMERICAN CERTIFICATION SERVICE S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "FAEM RH SRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "AMERICA MOVIL PERU SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "BS GRUPO SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GARCIA OLIVERA JHONY RICHARD",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "TELEFONICA DEL PERU SAA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PARTS & SERVICE JM SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "TRANSPORTE CHINITO HERMANOS SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "UNIVERSO EMPRESARIAL SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CIE CONSULTORA EMPRESARIAL EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CONSTRUCCIONES GENERALES SANTIAGO APOSTOL SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "HUGHES DE PERU SRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "IMPOFER G&M SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "NEGOCIACIONES MINERAS SERMIN EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JA LU IMPORTADORA FERRETERIA EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GRUPO GRANDE SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CASABEN CONSTRUCTORA INMOBILIARIA EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CASTAÑEDA QUISPE RICARDO SAUL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CLEY AUGUSTO ARONE VELIZ",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GUTIERREZ GOMEZ RAFAEL MANUEL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PERU RODOZ SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "BALTAZAR FERNANDEZ ABNER JONATAN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INGENIERIA CONSULTORIA Y CAPACITACION SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "SOPORTES E INVERSIONES MAYRA SRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GRUPO TORRES",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MATERIALES EN GENERAL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "SERVICIOS GENERALES IMPORTACIONES MUNDO MOTOS SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CORPMING SCRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "DISTRIBUIDORA FERREIMPORT HM SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "IZAGUIRRE MATAMOROS JUAN EFRAIN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PICAHRDO HUACHUPOMA CARMEN SUSANA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CAPCHA GARCIA MERY",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "NEXTCODE SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CAMPOSANO ROMAN DOMINGO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ESCUELA DE FORMACION Y DESARROLLO ESID EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ATIY ILLIMITE EPRU SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CIA STALEX SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INVERSIONES MAGA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INDUSTRIAS DEL ACERO JHOPEN SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "POLINPLAST SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "SITOP SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "FERRETERIA VICFOR SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ISIDRO CORDERO JULIO CESAR",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PEDRO SINCHE LUCHAS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "HUAROCC CORIS HERMINIA GREGORIA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "VILMA ALFARO ANCALLE",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GRUPO EMMAL CONSTRUCT SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "POEEAS PUCUHUARANGA JUAN JOSE",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ARTEAGA PUCUHUAYLA JEIMY KATERIN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ERAZMO CONDORI MARCIAL JUAN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JJ SAENZ PEÑAASESORES EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PALOMINO BENITO YANET MELLAN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "LUZ VELASQUEZ RAMIRO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MUNICIAPLIDAD DISTRITAL DE TAYACAJA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ANLAY TOVAR ALEGANDRO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "DESARROLLO Y EJECUCION DE PROYECTOS E INGENIERIA SRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CONSTRUCTORA CONSULTORA Y MULTISERVICIOS DLUMYX SCRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ARACELI MARIELA CAMARENA Y RODRIGUEZ",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CASO TORRES ANGEL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "TOUR FERKAR SCRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "WILLIAM ALBERTO CAMAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CRECER SEGUROS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "VICENTE ROJAS ALEJANDRO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JUAN ENRIQUEZ PEROCA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "KEVIN QUILDER MENDEZ RAMOS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MARIA ELENA IZARRA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MARTINEZ CAMARENA IBSEN Y MALDONADO CHAVEZ ROBERTO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CAPCHA GARCIA VDA DE SANTOS MERY",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "EULOGIO IZAGUIRRE ORTEGA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ARIAS AQUINO SANDRA ROSY",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CERRON DE LA CRUZ EDER",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GRUPO FERNA SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INVERSIONES FERRECAT SRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "NEGOCIACIONES JAKAR SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "TITO CUELLAS MARIO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GALA ESCOBAR JEREMIAS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CANCHARI VELIZ OSCAR RICHARD",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INVERSIONES CTOVAR EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CORPORACION GRAFICA EMPAPELARTE EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CUELLAR TORRES MAGDALENA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ESPINOZA ASTO JUAN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MAS PERNOS SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PALLARCO CASTRO CRISTIAN MAX",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CAJACHAGUA JACAY ROBERTO OLIVER",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "BORJA GUTARRA WILLIAM GABRIEL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CARLOS RAUL FERRUZO TORRES",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MAURO YORI CCENTE",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD DISTRITAL DE INGENIO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "TORRES ARTEAGA SRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ACEVEDO CAJAMALQUI JANNET GIOVANA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CARBAJAL CAHUAYLA LUIS ANGEL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PUCALLPA EXPRESS ORIENTE EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "FLORES ESPINAL BRIAN DAVID",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GRIFO JOSE OLAYA EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INDUSTRIA DE ENERGIA INCA EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GASPAR POMACARHUA AMADEO YOOVANNY",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "YULISA ESTRADA ALVAREZ",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "DOMUN GROUP SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "HERVACIO CARTOLIN ALFREDO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "BRENER YERRI AQUINO DE LA CRUZ",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CORPORACION M&R MAQ S.A.C",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CESAR JAIME PARIONA RIVAS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ANIBAL MARTINEZ",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MAYHUA OLARTE EDGAR",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PORRAS QUISPE EMILY CAROL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CLEVER RAMOS ANAZCO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "FERNANDO ALMONACID QUISPE",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JYM SUGAR SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MANRIQUE CASTILLO JORGE ALFARO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INVERSIONES CONSTRUYE LB SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JOCIO ASTO ALVARADO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "KOPYMIX",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "SAPER FERRETERIA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "SERVICENTRO GAS LION",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "TRANSPORTES KENEDYK",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "VIRGEN DEL CARMEN NEGOCIACIONES",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ANGELICA QUICHA RIVERA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "APOLINARIO ALANYA JESUS OSWALDO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CORPORACION RENSIL SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "DISCOVER PERU TECHNOLOGIES EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ESTACION DE SERVICIO BYR EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "EXPRESO ANTEZANA HNOS SA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CASTRO SANABRIA JUDITH SANABRIA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ESTRADA TINOCO CELESTINO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JANAMPA SAYAS SARIA MARGARITA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JAYO LOZANO SANDRO LEONARDO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MARCELINO PALOMINO TAIPE",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CORPORACION MOLISA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ELVIS PARDO SALAZAR",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "FANNY MARIN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GREGORIO LANDEO CUELLAR",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MALDONADO CHAVEZ ROBERTO ELMER",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PACIFICO COMPAÑÍA DE SEGUROS Y REASEGUROS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "QUIÑONEZ REYES YANET",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JHOEL RAMSES FALCONIERY GUERRA RICRA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "TRANSPORTES EL SOLITARIO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CIE CONSULTORA SRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "AIKERS GROUP EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "EMPRESA Y CONSTRUCTORA PATALA EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "FERRETERIA LUCECITA Y ADRIK",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "FERRETERIA VARGAS ANCELLE RAUL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GRUPO CORPORATIVO CH CH CH",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INVERSIONES DIEZE HNOS SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MOLISA HOME CENTER SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GOYO YURI LEIVA PASCAUAL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "IMPORTACIONES Y SERVICIOS VILLA CELIA SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MINKA FARMA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "TORRE GABRIEL ELSA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "YESSICA RUTH PILLPA MUCHA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "AYALA GOMEZ JIMMY",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "COMPU GAMING STORE EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ELIAS POMA ALVARO MARCOS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ALCO SOLUACIONES SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CATHERINE MONICA GONZALES ORE",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "REPRESENTACIONES E INVERSIONES EDU SRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "SOLANO MOSQUERA JEANPHOLL TEODORO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MONTAÑES ADAMA BRAYAN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PAUCAR SOTO NILTON BROLY",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "SAGARVINAYA GARCIA MIGUEL FLORENCIO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "SALAZAR ROJAS FIDEL NESTOR",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "BACA DE LA CRUZ RONALD HERLINDO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CENTRO FERRETERO JB",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CONGORA SANCHEZ JHAIR JEYSON",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "AGUILAR LOZANO MARIA AGUSTINA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MACEDO IHURAQUI CARLOS FIDEL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "NULEZ CORILLOCLLA MIGUEL DARIO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ORE MEZA GERARDO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "QUISPE SULLCARAY JUAN ISMAEL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "RAMOS RIVERA ORINSON WILDER",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ZEVALLOS RAMOS ZENAIDA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INVERSIONES Y SERVICIOS ESYL EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PASTRO LANAZCA LUZ",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ZERO TIER",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CORPORACION JIMENES LYD",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ER & G CONTRATISTAS SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "FULL PLOTEOS DISEÑO & PUBLICIDAD",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ANCHIPAICO ARROYO JHONNY",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CARLOS JORGE MALLAMA SOTO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "EMPRESA LINTUR SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "FERRETERIAS CANDY",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PAOLA IRRAZABAL BENDEZU",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PAYTAN CUBA MARCOS MARIANO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "RODRIGUEZ CONTRERAS ANDY YEFERSON",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "SANCHEZ YAURI BLENDA TEODOLINDA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "VOCATI CORP SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ZUÑIGA HINOSTROZA KARIN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "UTOD AROTOMA EDWIN JESUS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GUTIERREZ CANTO PRISSILA KATU",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INVERSIONES Y AMP REPRESENTACIONES JJY EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ALPS PRIME SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "BOTICA SOCORRO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "COPIERS SERVICE SOLUCIONES SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CORPORACION CENTRAL EXPRESS SRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CRISOSTOMO CARDENAS CARLOS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INGENIERIA LPL EMPRESA CONSTRUCTORA SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "N Y ML CONSULTORES Y EJECUTORES SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PENSION",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INGENIERIA E INVERSIONES ESCOBAR EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "SALAS MUCHA DANM YARSI",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "AUTOMOTRIZ ROBLES",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CANCHANYA BALVIN DANIEL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "EXTINTORES SEGURITEX",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "FERRETERIA MILAN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MENA TARAZONA AUGENIA DOMINGA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "OBREROS NO PLANILLA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "OBREROS PLANILLA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "TOPALAYA ZANABRIA ABEL ABRHAN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CABLE COFEE TV",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "EMPRESA CHUMYOKY SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ZARATE RIVAS ANIAL SAUL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MIOMENITA CG SRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "KEPLER BRAHAM EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "LMKZ INVERSIONES EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ORELLANA HUAYNALAYA DANIEL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CARLOS ENRIQUE CURASI ÑAUPARI",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CANCHANYA BARZOLA MARISELA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CASTRO ARIAS BRIAN YILMER",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ANDY JEFFERSON RODRIGUEZ CONTRERAS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CHAVEZ MEJIA DANIEL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "FERRETERIA EL DORADO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INNOVA INGENIEROS SAMMA EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MEMORY KNGS PERUS SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INVERSIONES RODRIZ EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JURADO ESTRADA ERIK ADAM",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CONTRATISTAS KUSKARISUN PERU EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "JUNTA DE REGANTES",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "LAPTOP CENTER PC SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MUNCIPALIDAD DITRITAL DE ANTA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "PALACENET SERVICIO MULTIPLES SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "TORRE FLORES JAVIER",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ALIAGA BALDEON LUIS EDGAR",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "AURIS LLACUACHAQUI RUSBEL ALEN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "DC & CONSULTORES AMBIENTALES, INGENIERIA Y SREVICIOS GENERALES",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "RAMOS GONZALES ELIZABETH TERESA",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "COPORACION ROCAP SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "GARCIA PEÑA LUCY ROCIO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INVERSIONES MANYARI ESPIRITU",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "LUBRICANTES SAN PEDRO CHAVA SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MEREGILDO PAUCAR JUAN RUBEN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ORLANDO EFRAIN ZACARIAS DIONICIO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "SIXTO PALACIOS",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "ALEJANDRO VAZQUES PONCE",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CAPCHA PAUCAR SUSAN MERCEDES",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CESAR VEGA PAJAR",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "CABAJAL CARBAJAL CARMEN MARIBEL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "DISTRIBUIDORA LEVAN",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "INGENIERIA DE LATA CALIDAD PERU SAC",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "NATFHER INVERSIONES EIRL",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "COMUNIDAD CAMPESINA DE ÑAHUIMPUQUIO",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "MAURO RODRIGUEZ VALER",
+    "NUM": 2
+  },
+  {
+    "COLUMNA": "NADIRA MALPARTIDA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "EMP TRANSP CLEMQUIS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MARCO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "YORDY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "WALTER ALVAREZ",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "DAVID ESPINOZA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "KAREN ILIZARBE CUSIHUAMAN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CARBAJAL LONDONE MERCURIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JORGE VICTORIO BASILIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LUIS LARZO ISIDRO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SCORO S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ROMMEL OLIVARES",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "EMPRESA SEGURIDAD AROTOMA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SERVISALUD",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "TABLEROS Y CORTES S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "AUGUSTO PALANTE DE LA CRUZ",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "BLADIMIR",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PAUCAR CONTRERAS HIGINIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "TAMAYO JANAMPA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CONSORCIO SACHACOTO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ELEANA MAVIL CAMPOS SOLIS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ADAIR MONTE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "BRYAN MEDINA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "KARIN ISOS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "DEYVIS RUTTI MACUCACHI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SANIEL QUISPE BENDEZU",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FRANCISCO CHAVEZ",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ARMANDO HUAMAN QUISPE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "EDITH LUQUILLAS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "RONNY MIRANDA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MARISOL APONTE BORJA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "DR JUANCARLOS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PROYECT LEIMOC S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JULIAN CAPCHA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "KAREN BOLARTE ALANIA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MIRIAM CUEVA MONTES",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "UGO COLQUI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SOTO PAREDES FERNANDO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "DENNIS TAMAYO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "INDUSTRIAL BRIMAX",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "DANIEL FERNANADEZ",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "INGENIERO OMAR SUELOS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ADELANTO COMPRA DE CAMIONETA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FERRETERIA ROSARIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "HELEN PAREJAS MORALES",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "KONKRET S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CONTABILIDAD AUDITORIA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JAROL OLAZABAL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "EDWIN GOMEZ MOLINA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "INVERS ANTONY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CORPORACION SOFIAR",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "GABRIELA CORILLA HUAMAN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MARIEL IZURRAGA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JOHANA LOPEZ BRUCIL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SEÑOR JOAQUIN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ING TAYSON",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JULIA TIZA YUPANQUI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "YUCAWA VILCA FLORES",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SERVICIOS CORPORATIVOS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JESUS CONTRERAS LAZO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ABEL CRISPIN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "IMPORTACIONES E INVERSIONES GENERALES GENERALES",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "KEVIN VENTURA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "STEFANY MUCHA MARTICORENA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "DEYBI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "NEGOCIOS Y SERVICIOS ASS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "BRYAN SURICHAQUI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "YOSI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ELECTROFERRE T MIFER",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MARIA NAHUERO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PAOLA ARIAS HILARIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ING TRAVERZO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MATIAS LAZARO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ELIZABETH ORTIZ  DE LA CRUZ",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ING SERGIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "GARY FERNANDEZ",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SUSAN PAREJAS MORALES",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LIZ EMMA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MUNI GILAPATA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LOCACION OFICINA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ANDRES GODINO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CAJA CUBA JHELZAC",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CURASMA MEDINA MAIKOL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "DELGADO DEXTRE CESAR",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ELIAN SALVATIERRA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LAURENTE ZAMBRANO JANIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "OROÑEZ MEZA KENNETH",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "EQUIPO TECNICO SINCOS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MONTECOLPA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PEDRO BARRETO BERNARDO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SOTO PAREDES ENRIQUE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PEPE SANCHEZ",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ANDRY OLIVARES",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MANUEL SAMANIEGO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "YANAC",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SACHA QUISPE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "GRUPO H&C INGENIERIA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JHON SAFORA ARROYO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "DIONISIO ORIHUELA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LUIS CORILLOCLLA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "BAYERSFARMA S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "GENERAL EQUIPAMENT",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FERNANDO ROMERO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "RUFINO CAMAYO RIVERA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JUAN MERCADO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "RONALD YANCAN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "RONALD PARCO GONZALES",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CONSULTORIA E INGENIERIA P & P",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CHEMIFABRIK",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PAGO EFECTIVO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "KARIN HERRERA-BUS PERU",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ESTEFANI MISARI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JANETH COCA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ROMERO HNOS REP GENERALES",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "INVERSIONES Y CONSTRUCCCIONES ANTONY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JEAN CARLOS DE LA CRUZ",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LABORATORIO C3",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "GRUPO EJECUTOR OBRAS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "YUREMA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LUIS NUÑEZ",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "HUGO WALTER",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ROGER MENDOZA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "NOTARIA VENERO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ROMULO VENERO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LUZ CHUQUILLANQUI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LESLY CAMPOSANO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PAUL BENDEZU",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PERSONAL LEONOR O.",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PERSONAL YANACANCHA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SUSAN CATAY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CAMILA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MANUEL GUTIERREZ",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MILAGROS LIZARRAGA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JOSEP PERALES",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "NILTON HINOSTROZA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "AMERICO RIVEROS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CESAR MEZA SOTO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ING ANDRY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "RENTA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FELIX CHALCO MEDINA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ESTEBAN ESCOBAR",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "GUSTAVO GUZMAN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LUIS RICRA RICALDI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ABRAHAM CANCHANYA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MARCOS SILVESTRE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PERSONAL ADMINISTRATIVO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "DIANA TICSE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "NILVER",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JHETSY MEZA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ALIAGA TORRES",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MABUEL INGA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ROCIO GUTARRA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ANGELA QUINTANILLA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ULISES ECHEBAUTIS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ANYELA PARIONA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ESCUELA DE ADMINISTRACION Y GESTION",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "URBANO ARCHI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "INVERSIONES Y MULTISERVICIOS B&N E.I.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "GABRIELA EGOAVIL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "DECORACIONES SOL DE ORO S.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JANETH VARGAS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MARIA YUPANQUI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SILVER RUPAY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "NORMA HUAYLINOS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "RICHARD SAFORA ARROYO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "YINA ACO LAZO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "COMUNIDAD PACCHA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "QUINCHO MOSCOSO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "YOVER CUNYAS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "GLADYS HINOSTROZA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SUSANA PARRAGA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "RONALD CATAÑO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CINTHIA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PEDRO YANCAN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "OSPINA FERRETERA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "2C CONSULTORES ESTRATEGICOS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD DISTRITAL DE YAULI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SONIA MENDOZA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LILIANA PARI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "COMERCIAL PACHECO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "HUAMAN RICO YEVAN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PARIANSULLCA QUISPE ENRIQUE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CABELLO PEREZ YESSAVEL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "HURTADO CHUCO MILAGROS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LEON SANCHEZ YEFERSON",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JULCAMANYAN CAPCHA LUIS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "COMERCIAL GRAFICA ZIBA SAY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MEZA MITMA JHEYSY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "EVER HUAYTA MAYTA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ESTACION DE SERVICIOS MANTARO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LINO TIZA FRANCISCO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MARIA ALVINO PACHECO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "OLO CHAVEZ ARZAPALO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "BANCO DE LA NACION",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "KEVIN LLACMA VALLADOLID",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MEJIA ROQUE YAJAYRA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "UNIVERSIDAD NACIONAL DEL CENTRO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "STEFANY QUISPE VINCAN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FERNANDEZ LNDOÑE CESAR",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JUNIOR CARLOS ROJAS VILCAHUAMAN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PEÑA RODRIGUEZ DANIEL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CONDORI GARCIA ANDREA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PETROGAS E.I.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LOPEZ LONDOÑE SAMIER",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FREDY MUÑICO ROJAS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "IMPRENTA NILTRONICS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LINO TIZA CARLOS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LEONCIO QUISPE RICALDI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "A&J INGENIERIA Y CONSULTORIA HQSE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FERNANDO YUPANQUI VILLAZANA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LIBRERÍA EL MAESTRO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ORLANDO CUSTODIO NAVARRO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "VLADIMIR INGA CHAVEZ-ECONEFESA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ELIZABETH RODRIGUEZ IBAÑEZ",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ARIANNA LUJAN MARTINEZ",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MILAGROS ALANIA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "RODCORP GEOTECHNICS & SOLUTIONS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SOPORTES E INVERSIONES MAYRA S.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "RUBEN ALEJANDRO PARRAGA ALEJANDRO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ALCIDES ROSAS TELLO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CANTERA DE AFIRMADO QUIKAKAN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CISMINIG FACTORY E.I.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MENM",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JHON ARTIAGUA HUAMALI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JUAN EDGAR ESPINOZA ARROYO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "WALTER DEUDOR BONIFACIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LOPEZ MINERA Y CONSTRUCCION",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "YONATAN RIVERA DIAS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "GEODESIA Y TOPOGRAFIA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "TEOFILO PALACIOS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "BERROSPI GOMEZ JUAN ANGEL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ARENAS GUILLERMO MARIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "TOLDOS Y CARPAS AVILA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "IDIMA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "EL AGUILA AMERICANO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PARCO SANCHEZ DIEGO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "COMPAÑÍA FOOD RETAIL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SURICHAQUI VILCANAUPA YANET MARIA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SANTOS SUAZNABAR JORGE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MACROTIENDAS KOKY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SILVESTRE HUARCAYA EULOGIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "TORRES GASPAR CAMILO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "INVERSIONES EHEC",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MAXIMILIANA BARRETO CELIS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "GERALDINE THEYSI ATENCIA VERDE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "BOZA DAMIAN CESAR",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "AQUINO MONTALVO LUIS ALBERTO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PLAZA VEA ORIENTE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MONTES PATIÑO MARCO ANTONIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "INGEHIDRA CONSTRUCCION Y CONSULTORIA S.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PIUCA PALIAN AYDA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MIFARMA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MARDEL DISTRIBUCIONES",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ROJAS DELGADO EMERSON",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JESUS AIRE CRISTIAN JOEL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MADERERA AYF",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ANGELA ISABEL GALLARDO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CERILA SULLCARAY CASTILLO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ANGEL ROMERO FLORES",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MAXIMO AROTOMA VARGAS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PAOLA AGUIRRE DE AZORZA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ANDRES BARRIENTOS  SULLCARAY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SANTOS TAYPE VARGAS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ELENA ALVARADO SANCHEZ",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "OSPINA CASTILLO DANIEL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "INVERSIONES FERPI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ZAMBRANO ESTEBAN RAUL MAXIMO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FERRETERIA LA PIRAMIDE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "DE LA CRUZ MORAN MARCIANA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SAMUEL ARATOMA JUÑIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ROONEY BURGOS NARRO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "RIVEROS DE LA CRUZ CANCIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MALLMA QUISPE SHIRLEY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CREACION DE CONFECCIONES",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FELIZ ARROYO RAMOS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CORPORACION FERED",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MANUEL CHUNAN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "GRABEL MATEO GUSTAVO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "EXIMPORT DISTRIBUIDORES",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "BATERIA ETNA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "DECO HOGAR",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ANGULO PARRAGA AYDEE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "DELZO CLEMENTE CIPRIANO VIRGILIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PARE RODRIGUEZ JORDAN YONER",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LICAPA PEÑA RAUL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ROMERO LOARTE VICTOR HAROLD",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MATAMORROS BENDEZU ELADIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LLACTAHUAMAN HUAMANI JHIMI SERGIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "A&P MOTORS PARTS E.I.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ANTONIO MARIN NAVARRO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "BARTOLOME ERACLIDES CRISTOBAL PECHO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LLACUA PORTA MARCELINO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LUZ CARMEN LUIS ESTRELLA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ROSALES MIRANDA JOAN ALAN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JESUS ALIAGA RUBEN JORGE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "HILARIO ZAMBRANO EDGAR MAXIMO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SULLCARAY DE LA CRUZ HECTOR",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CONDOR SHICSHI NELSON JOSE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "IVETT HILARIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "TRUJILLO BENITO ERIK JOSE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "NATALY VERONICA PEREZ PECHO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ORELLANA PAUCAR PAUL MANUEL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MOSCOSO RODRIGUEZ ISABEL ELISA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "COPIAS MARKET",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ESCENARIOS Y CARPAS RENATO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MERCEDES ROMERO MACHUCA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "DISTRIBUCIONES MULTIPLES DEL ACERO S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "INVERSIONES GARMONT S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "RAFAEL ZACARIAS WILDER IVAN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LAZARO CARRILLO JUAN JOSE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CLARO PERU",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SANCHEZ SIMEON ESTANISLAO BRADLEY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "IZAGUIRRE PARRAGA JHON",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "QUISPE GODOY DORIS NANCY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "TELCOPY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "DIAZ SUAREZ ALEX YOEL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "VEGA ANGELES ELIA ELISA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "YOLANDA CELINDA SAPAICO PEREZ",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "WALTER MELCHOR RAMOS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JARA ASCANOA ENRIQUE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ELIAS SALAZAR SILVESTRE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "AFP- HABITAT/ INTEGRA/ PTIMA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "BARRIENTOS CUADROS FERMIN DARI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "COMPUTRABAJO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "AMARO CAVERO MERLI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "QUIMIPROD S.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ZAMBRANO ALCANTARA FRANKLIN SMITH",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MEZA CHACA ELY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ELIZABETH AZORSA AGUIRRE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ROSA LOPEZ CUSI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "EMPAQUETADURAS Y OPERACIONES E.I.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MICELA MARGOT VASCO GARCIA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SANTIAGO BERROSPI INVESTMENTS S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ZAMBRANO FALCONI MARCO ANTONIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "INGENIERIA Y GALVANIZADOS E.I.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MEZA AJUÑAUPA HUDEL FELINDO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LEDESMA VILA ESPERANZA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JESUS BALBIN MIGUEL RAUL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SANDY ROBERT ROMERO SEDANO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SERVEN PERU S.C.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "QUICHCA OSPINA ADOLFO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JAVIR ALEX CACHUAN DE LA CRUZ",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "OSCE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CRUPO FERROMAC E.I.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "GRUPO FERRETERO SANDRA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FERRECOP DEL CENTRO S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MARIN RODOLFO DIAZ MANDUJANO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FABIAN QUISPE SUMILDA JESSICA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PUCHUHUARANGA VELAZCO FLY BERTY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "INVERSIONES CASO E.I.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MINA BENITES MERI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "COTRINA CABELLO DENIZ FLORA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ALMACENES CURASI E.I.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "NEGOCIACIONES MINERAS JHON E.I.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "QUIROZ MANTARI MIGUEL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MEYMA S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "YUPANQU CACERES LIDIA N",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CANDELARIO PONCE MAURA PAMELA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FULL PLOTEOS DISEÑO Y PUBLICIDAD E.I.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CRISTIAN OBER AGUIRRE ROSAS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LOPEZ DELGADILLO VICTOR RAUL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ASPHALT PERU S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LETTSY CAMONES CUTTI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CHAUPIN CALLUOER ELIAS SAVINO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "POROCARRERO DELAO DARWIN ISAAC",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SOCIOS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MCP S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "3CLICS S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ZANABRIA MEZA JHELEN GINA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "BUILDRONS S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ESTEBAN JAHUANA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CLINFOR ILIZARBE CONOVILCA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CHAVEZ PEÑA JAVIER FRANCISCO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "BENITO HUIZA CERCENIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SUYAN TOPOGRAFIA & GEODESIA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LIBER EDICTO PIMENTEL FERNANDEZ",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ZACARIAS PEÑALOZA CHOCCA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MARTINEZ GALVEZ LUIS MARTIN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ONOFRE SORDOÑEZ MAGDALENA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "OLIVARES HINOSTROZA ROMMEL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SUPERINTENDENCIA NACIONAL DE FISCALIZACION LABORAL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SKY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "IMPORTACIONES DISTRIBUIDORAS MABEL ANDREA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SND",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LLACUA VILA RUBEN CESAR",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "DANIEL VALLADOLID ACEVEDO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "INVERSIONES MONICA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SOLVIECH",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ROJAS CALDERON LUIS JESUS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SEGURA VITOR JHON WUALDO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CANO CAPCHA RAMON DAVID",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SERVICIOS INTEGRALES GALVEZ S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "GOMERO SIPION ORLANDO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "REYMUNDO ROMERO RICARDO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LIFONZO QUISPE OCTAVIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SOLICITUD DE CAJA CHICA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "KSV COPY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MALLMA CAPCHA TITO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ADANAQIE ZAMATA DALLIN JARED",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CONSORCIO CASABEN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "GRUPO EMPRESARIAL COQUITO S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CONTRATISTAS GENERALES KER E.I.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MAYTA PEREZ JESUSA CARMEN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MALDONADO FIGUEROA RICHARD ADEL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PLAZA HUINCHO KATHERINE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LARA LUIS WILLIAM CRISTOPHER",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ARANA CHAGUA GERSON WILMER",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "AYLAS AQUINO GISEL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "J CH LLANTAS E.I.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PONGO REGINALDO MARY LUZ",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CARICHAHUA SULLCARAY CENOBIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CALDERON QUISPE JUAN CLEMENTE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SAN SEBASTIAN S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JCH LLANTAS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "HUAMANI PIUCA LUZ AMALIA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "TEINNOVA PERU S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ORELLANA TELLO MIRTHA EDA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FUDEC",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MERCADO GALLARDO DE MIRANDA SARA MARISOL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CLEDIA CASAS DE LA CRUZ",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "RIVERA ARAUCO DAVID FREDY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "EDSON VILA ONOFRE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MICROSFT AZURE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "VIVANCO YACOLCA EDER STALIN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CANCHAS HUAMAN  LOLA MARIZA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CONCRETOS Y MARMOLES PERALTA CONSTRUCTORA E.I.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "YPANAQUE CHAVEZ HEIDY JACKELINE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CESAR ALEJANDRO SOTO VILLANUEVA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "VILCHEZ DUEÑAS JUNIOR FORTUNATO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "HUAMAN MALCHOR CLAVER",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MORA QUISPE MANUEL JOSE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JUAN GHERAR MEDINA ACUÑA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LADRON DE GUEVARA BASALDUA ESTELA NILDA-AGROHERRAMIENTAS GANAGRO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JUAN MEDIDA ACUÑA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "VELIZ CHUCO EMILIO MIGUEL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FLORES HUAMANI MARCOS HERMINIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SANCHEZ VAAQUEZ LUZ DOMINGA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "RASH PERU",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CERRON CONDEZO MOISES",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CANTO PEREZ JOSEPH PIERO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ROMO VILLAZANA YON",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PROMOTORES ELECTRICOS MILAGROS Y CESAR S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CALCINA LOPEZ AURELIO JHONATAN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MEMORY KINGS PERU S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "TERAN TORO DEISY CAROLINA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SANCHEZ CASQUEZ LUZ DOMINGA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "COMUNICADAD DE RETAMA ALTO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "YSLA BARTOLO JEFERSON ALBERT",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SYSCOPY PERU S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "GUTARRA ARANCEL MARISTEL CLARISA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "NEGOCIACIONES DJ ALCOCER E.I.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "GENERADOR GASOLINERO DE 100W",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SISTEMAS & TI S.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "URBANO TORRES LUIS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "AVILEZ HILARIO JAQUELINE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SANCHEZ CANCHANYA PEDRO EMILIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "INNOVACIONES SISTEMAS Y TECNOLOGIA ET S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "BENITOS FLORES RAUL RONALD",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "GOMEZ CHURAMPI SANDRA CAROLINA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "HUGO LLULLOY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SAUL WILDER WUIZ NINANYA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MENDOZA PARIONSA SONIA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SANTOS AYLAS JUNIOS IVELI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "WILLIAM CCENTE ALIAGA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FLOREZ CALLEJO JOSE CARLOD",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "NEGOCIACIONES LOS ANGELES S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MUZURRETA YUPANQUI DOMINGO VICTOR",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CAMARENA SOLIS FREDY RONALD",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SOTOMAYOR LEYVA ELVA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PANDA 12 S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "TORRES CHAMORRO SANDRO JOEL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CARMEN SEDANO NAVARRO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "COLEGIO DE INGENIEROS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CORPORACION JIMENEZ L Y D",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ROMERO RAMOS CARLOS ENRIQUE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "QUINTANAUNCHUPAICO SELMER",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PANDURO VALLES ELEAZAR",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "OSORIO HUAMAN HILARIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "VASQUEZ CULIS OSCAR EDER",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CAPCHA ALPELIMA RUBEN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FRANKLIN ROSBIL HUAROCC ROJAS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "QUIMICOS Y SERVICIOS S.C.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CRUPO DELTRON S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "VEGA TORRES NORBERTO JUAN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LAPTOPCENTER",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PEREZ ARISTE LOURDES FIORELLA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "URBANO ARTICA RAUL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CANO HINOSTROZA FIORELA MAYUMI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LAUREANO YUPANQUI JORDAN FIERRO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ROJAS ORDOÑEZ CRUZ DEL ROSARIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ARISTE PITOY GILBER LUIS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SALAS MUCHA DEMIN YERSI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "VELASCO VEGA JHON JIMY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ARQUIOLOG PROYECCION & SERVICIO EMPRESARIAL S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "INVERSIONES E IMPORTACIONES CTOVAR E.I.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "GRUPO VECARD S.C.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "RODILSON ESPINAL HUAMACTO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "I.E. Nº 327",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "GRUPO TEKCORP S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ROSALES HUARANEA MODESTO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ROJA ROMAN JAIME",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "AROTOMA JUÑA HERNAN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CORPMING S.C.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PACHECO ALBINAGORTA RAFAEL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "HUAMANI MAYTA CESAR",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FERRECAM S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FERNANDEZ FLORES ANGEL MAEL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CHUQUICHAICO VILCA EDUAES EDENSI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SIND DE TRABAJADORES EN CONSTRUCCIÓN CIVIL Y ACTIVIDADES AFINES DE LA REGION JUNÍN - VALLE DEL MANTARO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ROJAS ARONI EDELMIRO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SINCHE MANDUJANO GEORGE MILLER",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LLANCARI CCASAWILLVA EMILIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "IDIMA S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "YESICA GIOVANA HUAMAN ZAMBRANO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "NUÑEZ JULCARIMA FLAVIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CARHUMACA ESPINAL SILVESTRE VALENTIN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ESPINAL SUAREZ JACINTO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LAUREANO RODRIGUEZ BRYAN SAUL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "GRUPO COMERCIAL NILBREYAN S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ROMANI ENCISO CHARLER",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "GRUPO CEVARD S.C.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "GRUPO BACCHOCC E.I.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "NEGOCIACION MADERERA SANTA ANA E.I.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "COPY SYSTEMS E.I.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "AQUADY S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "VILLANUEVA PADILLA DANIEL LUIS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MACCGUCA AZURSA GLADYS BETTY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FLORES GUERRERO CONTRATISTAS GENERALES",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ZETTACOM S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "TMX E.I.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "QUISPE HUAMANI ROGER PAUL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "YANGALI PAUCAR ABEL TEODORO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CHOQUE UMOCC LEONCIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MOORI CAMARGO GUILLERMO HERNAN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "HYDRAMIN PERU S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FRANCO MEZARES JUAN CARLOS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "QUISPE CONDOR ALVARO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "RETAIL HUANCAYO S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CRISPIN YNA GALI JEANCRIS RALPH",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "VELITA FABIAN MICHAEL LUIS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JOVANA AMES - JAVIER CACHUAN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "QUINCHO SANTOS BERNARDO ALEJANDRO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PORRAS TEJADA GABRIEL ESTEFANO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PAULINO LOYOLA YENI/MORENO HUACCHO ROSA MARIA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "VELITA ESPINOZA CRISTHIAN ENRIQUE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ZENTENO HUAYLINOS ANDERSON DIDIE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "VILLAVERDE YARLEQUE CHRISTIAN PERCIVAL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ENCISO REGINALDO ZACARIAS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "POLINPLAST S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SANCHEZ ATAYPOMA JOSE GABRIEL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JUANY ABAD AQUINO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "INTERSEGURO COMPAÑÍA DE SEGUROS S.A",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SUNAFIL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "TACURI CUTUTUPAC MIKER",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "INNOVA INGENIEROS SAMA E.I.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "VILA PONCE LUCILA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MUNICIPALIDAD DEL CENTRO POBLADO  MENOR DE LOMA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "URETA GUERRA CELERINO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LIMA VELASQUEZ HELEN ORFELINA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SAHLOM EMPRESARIAL SAC",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CONSTRUCCIONES GENERALES SANTIAGO APOSTOL S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "COLCA TOVAR RAUL - LOCAL COMUNAL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "INDUSTRIAS & MELAMINA JHAIR E.I.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SEDAM HUANCAYO S.A",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "BONIFACIO COMPOSANO SILVIO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "BALBIN LIFONZO CARLOS JOEL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SULLCARAY PINO ANGEL JORGE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PRIMITIVA PINO ROJAS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MASLIK STEEL S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ALVAREZ YAURI YOSELA KENINA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "INVERSIONES SEÑOR DE ACORIA S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FERRECENTER COLOR R&F",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "NVERSIONES DK PERNOS, FERRETERIA Y ACEROS S.A.C.",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "DIAZ LOZANO ENMA ARACELLY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "RAMOS GALARZA LUIS MIGUEL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "IMPOFER G&M S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "COMPAÑIA INNMOBILIARIA ZUHAITZ SAC",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SOTO PEREZ YOLANDA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CONSTRUCTORES CONSULTORES SILCON SAC",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "EMPRESA DE SERVICIOS MUTIPLES JUAN AQUINO PONCE EIRL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "NANCY EDITH PARRAGA BLAS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "TIBER JOEL CANO CAMAYO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ZAGA DIESEL EIRL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ZEGA DIESEL EIRL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LAZARO CALDERON SHERMELY JULY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "DISTRIBUIDORA MARBELLA SAC",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "EULOGIO BALERIO CANCHANYA ROJAS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CHALCO BONIFACIO ADAIR AROLDI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JUSTO PAUCAR ANGELA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SANTIAGO LLACUACHAQUI CACERES",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CORPORACION VIANSI SAC",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "POMA RAMOS HONORIO TEODORO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MEDINA JAIME RENAN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FLORES CONTRERAS ANITA THANIA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CORPORACION JORPER SAC",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MIAMISOUND MACHINE SAC",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "WALTER RAMIRES CATILLA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "LIBRERIA EIRL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MAPFRE SAC",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "VASQUEZ QUISPE EDGAR",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CORPORACION GEOMAN SAC",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ALIAGA BALDEON LUIS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "TORRES CHUQUILLANQUI ANDREA SHENIFER",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "J & J CONSTRUCTORA Y MULTISERVICIOS GENERALES EIRL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FREDY OSORIO RIVERA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CHACCHI QUIROZ RAYSA SADITH",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FERRETERIA JUNIOR MAQSOL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PACHECO NUÑEZ TANIA VERONICA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "TOPALAYA ZANABRIA ABEL ABRAHAN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "RAMOS AÑAZCO CLEVER",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FLORES TORRE JUAN",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "DIAZ CUSI JORGE CESAR",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SAN JUAN INVERSIONES COMERCIALES MULTIPLES SRL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "INVERSIONES MULTIPLES JHAVE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ANIBAL LEANDRO PILLCO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "NOTARIA ELSA VICTORIA CANCHAYA SANCHEZ",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "IVETTE HILARIO CABELLO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CONSTRUCTORA Y CONCRETERA JYR S.A.C}",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MELAMET SAC",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ROCIO S. GUZMAN C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PRAVTEC SCRL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "COMERCIO SERVICIOS INTEGRALES Y TECNOLOGIAS SAC",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "EPS SEDAM HUANCAYO S.A.",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CAMPOS LOPEZ YSAMAHAR JHORGE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MEDRANO RIVERA EDGAR",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ECOANDINA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CONTRATISTA KUSKARISUN PERU EIRL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "TORPOCO APOLINARIO PABLITO RUIZ",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MALPICA APOLINARIO NANCY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JOSE ANTONIO BARBOZA ORIHUELA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "IRVING NICK GUTIERREZ HUAMANI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "NUÑEZ CUYOTUPA SANDY KATHERINE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SALAZAR CRISPIN OMAR RILDO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "FERRETERIA VEA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "OTINIANO MARREROS DIANIRA C.",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CANTO CORDOVA JHIMY MINERS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "OSWALDO ALVAREZ BARRIENTOS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "AGUILAR CONTRERAS YENCI YANIT",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CORPORACION MEDICA SAN JOSE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "REPRESENTACIONES FENIX RETAIL EIRL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ALMONACID QUISPE FERNANDO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "VARGAS CONTRERAS GEREMIA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "GRUPO EMPRESARIAL MEGAMIX S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "VASQUEZ PORRAS JANS BRANDO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CESAR IZARRA ARRECHE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MONTES TAIPE JUAN EDGAR",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ICHPAS QUISPE FELIPE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "DAMIAN YARSI SALAS MUSLIA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "COMUNIDAD LA ESMERALDA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ANIBAL MARTINEZ CALIXTO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MIOMENITA SRL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "E.S. VIRGNE DE COCHARCAS SAC",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "E.S. VIRGEN DE COCHARCAS SAC",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CASTILLO DE ATAYPOMA DINA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "NEGOCIACIONES MADERA STA ANA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JOSE YUPANQUI QUISPE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ELIO CARDENAS MIRANDA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "QUINTANA ALCOCER ROSA ISOLINA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "HERMELINDA LIMAYLA SILVA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CARHUARACRI PURIS HILDER",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ALVAREZ SOTO HAMILTHON JHOAR",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SCORP SAC",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MIOMENITA C.G. S.R.L",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "N Y ML CONSULTORES Y EJECUTORES S.A.C",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PRODUCTORA ABC SAC",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ROMERO SULLCARAY DAVID",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JL ANDINO CONSULTOR4ES Y EJECUTORES EIRL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JHERSON ROMARIO TORIBIO AYALA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CAPCHA HUARCAYA KARELY",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "REINTEGRO DE GASTOS",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "MODESTA GRANADOS VALVERDE",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CRISPIN PAPUICO ZORAIDA GRACIELA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "SULLAR EIRL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ESPINOZA CIERTA YUDI",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JEMACON ESPECIALISTAS EN CONCRETO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "OSORES ASCONA LUIS ALBERTO",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CONSTRUCTORA & CONSULTORA UNEN SARVAR SAC",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "ASTUCURI GASPAR SAMUEL",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "OCHOA CCENTE GLADYS ELIZABETH",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "PICHARDO HUACHUPOMA CARMEN SUSANA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "JULIAN HUARCAYA ESTRADA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CESCE PERU SA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "CARDENAS MERGE NAYELI FIORELLA",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "OSWALDO ESCOBAR RAMON",
+    "NUM": 1
+  },
+  {
+    "COLUMNA": "QUISPE CANCHUMONI YANET",
+    "NUM": 1
+  }
+]
