@@ -1,0 +1,142 @@
+{
+  "fecha_proceso": "2025-10-18T13:39:40.286Z",
+  "estadisticas": {
+    "total_procesados": 2172,
+    "con_coincidencia": 1111,
+    "con_coincidencia_exacta": 1109,
+    "con_coincidencia_normalizada": 2,
+    "sin_coincidencia": 1061,
+    "con_multiples_coincidencias": 21,
+    "porcentaje_coincidencia": "51.15%",
+    "porcentaje_sin_coincidencia": "48.85%"
+  },
+  "archivos_generados": [
+    "insumos_combinados.json - Todos los insumos con datos combinados",
+    "insumos_con_coincidencia.json - Solo insumos que se encontraron en Delphi",
+    "insumos_sin_coincidencia.json - Solo insumos que NO se encontraron en Delphi",
+    "no_encontrados_en_delphi.json - Lista resumida de no encontrados",
+    "reporte_combinacion.json - Este reporte"
+  ],
+  "ejemplos_no_encontrados": [
+    {
+      "CODIGO": 20096,
+      "DESCRIPCIÓN": "ABRASION ANGELES",
+      "INSUMO": "GASTOS GENERALES",
+      "DETALLE": "LABORATORIOS Y ESTUDIOS"
+    },
+    {
+      "CODIGO": 1926,
+      "DESCRIPCIÓN": "ABRAZADERA DE 200 MM",
+      "INSUMO": "MATERIALES",
+      "DETALLE": "TUBOS PVC"
+    },
+    {
+      "CODIGO": 2178,
+      "DESCRIPCIÓN": "ABRAZADERA DE 3/4 A 1/2",
+      "INSUMO": "GASTOS GENERALES",
+      "DETALLE": "GASFITERIA A"
+    },
+    {
+      "CODIGO": 2098,
+      "DESCRIPCIÓN": "ABRAZADERA DE 4",
+      "INSUMO": "MATERIALES",
+      "DETALLE": "ACERO"
+    },
+    {
+      "CODIGO": 2057,
+      "DESCRIPCIÓN": "ABRAZADERAS DE 3/8 CON PLATINA DE e = 3/8",
+      "INSUMO": "MATERIALES",
+      "DETALLE": "ACERO"
+    },
+    {
+      "CODIGO": 2058,
+      "DESCRIPCIÓN": "ABRAZADERAS DE 8 CON PLATINA DE e= 3/8",
+      "INSUMO": "MATERIALES",
+      "DETALLE": "ACERO"
+    },
+    {
+      "CODIGO": 857,
+      "DESCRIPCIÓN": "ACEITE 10W30 X 1 GL",
+      "INSUMO": "EQUIPOS",
+      "DETALLE": "EQUIPOS LIVIANOS"
+    },
+    {
+      "CODIGO": 856,
+      "DESCRIPCIÓN": "ACEITE 10W30 X 5 GL",
+      "INSUMO": "EQUIPOS",
+      "DETALLE": "EQUIPOS LIVIANOS"
+    },
+    {
+      "CODIGO": 858,
+      "DESCRIPCIÓN": "ACEITE 15W40 SIST AUT. POR 5 GL",
+      "INSUMO": "EQUIPOS",
+      "DETALLE": "EQUIPOS LIVIANOS"
+    },
+    {
+      "CODIGO": 859,
+      "DESCRIPCIÓN": "ACEITE DE MOTOR 30W-40",
+      "INSUMO": "EQUIPOS",
+      "DETALLE": "EQUIPOS LIVIANOS"
+    },
+    {
+      "CODIGO": 2113,
+      "DESCRIPCIÓN": "ACEITE HIDRAULICO",
+      "INSUMO": "EQUIPOS",
+      "DETALLE": "EQUIPOS PESADOS"
+    },
+    {
+      "CODIGO": 979,
+      "DESCRIPCIÓN": "ACEITE MOTOR PETROLERO 10W40",
+      "INSUMO": "EQUIPOS",
+      "DETALLE": "EQUIPOS LIVIANOS"
+    },
+    {
+      "CODIGO": 855,
+      "DESCRIPCIÓN": "ACEITE MULTIGRADO 20W-50",
+      "INSUMO": "EQUIPOS",
+      "DETALLE": "EQUIPOS LIVIANOS"
+    },
+    {
+      "CODIGO": 9009,
+      "DESCRIPCIÓN": "ACEITE SUPER MOTO 20W50",
+      "INSUMO": "EQUIPOS",
+      "DETALLE": "EQUIPOS PESADOS"
+    },
+    {
+      "CODIGO": 20083,
+      "DESCRIPCIÓN": "ACEITES Y GRASAS",
+      "INSUMO": "MANEJO AMBIENTAL",
+      "DETALLE": "PLAN DE MANEJO AMBIENTAL"
+    },
+    {
+      "CODIGO": 2121,
+      "DESCRIPCIÓN": "ACERO LISO 2 1/2",
+      "INSUMO": "MATERIALES",
+      "DETALLE": "ACERO"
+    },
+    {
+      "CODIGO": 764,
+      "DESCRIPCIÓN": "ACIDO MURIATICO",
+      "INSUMO": "MATERIALES",
+      "DETALLE": "UTILES DE ASEO"
+    },
+    {
+      "CODIGO": 20124,
+      "DESCRIPCIÓN": "ACONDICIONADOR DE COMB DIESEL",
+      "INSUMO": "EQUIPOS",
+      "DETALLE": "EQUIPOS PESADOS"
+    },
+    {
+      "CODIGO": 2151,
+      "DESCRIPCIÓN": "ACOPLE DE MOTOBOMBA DE 2",
+      "INSUMO": "MATERIALES",
+      "DETALLE": "HERRAMIENTAS"
+    },
+    {
+      "CODIGO": 1925,
+      "DESCRIPCIÓN": "ADAPATADOR DE 2\"",
+      "INSUMO": "MATERIALES",
+      "DETALLE": "GASFITERIA_A"
+    }
+  ]
+}

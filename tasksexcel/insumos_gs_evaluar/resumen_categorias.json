@@ -1,0 +1,79 @@
+{
+  "totalRegistros": 2172,
+  "categorias": {
+    "marcas": {
+      "total": 316,
+      "registrosConDato": 2063,
+      "registrosSinDato": 109,
+      "cobertura": "94.98%"
+    },
+    "unidades": {
+      "total": 31,
+      "registrosConDato": 2113,
+      "registrosSinDato": 59,
+      "cobertura": "97.28%"
+    },
+    "insumos": {
+      "total": 11,
+      "registrosConDato": 2172,
+      "registrosSinDato": 0,
+      "cobertura": "100.00%"
+    },
+    "detalles": {
+      "total": 71,
+      "registrosConDato": 2172,
+      "registrosSinDato": 0,
+      "cobertura": "100.00%"
+    }
+  },
+  "ejemplos": {
+    "marcas": [
+      "1",
+      "1+G2155+B2155:F2155",
+      "3M",
+      "A Y C",
+      "A2B",
+      "A4",
+      "ABRO",
+      "ACERO AREQUIPA",
+      "ACOXX",
+      "ADEX"
+    ],
+    "unidades": [
+      "BLISTER",
+      "BOL",
+      "CAJA",
+      "CIENT",
+      "CIL",
+      "CNTO",
+      "DIA",
+      "DOC",
+      "GBL",
+      "GLN"
+    ],
+    "insumos": [
+      "AUTOHORMIGONERA",
+      "EQUIPOS",
+      "GASTOS GENERALES",
+      "MANEJO AMBIENTAL",
+      "MANO DE OBRA",
+      "MANTENIMIENTO",
+      "MAQUINARIA",
+      "MAQUINARIA LIVIANA",
+      "MATERIALES",
+      "SEGURIDAD"
+    ],
+    "detalles": [
+      "ACERO",
+      "ADITIVOS",
+      "ADOQUINES",
+      "AFIRMADO",
+      "AGREGADO FINO",
+      "AGREGADO GRUESO",
+      "ALQUILER DE LOCAL",
+      "BLOQUES Y LADRILLOS",
+      "CAMAS, COLCHONES",
+      "CAMIONETA"
+    ]
+  }
+}

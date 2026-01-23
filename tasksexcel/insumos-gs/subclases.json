@@ -1,0 +1,698 @@
+[
+  {
+    "id": 1,
+    "id_subclase": "SC0000000001",
+    "codigo_subclase": 1,
+    "nombre_subclase": "SIN_SUBCLASE"
+  },
+  {
+    "id": 2,
+    "id_subclase": "SC0000000002",
+    "codigo_subclase": 2,
+    "nombre_subclase": "MANO_DE_OBRA"
+  },
+  {
+    "id": 3,
+    "id_subclase": "SC0000000003",
+    "codigo_subclase": 3,
+    "nombre_subclase": "MAQUINARIAS"
+  },
+  {
+    "id": 4,
+    "id_subclase": "SC0000000004",
+    "codigo_subclase": 4,
+    "nombre_subclase": "MATERIALES"
+  },
+  {
+    "id": 5,
+    "id_subclase": "SC0000000005",
+    "codigo_subclase": 5,
+    "nombre_subclase": "SERVICIOS"
+  },
+  {
+    "id": 6,
+    "id_subclase": "SC0000000006",
+    "codigo_subclase": 6,
+    "nombre_subclase": "ACERO"
+  },
+  {
+    "id": 7,
+    "id_subclase": "SC0000000007",
+    "codigo_subclase": 7,
+    "nombre_subclase": "ADITIVOS"
+  },
+  {
+    "id": 8,
+    "id_subclase": "SC0000000008",
+    "codigo_subclase": 8,
+    "nombre_subclase": "ADMINISTRACION"
+  },
+  {
+    "id": 9,
+    "id_subclase": "SC0000000009",
+    "codigo_subclase": 9,
+    "nombre_subclase": "ADOQUINES"
+  },
+  {
+    "id": 10,
+    "id_subclase": "SC0000000010",
+    "codigo_subclase": 10,
+    "nombre_subclase": "AFIRMADO"
+  },
+  {
+    "id": 11,
+    "id_subclase": "SC0000000011",
+    "codigo_subclase": 11,
+    "nombre_subclase": "AGREGADO_FINO"
+  },
+  {
+    "id": 12,
+    "id_subclase": "SC0000000012",
+    "codigo_subclase": 12,
+    "nombre_subclase": "AGREGADO_GRUESO"
+  },
+  {
+    "id": 13,
+    "id_subclase": "SC0000000013",
+    "codigo_subclase": 13,
+    "nombre_subclase": "AGUA"
+  },
+  {
+    "id": 14,
+    "id_subclase": "SC0000000014",
+    "codigo_subclase": 14,
+    "nombre_subclase": "ALQUILER_DE_LOCAL"
+  },
+  {
+    "id": 15,
+    "id_subclase": "SC0000000015",
+    "codigo_subclase": 15,
+    "nombre_subclase": "APARATOS_SANITARIOS"
+  },
+  {
+    "id": 16,
+    "id_subclase": "SC0000000016",
+    "codigo_subclase": 16,
+    "nombre_subclase": "ASFALTO"
+  },
+  {
+    "id": 17,
+    "id_subclase": "SC0000000017",
+    "codigo_subclase": 17,
+    "nombre_subclase": "BLOQUES_Y_LADRILLOS"
+  },
+  {
+    "id": 18,
+    "id_subclase": "SC0000000018",
+    "codigo_subclase": 18,
+    "nombre_subclase": "BLOQUES_Y_LADRILLOS"
+  },
+  {
+    "id": 19,
+    "id_subclase": "SC0000000019",
+    "codigo_subclase": 19,
+    "nombre_subclase": "CAJA_DE_AGUA"
+  },
+  {
+    "id": 20,
+    "id_subclase": "SC0000000020",
+    "codigo_subclase": 20,
+    "nombre_subclase": "CAMAS_COLCHONES"
+  },
+  {
+    "id": 21,
+    "id_subclase": "SC0000000021",
+    "codigo_subclase": 21,
+    "nombre_subclase": "CAMIONETA"
+  },
+  {
+    "id": 22,
+    "id_subclase": "SC0000000022",
+    "codigo_subclase": 22,
+    "nombre_subclase": "CAPACITACION_EN_SEGURIDAD"
+  },
+  {
+    "id": 23,
+    "id_subclase": "SC0000000023",
+    "codigo_subclase": 23,
+    "nombre_subclase": "CEMENTO"
+  },
+  {
+    "id": 24,
+    "id_subclase": "SC0000000024",
+    "codigo_subclase": 24,
+    "nombre_subclase": "CERAMICAS"
+  },
+  {
+    "id": 25,
+    "id_subclase": "SC0000000025",
+    "codigo_subclase": 25,
+    "nombre_subclase": "CERRAJERIA"
+  },
+  {
+    "id": 26,
+    "id_subclase": "SC0000000026",
+    "codigo_subclase": 26,
+    "nombre_subclase": "CONAFOVICER"
+  },
+  {
+    "id": 27,
+    "id_subclase": "SC0000000027",
+    "codigo_subclase": 27,
+    "nombre_subclase": "CONCRETO_PREMEZCLADO"
+  },
+  {
+    "id": 28,
+    "id_subclase": "SC0000000028",
+    "codigo_subclase": 28,
+    "nombre_subclase": "CUARTOS"
+  },
+  {
+    "id": 29,
+    "id_subclase": "SC0000000029",
+    "codigo_subclase": 29,
+    "nombre_subclase": "DERECHO_DE_AGUA"
+  },
+  {
+    "id": 30,
+    "id_subclase": "SC0000000030",
+    "codigo_subclase": 30,
+    "nombre_subclase": "DERECHO_DE_EXTRACCION"
+  },
+  {
+    "id": 31,
+    "id_subclase": "SC0000000031",
+    "codigo_subclase": 31,
+    "nombre_subclase": "DESMOVILIZACION"
+  },
+  {
+    "id": 32,
+    "id_subclase": "SC0000000032",
+    "codigo_subclase": 32,
+    "nombre_subclase": "DETONANTE"
+  },
+  {
+    "id": 33,
+    "id_subclase": "SC0000000033",
+    "codigo_subclase": 33,
+    "nombre_subclase": "DEVUELTOS"
+  },
+  {
+    "id": 34,
+    "id_subclase": "SC0000000034",
+    "codigo_subclase": 34,
+    "nombre_subclase": "DONACIONES"
+  },
+  {
+    "id": 35,
+    "id_subclase": "SC0000000035",
+    "codigo_subclase": 35,
+    "nombre_subclase": "ELECTRICOS"
+  },
+  {
+    "id": 36,
+    "id_subclase": "SC0000000036",
+    "codigo_subclase": 36,
+    "nombre_subclase": "EMERGENCIA_EN_SEGURIDAD"
+  },
+  {
+    "id": 37,
+    "id_subclase": "SC0000000037",
+    "codigo_subclase": 37,
+    "nombre_subclase": "EMERGENCIA_EN_SEGURIDAD"
+  },
+  {
+    "id": 38,
+    "id_subclase": "SC0000000038",
+    "codigo_subclase": 38,
+    "nombre_subclase": "ENCOFRADOS"
+  },
+  {
+    "id": 39,
+    "id_subclase": "SC0000000039",
+    "codigo_subclase": 39,
+    "nombre_subclase": "EP_COLECTIVO"
+  },
+  {
+    "id": 40,
+    "id_subclase": "SC0000000040",
+    "codigo_subclase": 40,
+    "nombre_subclase": "EP_INDIVIDUAL"
+  },
+  {
+    "id": 41,
+    "id_subclase": "SC0000000041",
+    "codigo_subclase": 41,
+    "nombre_subclase": "EQUIPOS_DE_SEGURIDAD"
+  },
+  {
+    "id": 42,
+    "id_subclase": "SC0000000042",
+    "codigo_subclase": 42,
+    "nombre_subclase": "EQUIPOS_LIVIANOS"
+  },
+  {
+    "id": 43,
+    "id_subclase": "SC0000000043",
+    "codigo_subclase": 43,
+    "nombre_subclase": "EQUIPOS_PESADOS"
+  },
+  {
+    "id": 44,
+    "id_subclase": "SC0000000044",
+    "codigo_subclase": 44,
+    "nombre_subclase": "EQUIPOS_TOGRAFICOS"
+  },
+  {
+    "id": 45,
+    "id_subclase": "SC0000000045",
+    "codigo_subclase": 45,
+    "nombre_subclase": "ESSALUD"
+  },
+  {
+    "id": 46,
+    "id_subclase": "SC0000000046",
+    "codigo_subclase": 46,
+    "nombre_subclase": "EXPEDIENTE_ADICIONAL"
+  },
+  {
+    "id": 47,
+    "id_subclase": "SC0000000047",
+    "codigo_subclase": 47,
+    "nombre_subclase": "FLETES"
+  },
+  {
+    "id": 48,
+    "id_subclase": "SC0000000048",
+    "codigo_subclase": 48,
+    "nombre_subclase": "FONDO_DE_PENSIONES"
+  },
+  {
+    "id": 49,
+    "id_subclase": "SC0000000049",
+    "codigo_subclase": 49,
+    "nombre_subclase": "GASFITERIA_A"
+  },
+  {
+    "id": 50,
+    "id_subclase": "SC0000000050",
+    "codigo_subclase": 50,
+    "nombre_subclase": "GASFITERIA_D"
+  },
+  {
+    "id": 51,
+    "id_subclase": "SC0000000051",
+    "codigo_subclase": 51,
+    "nombre_subclase": "GASOLINA"
+  },
+  {
+    "id": 52,
+    "id_subclase": "SC0000000052",
+    "codigo_subclase": 52,
+    "nombre_subclase": "GASTOS_DE_ESTADIA"
+  },
+  {
+    "id": 53,
+    "id_subclase": "SC0000000053",
+    "codigo_subclase": 53,
+    "nombre_subclase": "GASTOS_DE_LICITACION"
+  },
+  {
+    "id": 54,
+    "id_subclase": "SC0000000054",
+    "codigo_subclase": 54,
+    "nombre_subclase": "GASTOS_DE_VISITA_OBRA"
+  },
+  {
+    "id": 55,
+    "id_subclase": "SC0000000055",
+    "codigo_subclase": 55,
+    "nombre_subclase": "GASTOS_GENERALES"
+  },
+  {
+    "id": 56,
+    "id_subclase": "SC0000000056",
+    "codigo_subclase": 56,
+    "nombre_subclase": "GENERADOR"
+  },
+  {
+    "id": 57,
+    "id_subclase": "SC0000000057",
+    "codigo_subclase": 57,
+    "nombre_subclase": "GEOMEMBRANA"
+  },
+  {
+    "id": 58,
+    "id_subclase": "SC0000000058",
+    "codigo_subclase": 58,
+    "nombre_subclase": "GERENCIA"
+  },
+  {
+    "id": 59,
+    "id_subclase": "SC0000000059",
+    "codigo_subclase": 59,
+    "nombre_subclase": "GRASA"
+  },
+  {
+    "id": 60,
+    "id_subclase": "SC0000000060",
+    "codigo_subclase": 60,
+    "nombre_subclase": "HERRAMIENTAS"
+  },
+  {
+    "id": 61,
+    "id_subclase": "SC0000000061",
+    "codigo_subclase": 61,
+    "nombre_subclase": "HERRAMIENTAS_DE_OFICINA"
+  },
+  {
+    "id": 62,
+    "id_subclase": "SC0000000062",
+    "codigo_subclase": 62,
+    "nombre_subclase": "IMPRESORA"
+  },
+  {
+    "id": 63,
+    "id_subclase": "SC0000000063",
+    "codigo_subclase": 63,
+    "nombre_subclase": "ITF"
+  },
+  {
+    "id": 64,
+    "id_subclase": "SC0000000064",
+    "codigo_subclase": 64,
+    "nombre_subclase": "LABORATORIOS_Y_ESTUDIOS"
+  },
+  {
+    "id": 65,
+    "id_subclase": "SC0000000065",
+    "codigo_subclase": 65,
+    "nombre_subclase": "LIQUIDACION_DE_OBRA"
+  },
+  {
+    "id": 66,
+    "id_subclase": "SC0000000066",
+    "codigo_subclase": 66,
+    "nombre_subclase": "LOSETA"
+  },
+  {
+    "id": 67,
+    "id_subclase": "SC0000000067",
+    "codigo_subclase": 67,
+    "nombre_subclase": "MADERA"
+  },
+  {
+    "id": 68,
+    "id_subclase": "SC0000000068",
+    "codigo_subclase": 68,
+    "nombre_subclase": "MANTENIMIENTO"
+  },
+  {
+    "id": 69,
+    "id_subclase": "SC0000000069",
+    "codigo_subclase": 69,
+    "nombre_subclase": "MONITOREO_DE_AGUA"
+  },
+  {
+    "id": 70,
+    "id_subclase": "SC0000000070",
+    "codigo_subclase": 70,
+    "nombre_subclase": "MONITOREO_DE_AIRE_Y_RUIDO"
+  },
+  {
+    "id": 71,
+    "id_subclase": "SC0000000071",
+    "codigo_subclase": 71,
+    "nombre_subclase": "MOV_TIERRAS"
+  },
+  {
+    "id": 72,
+    "id_subclase": "SC0000000072",
+    "codigo_subclase": 72,
+    "nombre_subclase": "MOVILIDAD"
+  },
+  {
+    "id": 73,
+    "id_subclase": "SC0000000073",
+    "codigo_subclase": 73,
+    "nombre_subclase": "MOVILIZACION/DESMOVILIZACION"
+  },
+  {
+    "id": 74,
+    "id_subclase": "SC0000000074",
+    "codigo_subclase": 74,
+    "nombre_subclase": "MP_ARQUELOGICO"
+  },
+  {
+    "id": 75,
+    "id_subclase": "SC0000000075",
+    "codigo_subclase": 75,
+    "nombre_subclase": "NO_PLANILLA"
+  },
+  {
+    "id": 76,
+    "id_subclase": "SC0000000076",
+    "codigo_subclase": 76,
+    "nombre_subclase": "OBRAS"
+  },
+  {
+    "id": 77,
+    "id_subclase": "SC0000000077",
+    "codigo_subclase": 77,
+    "nombre_subclase": "ORNAMENTALES"
+  },
+  {
+    "id": 78,
+    "id_subclase": "SC0000000078",
+    "codigo_subclase": 78,
+    "nombre_subclase": "PAGO_OFICINA_CENTRAL"
+  },
+  {
+    "id": 79,
+    "id_subclase": "SC0000000079",
+    "codigo_subclase": 79,
+    "nombre_subclase": "PAGO_PERSONAL"
+  },
+  {
+    "id": 80,
+    "id_subclase": "SC0000000080",
+    "codigo_subclase": 80,
+    "nombre_subclase": "PAVIMENTO"
+  },
+  {
+    "id": 81,
+    "id_subclase": "SC0000000081",
+    "codigo_subclase": 81,
+    "nombre_subclase": "PENSION"
+  },
+  {
+    "id": 82,
+    "id_subclase": "SC0000000082",
+    "codigo_subclase": 82,
+    "nombre_subclase": "PETROLEO"
+  },
+  {
+    "id": 83,
+    "id_subclase": "SC0000000083",
+    "codigo_subclase": 83,
+    "nombre_subclase": "PINTURA"
+  },
+  {
+    "id": 84,
+    "id_subclase": "SC0000000084",
+    "codigo_subclase": 84,
+    "nombre_subclase": "PLAN_DE_MANEJO_AMBIENTAL"
+  },
+  {
+    "id": 85,
+    "id_subclase": "SC0000000085",
+    "codigo_subclase": 85,
+    "nombre_subclase": "PLAN_DE_MANEJO_AMBIENTAL"
+  },
+  {
+    "id": 86,
+    "id_subclase": "SC0000000086",
+    "codigo_subclase": 86,
+    "nombre_subclase": "PLANILLAS"
+  },
+  {
+    "id": 87,
+    "id_subclase": "SC0000000087",
+    "codigo_subclase": 87,
+    "nombre_subclase": "PM_ARQUEOLOGICO"
+  },
+  {
+    "id": 88,
+    "id_subclase": "SC0000000088",
+    "codigo_subclase": 88,
+    "nombre_subclase": "POLIMEROS"
+  },
+  {
+    "id": 89,
+    "id_subclase": "SC0000000089",
+    "codigo_subclase": 89,
+    "nombre_subclase": "POLIZA_CAR"
+  },
+  {
+    "id": 90,
+    "id_subclase": "SC0000000090",
+    "codigo_subclase": 90,
+    "nombre_subclase": "POSTE_DE_CONCRETO"
+  },
+  {
+    "id": 91,
+    "id_subclase": "SC0000000091",
+    "codigo_subclase": 91,
+    "nombre_subclase": "PRIMA_DE_FIANZA"
+  },
+  {
+    "id": 92,
+    "id_subclase": "SC0000000092",
+    "codigo_subclase": 92,
+    "nombre_subclase": "PRIMAS_DE_FIANZA"
+  },
+  {
+    "id": 93,
+    "id_subclase": "SC0000000093",
+    "codigo_subclase": 93,
+    "nombre_subclase": "PROVEEDOR_LOCAL"
+  },
+  {
+    "id": 94,
+    "id_subclase": "SC0000000094",
+    "codigo_subclase": 94,
+    "nombre_subclase": "RECIBIDOS"
+  },
+  {
+    "id": 95,
+    "id_subclase": "SC0000000095",
+    "codigo_subclase": 95,
+    "nombre_subclase": "REHUBICACION_DE_POSTES"
+  },
+  {
+    "id": 96,
+    "id_subclase": "SC0000000096",
+    "codigo_subclase": 96,
+    "nombre_subclase": "RENTA_4ta_CARTEGORIA"
+  },
+  {
+    "id": 97,
+    "id_subclase": "SC0000000097",
+    "codigo_subclase": 97,
+    "nombre_subclase": "RENTA_5ta_CARTEGORIA"
+  },
+  {
+    "id": 98,
+    "id_subclase": "SC0000000098",
+    "codigo_subclase": 98,
+    "nombre_subclase": "REPUESTO"
+  },
+  {
+    "id": 99,
+    "id_subclase": "SC0000000099",
+    "codigo_subclase": 99,
+    "nombre_subclase": "RESIDUOS_SOLIDOS"
+  },
+  {
+    "id": 100,
+    "id_subclase": "SC0000000100",
+    "codigo_subclase": 100,
+    "nombre_subclase": "RETROEXCAVADORA"
+  },
+  {
+    "id": 101,
+    "id_subclase": "SC0000000101",
+    "codigo_subclase": 101,
+    "nombre_subclase": "SCTR"
+  },
+  {
+    "id": 102,
+    "id_subclase": "SC0000000102",
+    "codigo_subclase": 102,
+    "nombre_subclase": "SCTR_OBRA"
+  },
+  {
+    "id": 103,
+    "id_subclase": "SC0000000103",
+    "codigo_subclase": 103,
+    "nombre_subclase": "SENCICO"
+  },
+  {
+    "id": 104,
+    "id_subclase": "SC0000000104",
+    "codigo_subclase": 104,
+    "nombre_subclase": "SENCICO"
+  },
+  {
+    "id": 105,
+    "id_subclase": "SC0000000105",
+    "codigo_subclase": 105,
+    "nombre_subclase": "SEÑALIZACION_DE_SEGURIDAD"
+  },
+  {
+    "id": 106,
+    "id_subclase": "SC0000000106",
+    "codigo_subclase": 106,
+    "nombre_subclase": "SINDICATO"
+  },
+  {
+    "id": 107,
+    "id_subclase": "SC0000000107",
+    "codigo_subclase": 107,
+    "nombre_subclase": "SUB_CONTRATO"
+  },
+  {
+    "id": 108,
+    "id_subclase": "SC0000000108",
+    "codigo_subclase": 108,
+    "nombre_subclase": "TAPAS_DE_CONCRETO"
+  },
+  {
+    "id": 109,
+    "id_subclase": "SC0000000109",
+    "codigo_subclase": 109,
+    "nombre_subclase": "TARRAJEO"
+  },
+  {
+    "id": 110,
+    "id_subclase": "SC0000000110",
+    "codigo_subclase": 110,
+    "nombre_subclase": "TOPOGRAFIA"
+  },
+  {
+    "id": 111,
+    "id_subclase": "SC0000000111",
+    "codigo_subclase": 111,
+    "nombre_subclase": "TUBOS_PVC"
+  },
+  {
+    "id": 112,
+    "id_subclase": "SC0000000112",
+    "codigo_subclase": 112,
+    "nombre_subclase": "UTILES_DE_ASEO"
+  },
+  {
+    "id": 113,
+    "id_subclase": "SC0000000113",
+    "codigo_subclase": 113,
+    "nombre_subclase": "UTILES_DE_ESCRITORIO"
+  },
+  {
+    "id": 114,
+    "id_subclase": "SC0000000114",
+    "codigo_subclase": 114,
+    "nombre_subclase": "VEREDAS"
+  },
+  {
+    "id": 115,
+    "id_subclase": "SC0000000115",
+    "codigo_subclase": 115,
+    "nombre_subclase": "VIDA_LEY"
+  },
+  {
+    "id": 116,
+    "id_subclase": "SC0000000116",
+    "codigo_subclase": 116,
+    "nombre_subclase": "VOLQUETE"
+  }
+]

@@ -1,0 +1,452 @@
+[
+  {
+    "id": 62,
+    "fecha": "2024-03-13",
+    "numero": "000172-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-03-21 09:45:58",
+    "updated_at": "2024-05-27 16:30:33",
+    "file": "/storage/resolucion_cu/ibxbRwCycCr09wHAjDlvbxgp1eu0gXAg8MNU0Gli.pdf"
+  },
+  {
+    "id": 64,
+    "fecha": "2024-03-13",
+    "numero": "000130-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-03-21 09:55:51",
+    "updated_at": "2025-02-13 18:03:34",
+    "file": "/storage/resolucion_cu/d9DRfVVwm4RSjTr79OqQnqWDFLyoQPTdxWY07nMf.pdf"
+  },
+  {
+    "id": 69,
+    "fecha": "2024-03-13",
+    "numero": "000136-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-03-21 11:06:57",
+    "updated_at": "2024-05-27 16:30:59",
+    "file": "/storage/resolucion_cu/CwH1vxUfjfszSgo1IZEOYuJLZF1FYjb2WWNxTVSx.pdf"
+  },
+  {
+    "id": 70,
+    "fecha": "2024-03-13",
+    "numero": "000145-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-03-21 11:10:10",
+    "updated_at": "2024-05-27 16:30:49",
+    "file": "/storage/resolucion_cu/MRDZPPQ4PPSkBDV1OzgzX1U7c3aa5qbHcLN5BGyk.pdf"
+  },
+  {
+    "id": 71,
+    "fecha": "2024-03-13",
+    "numero": "000139-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-03-21 11:13:55",
+    "updated_at": "2024-05-27 16:31:11",
+    "file": "/storage/resolucion_cu/kjsifIQyXVMu0mTsJLpa4Y2xDjhpRxYGBVVCgAH4.pdf"
+  },
+  {
+    "id": 72,
+    "fecha": "2024-03-13",
+    "numero": "000140-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-03-21 11:16:32",
+    "updated_at": "2025-02-13 18:03:28",
+    "file": "/storage/resolucion_cu/dEvI6jaoBr2zGy6NXWIQrRC10gOCk2mOF0zjvXQb.pdf"
+  },
+  {
+    "id": 77,
+    "fecha": "2024-03-13",
+    "numero": "000143-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-03-21 11:29:53",
+    "updated_at": "2024-05-27 16:31:17",
+    "file": "/storage/resolucion_cu/Trd8mz1TZCoefEGm8NexNM43kKRMiiCbpcra2pWo.pdf"
+  },
+  {
+    "id": 78,
+    "fecha": "2024-03-13",
+    "numero": "000131-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-03-21 11:32:35",
+    "updated_at": "2024-05-27 16:30:13",
+    "file": "/storage/resolucion_cu/Vo0v8cn92mIi5ULQVyYvQWz5ZOOA3CdEPfxVhv1w.pdf"
+  },
+  {
+    "id": 284,
+    "fecha": "2024-05-22",
+    "numero": "001202-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-05-23 11:50:37",
+    "updated_at": "2024-05-28 08:26:58",
+    "file": "/storage/resolucion_cu/0Aeyp8fXfNliM2aBmpB8mLANtNl98acOERLcRhFo.pdf"
+  },
+  {
+    "id": 330,
+    "fecha": "2024-05-22",
+    "numero": "001132-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-05-23 16:10:25",
+    "updated_at": "2024-05-28 11:29:08",
+    "file": "/storage/resolucion_cu/Y8F2Gc7rGaXwLsnJpAot3O1h3zMBAqY9BKy2TUnZ.pdf"
+  },
+  {
+    "id": 359,
+    "fecha": "2024-05-22",
+    "numero": "001182-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-05-23 17:29:54",
+    "updated_at": "2024-05-23 17:29:54",
+    "file": "/storage/resolucion_cu/ZipisLGISn1DmjVozCSrZhOYZh4pLAPQWgXXig3y.pdf"
+  },
+  {
+    "id": 361,
+    "fecha": "2024-05-24",
+    "numero": "001184-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-05-27 09:00:35",
+    "updated_at": "2024-06-11 21:36:09",
+    "file": "/storage/resolucion_cu/EMVLTo3uP6aN9E64j5IPzTjhzd5D5XxExwK54gAO.pdf"
+  },
+  {
+    "id": 408,
+    "fecha": "2024-06-26",
+    "numero": "001579-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-07-01 09:43:24",
+    "updated_at": "2024-07-01 09:43:48",
+    "file": "/storage/resolucion_cu/6p0j4uLnlzgoHJ8NOlwRIOqPp3CXJAGr8bMmazrw.pdf"
+  },
+  {
+    "id": 421,
+    "fecha": "2024-06-26",
+    "numero": "001593-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-07-01 10:01:51",
+    "updated_at": "2024-07-01 10:01:51",
+    "file": "/storage/resolucion_cu/vSyesrK15gQMWb3iO8sOoiahwS2uIgnVmzcgj51W.pdf"
+  },
+  {
+    "id": 439,
+    "fecha": "2024-06-26",
+    "numero": "001690-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-07-01 11:48:40",
+    "updated_at": "2024-07-01 11:49:01",
+    "file": "/storage/resolucion_cu/IVOSywjCReExKwLgPKXbY0BWIGWcZY7R1XziG5L3.pdf"
+  },
+  {
+    "id": 472,
+    "fecha": "2024-07-02",
+    "numero": "001536-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-07-01 12:21:48",
+    "updated_at": "2024-07-05 08:51:58",
+    "file": "/storage/resolucion_cu/Xp6TwS9u0BMQra0prLfbMYNfjItXG9t5KOc4Qaas.pdf"
+  },
+  {
+    "id": 747,
+    "fecha": "2024-07-19",
+    "numero": "001908-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-07-30 11:29:29",
+    "updated_at": "2024-07-30 11:47:58",
+    "file": "/storage/resolucion_cu/vLerS2pPKtGyBo6mHQM73pQo85nGUHTvQdV9QqGy.pdf"
+  },
+  {
+    "id": 852,
+    "fecha": "2024-08-27",
+    "numero": "002461-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-09-02 11:28:11",
+    "updated_at": "2024-09-09 14:56:31",
+    "file": "/storage/resolucion_cu/xOO2EynqW2mjzYjQQYmjdkXBuTSByYQeRnJDWipg.pdf"
+  },
+  {
+    "id": 966,
+    "fecha": "2024-09-30",
+    "numero": "002888-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-10-02 16:03:41",
+    "updated_at": "2024-10-14 12:17:29",
+    "file": "/storage/resolucion_cu/ALK0wuwG5juZ1Ga1dET4d57NcFiBoYNwTBmh5LRc.pdf"
+  },
+  {
+    "id": 1197,
+    "fecha": "2024-11-25",
+    "numero": "003335-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-11-21 19:01:58",
+    "updated_at": "2024-12-04 14:21:58",
+    "file": "/storage/resolucion_cu/DawmbeUXyQKgTB6fbHov66vz3EvJXdplY8DOmubv.pdf"
+  },
+  {
+    "id": 1199,
+    "fecha": "2024-11-25",
+    "numero": "003336-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-11-21 19:04:40",
+    "updated_at": "2024-12-04 14:22:20",
+    "file": "/storage/resolucion_cu/BP9t6dKvYn2oGKBGia2zDdy42efvsbR6XfabiWNG.pdf"
+  },
+  {
+    "id": 1200,
+    "fecha": "2024-11-25",
+    "numero": "003337-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-11-21 19:04:43",
+    "updated_at": "2024-12-04 14:22:35",
+    "file": "/storage/resolucion_cu/LLFtkULeuNL2di04P1jcBDL1mwkqY6AdLCo4Aqhg.pdf"
+  },
+  {
+    "id": 1201,
+    "fecha": "2024-11-25",
+    "numero": "003338-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-11-21 19:05:26",
+    "updated_at": "2024-12-04 14:22:52",
+    "file": "/storage/resolucion_cu/k8GhUNmdp4BLb4SwRKFEdxcMXroVUPUXAWJ00Kcj.pdf"
+  },
+  {
+    "id": 1202,
+    "fecha": "2024-11-25",
+    "numero": "003340-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-11-21 19:06:09",
+    "updated_at": "2024-12-04 14:24:27",
+    "file": "/storage/resolucion_cu/VX6ql06N5isH3pMRLUOGEn0BSTp4Rm6Rh4h0X19Y.pdf"
+  },
+  {
+    "id": 1203,
+    "fecha": "2024-11-25",
+    "numero": "003341-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-11-21 19:07:05",
+    "updated_at": "2024-12-04 14:26:43",
+    "file": "/storage/resolucion_cu/dSR8EUJOJB4QHrVuD0fwzZLpCDsFP6P37CtDn7XK.pdf"
+  },
+  {
+    "id": 1204,
+    "fecha": "2024-11-25",
+    "numero": "003342-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-11-21 19:08:20",
+    "updated_at": "2024-12-04 14:26:59",
+    "file": "/storage/resolucion_cu/0lbxVZfCvcsILtQC1941Vg8buem1Jyja0s8xE53t.pdf"
+  },
+  {
+    "id": 1205,
+    "fecha": "2024-11-25",
+    "numero": "003339-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-11-21 19:08:41",
+    "updated_at": "2024-12-04 14:23:14",
+    "file": "/storage/resolucion_cu/px2Y9C5nJRrAf9hcAUGBLeop5O6ozR5R8Pk6aw1x.pdf"
+  },
+  {
+    "id": 1206,
+    "fecha": "2024-11-25",
+    "numero": "003343-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-11-21 19:09:30",
+    "updated_at": "2024-12-04 14:27:15",
+    "file": "/storage/resolucion_cu/2G7N9DxX5Z8fKUwbCxiG5nfl62uU54lNzZb2GJgF.pdf"
+  },
+  {
+    "id": 1207,
+    "fecha": "2024-11-25",
+    "numero": "003345-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-11-21 19:10:46",
+    "updated_at": "2024-12-04 14:28:12",
+    "file": "/storage/resolucion_cu/OTPAMx9YJnLjDNBtz9rgxylGLQVOjUn99QayR5So.pdf"
+  },
+  {
+    "id": 1208,
+    "fecha": "2024-11-25",
+    "numero": "003344-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-11-21 19:11:09",
+    "updated_at": "2024-12-04 14:27:36",
+    "file": "/storage/resolucion_cu/lMfvgSEYC6siLmrGNv7NdLFbaoDRkGNg0TaumZHR.pdf"
+  },
+  {
+    "id": 1209,
+    "fecha": "2024-11-25",
+    "numero": "003346-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-11-21 19:11:23",
+    "updated_at": "2024-12-04 14:28:35",
+    "file": "/storage/resolucion_cu/iZQSi1aJNJwecP0x5SNPIvXstmU8T3EodpZx5C2M.pdf"
+  },
+  {
+    "id": 1210,
+    "fecha": "2024-11-25",
+    "numero": "003348-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-11-21 19:12:17",
+    "updated_at": "2024-12-04 14:30:12",
+    "file": "/storage/resolucion_cu/k8nku2xqoYUcHEfridgxyfgwNFWRlJ5j1xqzLvc0.pdf"
+  },
+  {
+    "id": 1211,
+    "fecha": "2024-11-25",
+    "numero": "003347-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-11-21 19:13:00",
+    "updated_at": "2024-12-04 14:29:51",
+    "file": "/storage/resolucion_cu/h4vQQ8QiBoD7SMXvpArTLqzV1fF5VnFrnvRrsmFH.pdf"
+  },
+  {
+    "id": 1212,
+    "fecha": "2024-11-25",
+    "numero": "003349-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-11-21 19:14:03",
+    "updated_at": "2024-12-04 14:30:52",
+    "file": "/storage/resolucion_cu/slbnKuYDefZI7OKpalfP7B89UDEMNZqVfKmyAhyr.pdf"
+  },
+  {
+    "id": 1213,
+    "fecha": "2024-11-25",
+    "numero": "003351-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-11-21 19:14:41",
+    "updated_at": "2024-12-04 14:33:28",
+    "file": "/storage/resolucion_cu/k8uIGFf8kU1iCyuXRcCg3iD0Fh9kifjPoD3wMLpH.pdf"
+  },
+  {
+    "id": 1214,
+    "fecha": "2024-11-25",
+    "numero": "003350-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-11-21 19:14:48",
+    "updated_at": "2024-12-04 14:31:30",
+    "file": "/storage/resolucion_cu/HiZq7jqzxKNUtiWlsakIYd4KZ7FRXHjwaA7cyRu9.pdf"
+  },
+  {
+    "id": 1215,
+    "fecha": "2024-11-25",
+    "numero": "003353-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-11-21 19:15:25",
+    "updated_at": "2024-12-04 14:35:33",
+    "file": "/storage/resolucion_cu/h7QhXI6Mx8KsSJX2kkQqo4kDzS0JplW6WxmlNquh.pdf"
+  },
+  {
+    "id": 1216,
+    "fecha": "2024-11-25",
+    "numero": "003354-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-11-21 19:15:59",
+    "updated_at": "2024-12-04 14:48:37",
+    "file": "/storage/resolucion_cu/qdRuzK8DLoYlj8IsP5Jl8dZ952SuVmeWh0DkOyZD.pdf"
+  },
+  {
+    "id": 1217,
+    "fecha": "2024-11-25",
+    "numero": "003352-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-11-21 19:16:15",
+    "updated_at": "2024-12-04 14:34:17",
+    "file": "/storage/resolucion_cu/pVIaod1CRzKZT1Z59aav3SJRsOzKUX4ApWuvfrj9.pdf"
+  },
+  {
+    "id": 1218,
+    "fecha": "2024-11-25",
+    "numero": "003245-2024-UNDAC-D/R",
+    "estado": "0",
+    "created_at": "2024-11-22 17:52:38",
+    "updated_at": "2024-12-04 14:47:53",
+    "file": "/storage/resolucion_cu/it434yXft8SvgPS8WAlTvkonRfEx6qvUJhFgPs0m.pdf"
+  },
+  {
+    "id": 1361,
+    "fecha": "2025-01-30",
+    "numero": "000142-2025-UNDAC/R",
+    "estado": "0",
+    "created_at": "2025-02-07 09:07:10",
+    "updated_at": "2025-02-13 16:51:37",
+    "file": "/storage/resolucion_cu/Lb2L0AM79R0b1LsSSrgcAo7IeqWwD01MT9AqhUD7.pdf"
+  },
+  {
+    "id": 1362,
+    "fecha": "2025-01-30",
+    "numero": "000141-2025-UNDAC/R",
+    "estado": "0",
+    "created_at": "2025-02-07 15:15:48",
+    "updated_at": "2025-02-13 16:51:26",
+    "file": "/storage/resolucion_cu/dISJ4IF33WCPw5RuERuJywtGUZRMzh3FIjWm5O26.pdf"
+  },
+  {
+    "id": 1363,
+    "fecha": "2025-01-30",
+    "numero": "000140-2025-UNDAC/R",
+    "estado": "0",
+    "created_at": "2025-02-07 15:28:32",
+    "updated_at": "2025-02-13 16:51:19",
+    "file": "/storage/resolucion_cu/ZEtWBadnJE5cM7ty4eZUQGjM3b7fi6QXpI1DWDWk.pdf"
+  },
+  {
+    "id": 1364,
+    "fecha": "2025-01-30",
+    "numero": "000049-2025-UNDAC/R",
+    "estado": "0",
+    "created_at": "2025-02-13 16:30:41",
+    "updated_at": "2025-02-13 16:51:15",
+    "file": "/storage/resolucion_cu/JTDDezSoIY39Bw7oJIrs4BaaCTNC2G0rLd4dhsr4.pdf"
+  },
+  {
+    "id": 1365,
+    "fecha": "2025-01-30",
+    "numero": "000050-2025-UNDAC/R",
+    "estado": "0",
+    "created_at": "2025-02-13 16:31:36",
+    "updated_at": "2025-02-13 16:51:10",
+    "file": "/storage/resolucion_cu/eCC4FYQKoan5CffbWMjruM6M2jtOlKWe9Jq1bgRB.pdf"
+  },
+  {
+    "id": 1366,
+    "fecha": "2025-01-30",
+    "numero": "000051-2025-UNDAC/R",
+    "estado": "0",
+    "created_at": "2025-02-13 16:39:29",
+    "updated_at": "2025-02-13 16:48:23",
+    "file": "/storage/resolucion_cu/eEimWl9KrQromFotzRhdk088Xwbr1I0gQVHyi1lm.pdf"
+  },
+  {
+    "id": 1367,
+    "fecha": "2025-01-30",
+    "numero": "000052-2025-UNDAC/R",
+    "estado": "0",
+    "created_at": "2025-02-13 16:40:08",
+    "updated_at": "2025-02-13 16:48:15",
+    "file": "/storage/resolucion_cu/DpSPALjQOUTI8lR3Aq7oIXRFTNBme2bRO0jB8rnS.pdf"
+  },
+  {
+    "id": 1368,
+    "fecha": "2025-01-30",
+    "numero": "000053-2025-UNDAC/R",
+    "estado": "0",
+    "created_at": "2025-02-13 16:40:32",
+    "updated_at": "2025-02-13 16:48:09",
+    "file": "/storage/resolucion_cu/nEwa2tKKPbeylpVGZPvAHi0L7YdnoKqdpMS1vzub.pdf"
+  },
+  {
+    "id": 1370,
+    "fecha": "2025-01-30",
+    "numero": "000055-2025-UNDAC/R",
+    "estado": "0",
+    "created_at": "2025-02-13 16:42:01",
+    "updated_at": "2025-02-13 16:47:55",
+    "file": "/storage/resolucion_cu/M0Rs3XEMZvfuV3hXiegWQcaPnbChN0MNtTqbjlHe.pdf"
+  },
+  {
+    "id": 1381,
+    "fecha": "2025-01-30",
+    "numero": "000066-2025-UNDAC/R",
+    "estado": "0",
+    "created_at": "2025-02-13 16:57:27",
+    "updated_at": "2025-02-13 17:45:57",
+    "file": "/storage/resolucion_cu/C5tzkuye6DFQ5E6afodD8SfuUcgKq4jH67SxDAbG.pdf"
+  }
+]

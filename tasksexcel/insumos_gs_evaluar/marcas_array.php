@@ -1,0 +1,1267 @@
+<?php
+        $marcas = [
+            [
+                'nombre' => '1',
+                'estado' => 1
+            ],
+            [
+                'nombre' => '1+G2155+B2155:F2155',
+                'estado' => 1
+            ],
+            [
+                'nombre' => '3M',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'A Y C',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'A2B',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'A4',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ABRO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ACERO AREQUIPA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ACOXX',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ADEX',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'AFRICANO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'AIC - PZ',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'AKSEL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ALCOFARMA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ALIRSA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ALKHOFAR',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ALKOFARMA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ALLIANCE',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'AMAUTA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'AMERICAN BLOWER',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ANDINO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ANYPSA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'APG',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'AQUAPLAST',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ARCOIRIS',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'AREQUIPA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ARTECO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ARTESCO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ASA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ATARA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'AUGER',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'AUTOMOVILES',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'AVAL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'BANDERA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'BAUKER',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'BAYER',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'BIOCRETO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'BISA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'BLISTER',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'BLOQSOLAR',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'BOCHERINNE',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'BOCSH',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'BONELLY',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'BOSCH',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'BOSH',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'BOYA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'BREMEN',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'BTICINO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'C Y A',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'C&A',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'CANON',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'CANTERA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'CASCO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'CASET',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'CAT',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'CET',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'CHAMPION',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'CHEMA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'CHINA SHOP',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'CIELO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'CLOROX',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'COMAPE',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'COMERCIAL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'CONCYSSA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'CONTEC',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'COOLBOX',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'CORPLIM',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'CORPORATION',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'CPA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'CPP',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'CRISTAL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'CRONS',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'CROONS',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'CROWN',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'CUT',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'DAC5',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'DAEWOO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'DALTON',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'DARIZA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'DARYZA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'DENSO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'DEWALT',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'DEXSON',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'DEXTER',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'DIBAR',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'DR',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'DUPLEX',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'DURAPLAST',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'DYNAMIC',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ECOIDALA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ECOMARK',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ECONOMICO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'EINHELL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ELAMIGO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'EPSON',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ERA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'EUCALIPTO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'EUROLITE',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'FABER',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'FABER CASTELL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'FERAWY',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'FERTICORP',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'FIJI',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'FLORIDA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'FORTE',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'FOTOC',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'FSL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'GALAXYS',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'GALVANIZADO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'GARMIX',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'GENERICA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'GENERICO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'GENFAR',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'GERFOR',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'GLEEKOL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'GLOSSXS',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'GORILA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'GPR',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'GRAFI',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'GRAN TEST',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'GREAT WALL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'GRIFO GRECIA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'HALOGENURO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'HALUX',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'HATZ',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'HDD',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'HECHIZO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'HERRAGRO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'HINO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'HOLSTEN',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'HOME LIGHT',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'HONDA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'HOUSE',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'HP',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'HUAWEI WIFI',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'HUDE',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'HUGHESNET',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'HUMDOLDT',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'IMACASA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'IMPORTADO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'INDECO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'INDECO IMPORTADO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'INDEO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'INDUSTRIAL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'INTEL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'INYECTADO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'INYECTOPLAST',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'IRWIN',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ITALIKA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ITALY',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ITAP',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'IVAX',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'JACTO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'JETT',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'JRR',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'JUSTUS',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'KAISE',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'KAMASA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'KAMAX',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'KAMAZA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'KAMAZAKI',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'KATUN',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'KAZ',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'KEIHIN',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'KHOMANDER',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'KIMGTON',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'KINGCORD',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'KRAUS',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'KROSS',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'LAYCONSA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'LED STREET',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'LEVITON',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'MADERA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'MAGENTA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'MAGNUM',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'MAKITA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'MASALTA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'MAX MATIC',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'MENNEKE',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'METUSA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'METZEMBAUM',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'MIKUNI',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'MISA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'MOCOASMA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'MOD DELTA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'MONTAÑA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'MOTOROLA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'MUTLUSAN',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'NACIOANL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'NACIONAL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'NACIONAL- HECHIZO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'NASCA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'NASTIZOL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'NECO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'NEON',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'NGK',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'NICHOLSON',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'NICOLL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'NORTON',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'NOVA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'OATEY',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'OMEGA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'OPALUX',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ORANGE',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PAGODA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PANASONIC',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PAVCO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PEGAFAN',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PEGAFORTE',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PEGSA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PEN GRADO 90',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PERKINS',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PERUTEST',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PHILIP',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PHILIPS',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PINTOR',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PIONER',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PIRAMIDE',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PITBULL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PLASTI REY',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PLASTIREY',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PLATIREY',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PLYNIUM',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'POELSA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'POELSAM',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'POELSAN',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PORTUGAL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PREMIUM',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PRESTONY',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PRETUL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PRINCO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PRODAC',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PROTEC',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PTK',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'PUESTO EN OBRA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'QEP',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'QUIMICA ORIENTAL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'QUIMIOPRODUC',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'QUIMIOPRODUCT',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'QUIRURJICA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'REDLINE',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'REGENCY',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'RHINOCEROS',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ROBIN',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'SAFETY',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'SAFIRO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'SAPOLIO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'SCHNEIDER',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'SCOTCH BRITE',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'SCOTK BRINCH',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'SEGUSA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'SELLCOPR',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'SHACMAN',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'SIDER',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'SIDER PERU',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'SIGA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'SIKA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'SIN MARCA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'SK',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'SM',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'SOLARBLOCK',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'SOLE',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'SPRO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'STABY',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'STADART',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'STANDFORD',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'STANLEY',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'STEEL HARD',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'STIHL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'STRONGER',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'SUPER MOBIL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'SUPERCITO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TAI LOY',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TEKNO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TEMPS',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TERMAC',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'THORCEM',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TIERRA GEL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TIGRE',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TIMSUM',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TKL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TMF',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TOOLS',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TOPCON',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TOPEX',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TOTAL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TOTALTOOLS',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TP- LINK',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TR4',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TRAMONTINA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TREBOL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TRIDENTE',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TRODAT',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TROME',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TRUPER',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TUBOPLAST',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'TUMI',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'UND',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'UNIVERSAL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'UYUSTOOLS',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'V B',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'VAINSA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'VALMAX',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'VALVA',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'VENCEDOR',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'VINIFAN',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'VIRAL',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'VISION',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'VISTONY',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'WERKEN',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'WONPRO',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'XIAOMI',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'YALE',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'YODOC',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'YOKOPARTS',
+                'estado' => 1
+            ],
+            [
+                'nombre' => 'ZOOAGRO',
+                'estado' => 1
+            ]
+    ])

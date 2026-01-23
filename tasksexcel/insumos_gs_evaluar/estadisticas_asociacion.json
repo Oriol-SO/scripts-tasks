@@ -1,0 +1,24 @@
+{
+  "total": 1111,
+  "categorias_encontradas": 1111,
+  "categorias_no_encontradas": 0,
+  "detalles_encontrados": 1056,
+  "detalles_no_encontrados": 55,
+  "tipo_costos_encontrados": 1111,
+  "tipo_costos_no_encontrados": 0,
+  "marcas_encontradas": 0,
+  "marcas_no_encontradas": 0,
+  "unidades_encontradas": 0,
+  "unidades_no_encontradas": 0,
+  "categorias_sin_valor": [],
+  "detalles_sin_valor": [
+    "ALQUILER DE LOCAL",
+    "AGREGADO FINO",
+    "EP COLECTIVO",
+    "EP INDIVIDUAL",
+    "CAMAS, COLCHONES"
+  ],
+  "tipo_costos_sin_valor": [],
+  "marcas_sin_valor": [],
+  "unidades_sin_valor": []
+}

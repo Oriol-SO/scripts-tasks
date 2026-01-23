@@ -1,0 +1,371 @@
+[
+  {
+    "id": 1,
+    "id_unidad": "UN0000000046",
+    "abreviatura_unidad": "%eq",
+    "informacion_unidad": "% aplicado a equipos desde otro grupo diferente a equipos"
+  },
+  {
+    "id": 2,
+    "id_unidad": "UN0000000006",
+    "abreviatura_unidad": "%mo",
+    "informacion_unidad": "% aplicado a mano de obra desde otro grupo diferente a mano de obra"
+  },
+  {
+    "id": 3,
+    "id_unidad": "UN0000000045",
+    "abreviatura_unidad": "%mt",
+    "informacion_unidad": "% aplicado a materiales desde otro grupo diferente a materiales"
+  },
+  {
+    "id": 4,
+    "id_unidad": "UN0000000047",
+    "abreviatura_unidad": "%%",
+    "informacion_unidad": "% aplicado a una suma total de grupo incluido otros %"
+  },
+  {
+    "id": 5,
+    "id_unidad": "UN0000000044",
+    "abreviatura_unidad": "%pu",
+    "informacion_unidad": "% aplicado al total de un precio unitario"
+  },
+  {
+    "id": 6,
+    "id_unidad": "UN0000000037",
+    "abreviatura_unidad": "%",
+    "informacion_unidad": "% aplicado sobre una suma total de grupo"
+  },
+  {
+    "id": 7,
+    "id_unidad": "UN0000000010",
+    "abreviatura_unidad": "años",
+    "informacion_unidad": "Años"
+  },
+  {
+    "id": 8,
+    "id_unidad": "UN0000000019",
+    "abreviatura_unidad": "bal",
+    "informacion_unidad": "Balde"
+  },
+  {
+    "id": 9,
+    "id_unidad": "UN0000000013",
+    "abreviatura_unidad": "blister",
+    "informacion_unidad": "Blíster",
+    "Columna1": "BLISTER"
+  },
+  {
+    "id": 10,
+    "id_unidad": "UN0000000018",
+    "abreviatura_unidad": "bol",
+    "informacion_unidad": "Bolsa",
+    "Columna1": "BOL"
+  },
+  {
+    "id": 11,
+    "id_unidad": "UN0000000053",
+    "abreviatura_unidad": "blt",
+    "informacion_unidad": "Bulto"
+  },
+  {
+    "id": 12,
+    "id_unidad": "UN0000000020",
+    "abreviatura_unidad": "cja",
+    "informacion_unidad": "Caja",
+    "Columna1": "CAJA"
+  },
+  {
+    "id": 13,
+    "id_unidad": "UN0000000052",
+    "abreviatura_unidad": "cm",
+    "informacion_unidad": "Centímetro"
+  },
+  {
+    "id": 14,
+    "id_unidad": "UN0000000041",
+    "abreviatura_unidad": "cm²",
+    "informacion_unidad": "Centímetro cuadrado"
+  },
+  {
+    "id": 15,
+    "id_unidad": "UN0000000042",
+    "abreviatura_unidad": "cm³",
+    "informacion_unidad": "Centímetro cúbico"
+  },
+  {
+    "id": 16,
+    "id_unidad": "UN0000000021",
+    "abreviatura_unidad": "cnt",
+    "informacion_unidad": "Ciento",
+    "Columna1": "CNTO"
+  },
+  {
+    "id": 17,
+    "id_unidad": "UN0000000056",
+    "abreviatura_unidad": "cil",
+    "informacion_unidad": "Cilindro",
+    "Columna1": "CIL"
+  },
+  {
+    "id": 18,
+    "id_unidad": "UN0000000028",
+    "abreviatura_unidad": "cjt",
+    "informacion_unidad": "Conjunto"
+  },
+  {
+    "id": 19,
+    "id_unidad": "UN0000000034",
+    "abreviatura_unidad": "s/",
+    "informacion_unidad": "Costo unitario"
+  },
+  {
+    "id": 20,
+    "id_unidad": "UN0000000001",
+    "abreviatura_unidad": "dia",
+    "informacion_unidad": "Día",
+    "Columna1": "DIA"
+  },
+  {
+    "id": 21,
+    "id_unidad": "UN0000000036",
+    "abreviatura_unidad": "est",
+    "informacion_unidad": "Estimado"
+  },
+  {
+    "id": 22,
+    "id_unidad": "UN0000000055",
+    "abreviatura_unidad": "gal",
+    "informacion_unidad": "Galón",
+    "Columna1": "GLN"
+  },
+  {
+    "id": 23,
+    "id_unidad": "UN0000000025",
+    "abreviatura_unidad": "gbl",
+    "informacion_unidad": "Global",
+    "Columna1": "GBL"
+  },
+  {
+    "id": 24,
+    "id_unidad": "UN0000000024",
+    "abreviatura_unidad": "ha",
+    "informacion_unidad": "Hectárea"
+  },
+  {
+    "id": 25,
+    "id_unidad": "UN0000000007",
+    "abreviatura_unidad": "hom",
+    "informacion_unidad": "Hombre - Mes"
+  },
+  {
+    "id": 26,
+    "id_unidad": "UN0000000049",
+    "abreviatura_unidad": "hor",
+    "informacion_unidad": "hora"
+  },
+  {
+    "id": 27,
+    "id_unidad": "UN0000000031",
+    "abreviatura_unidad": "he",
+    "informacion_unidad": "Hora equipo"
+  },
+  {
+    "id": 28,
+    "id_unidad": "UN0000000003",
+    "abreviatura_unidad": "hh",
+    "informacion_unidad": "Hora Hombre"
+  },
+  {
+    "id": 29,
+    "id_unidad": "UN0000000023",
+    "abreviatura_unidad": "hm",
+    "informacion_unidad": "Hora Máquina",
+    "Columna1": "HM"
+  },
+  {
+    "id": 30,
+    "id_unidad": "UN0000000035",
+    "abreviatura_unidad": "jgo",
+    "informacion_unidad": "Juego",
+    "Columna1": "JGO"
+  },
+  {
+    "id": 31,
+    "id_unidad": "UN0000000009",
+    "abreviatura_unidad": "kg",
+    "informacion_unidad": "Kilogramo",
+    "Columna1": "KG"
+  },
+  {
+    "id": 32,
+    "id_unidad": "UN0000000032",
+    "abreviatura_unidad": "km",
+    "informacion_unidad": "Kilómetro"
+  },
+  {
+    "id": 33,
+    "id_unidad": "UN0000000038",
+    "abreviatura_unidad": "kit",
+    "informacion_unidad": "Kit"
+  },
+  {
+    "id": 34,
+    "id_unidad": "UN0000000051",
+    "abreviatura_unidad": "lb",
+    "informacion_unidad": "Libra"
+  },
+  {
+    "id": 35,
+    "id_unidad": "UN0000000043",
+    "abreviatura_unidad": "l",
+    "informacion_unidad": "Litro",
+    "Columna1": "L"
+  },
+  {
+    "id": 36,
+    "id_unidad": "UN0000000027",
+    "abreviatura_unidad": "mes",
+    "informacion_unidad": "Mes",
+    "Columna1": "MES"
+  },
+  {
+    "id": 37,
+    "id_unidad": "UN0000000004",
+    "abreviatura_unidad": "m²",
+    "informacion_unidad": "Metro Cuadrado",
+    "Columna1": "M2"
+  },
+  {
+    "id": 38,
+    "id_unidad": "UN0000000002",
+    "abreviatura_unidad": "m³",
+    "informacion_unidad": "Metro Cúbico",
+    "Columna1": "M3"
+  },
+  {
+    "id": 39,
+    "id_unidad": "UN0000000016",
+    "abreviatura_unidad": "m",
+    "informacion_unidad": "Metro Lineal",
+    "Columna1": "M"
+  },
+  {
+    "id": 40,
+    "id_unidad": "UN0000000014",
+    "abreviatura_unidad": "mll",
+    "informacion_unidad": "Millar",
+    "Columna1": "MLL"
+  },
+  {
+    "id": 41,
+    "id_unidad": "UN0000000054",
+    "abreviatura_unidad": "pqt",
+    "informacion_unidad": "Paquete",
+    "Columna1": "PQT"
+  },
+  {
+    "id": 42,
+    "id_unidad": "UN0000000015",
+    "abreviatura_unidad": "par",
+    "informacion_unidad": "Par",
+    "Columna1": "PAR"
+  },
+  {
+    "id": 43,
+    "id_unidad": "UN0000000022",
+    "abreviatura_unidad": "p²",
+    "informacion_unidad": "Pie Cuadrado"
+  },
+  {
+    "id": 44,
+    "id_unidad": "UN0000000012",
+    "abreviatura_unidad": "pza",
+    "informacion_unidad": "Pieza",
+    "Columna1": "PZA"
+  },
+  {
+    "id": 45,
+    "id_unidad": "UN0000000026",
+    "abreviatura_unidad": "pln",
+    "informacion_unidad": "Plancha",
+    "Columna1": "PLN"
+  },
+  {
+    "id": 46,
+    "id_unidad": "UN0000000030",
+    "abreviatura_unidad": "pto",
+    "informacion_unidad": "Punto"
+  },
+  {
+    "id": 47,
+    "id_unidad": "UN0000000017",
+    "abreviatura_unidad": "rll",
+    "informacion_unidad": "Rollo",
+    "Columna1": "RLL"
+  },
+  {
+    "id": 48,
+    "id_unidad": "UN0000000050",
+    "abreviatura_unidad": "sco",
+    "informacion_unidad": "Saco",
+    "Columna1": "SAC"
+  },
+  {
+    "id": 49,
+    "id_unidad": "UN0000000040",
+    "abreviatura_unidad": "sem",
+    "informacion_unidad": "Semana"
+  },
+  {
+    "id": 50,
+    "id_unidad": "UN0000000011",
+    "abreviatura_unidad": "t",
+    "informacion_unidad": "Tonelada"
+  },
+  {
+    "id": 51,
+    "id_unidad": "UN0000000039",
+    "abreviatura_unidad": "tm",
+    "informacion_unidad": "Tonelada métrica"
+  },
+  {
+    "id": 52,
+    "id_unidad": "UN0000000029",
+    "abreviatura_unidad": "tub",
+    "informacion_unidad": "Tubería"
+  },
+  {
+    "id": 53,
+    "id_unidad": "UN0000000005",
+    "abreviatura_unidad": "und",
+    "informacion_unidad": "Unidad",
+    "Columna1": "UND"
+  },
+  {
+    "id": 54,
+    "id_unidad": "UN0000000008",
+    "abreviatura_unidad": "und- mes",
+    "informacion_unidad": "Unidad Mes"
+  },
+  {
+    "id": 55,
+    "id_unidad": "UN0000000048",
+    "abreviatura_unidad": "var",
+    "informacion_unidad": "Varilla",
+    "Columna1": "VAR"
+  },
+  {
+    "id": 56,
+    "id_unidad": "UN0000000033",
+    "abreviatura_unidad": "vje",
+    "informacion_unidad": "Viaje",
+    "Columna1": "VIAJE"
+  },
+  {
+    "id": 57,
+    "id_unidad": "UN0000000057",
+    "abreviatura_unidad": "doc",
+    "informacion_unidad": "Docena",
+    "Columna1": "DOC"
+  }
+]

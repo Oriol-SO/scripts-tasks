@@ -1,0 +1,2918 @@
+{
+  "resumen": {
+    "totalOriginal": 2344,
+    "totalUnicos": 2172,
+    "totalDuplicados": 172,
+    "porcentajeDuplicados": "7.34%"
+  },
+  "duplicados": [
+    {
+      "clave": "MATERIALES|AFIRMADO|AFIRMADO SIN ZARANDEAR",
+      "original": {
+        "CODIGO": 120,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "AFIRMADO",
+        "DESCRIPCIÓN": "AFIRMADO SIN ZARANDEAR",
+        "PRECIO": 21.5
+      },
+      "duplicado": {
+        "CODIGO": 1602,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "AFIRMADO",
+        "DESCRIPCIÓN": "AFIRMADO SIN ZARANDEAR",
+        "PRECIO": 21.5
+      }
+    },
+    {
+      "clave": "MATERIALES|AFIRMADO|AFIRMADO ZARANDEADO",
+      "original": {
+        "CODIGO": 118,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "AFIRMADO",
+        "DESCRIPCIÓN": "AFIRMADO ZARANDEADO",
+        "PRECIO": 23.599999999999998
+      },
+      "duplicado": {
+        "CODIGO": 119,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "AFIRMADO",
+        "DESCRIPCIÓN": "AFIRMADO ZARANDEADO",
+        "PRECIO": 34.93
+      }
+    },
+    {
+      "clave": "EQUIPOS|EQUIPOS LIVIANOS|AMOLADORA DE 7- 2200W",
+      "original": {
+        "CODIGO": 1312,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS LIVIANOS",
+        "DESCRIPCIÓN": "AMOLADORA DE 7- 2200W",
+        "PRECIO": 772
+      },
+      "duplicado": {
+        "CODIGO": 1313,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS LIVIANOS",
+        "DESCRIPCIÓN": "AMOLADORA DE 7- 2200W",
+        "PRECIO": 772
+      }
+    },
+    {
+      "clave": "EQUIPOS|EQUIPOS LIVIANOS|AMOLADORA DE 7- 2200W",
+      "original": {
+        "CODIGO": 1312,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS LIVIANOS",
+        "DESCRIPCIÓN": "AMOLADORA DE 7- 2200W",
+        "PRECIO": 772
+      },
+      "duplicado": {
+        "CODIGO": 1314,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS LIVIANOS",
+        "DESCRIPCIÓN": "AMOLADORA DE 7- 2200W",
+        "PRECIO": 560
+      }
+    },
+    {
+      "clave": "EQUIPOS|EQUIPOS PESADOS|AUTO HORMIGONERA- CAPACIDAD 3.5 M3",
+      "original": {
+        "CODIGO": 1333,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "AUTO HORMIGONERA- CAPACIDAD 3.5 m3",
+        "PRECIO": 177
+      },
+      "duplicado": {
+        "CODIGO": 1334,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "AUTO HORMIGONERA- CAPACIDAD 3.5 m3",
+        "PRECIO": 165.2
+      }
+    },
+    {
+      "clave": "EQUIPOS|EQUIPOS PESADOS|AUTO HORMIGONERA- CAPACIDAD 3.5 M3",
+      "original": {
+        "CODIGO": 1333,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "AUTO HORMIGONERA- CAPACIDAD 3.5 m3",
+        "PRECIO": 177
+      },
+      "duplicado": {
+        "CODIGO": 1335,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "AUTO HORMIGONERA- CAPACIDAD 3.5 m3",
+        "PRECIO": 156
+      }
+    },
+    {
+      "clave": "EQUIPOS|EQUIPOS PESADOS|CARGADOR FRONTAL CAT 950",
+      "original": {
+        "CODIGO": 1345,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "CARGADOR FRONTAL CAT 950",
+        "PRECIO": 141.6
+      },
+      "duplicado": {
+        "CODIGO": 1346,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "CARGADOR FRONTAL CAT 950",
+        "PRECIO": 177
+      }
+    },
+    {
+      "clave": "EQUIPOS|EQUIPOS PESADOS|CARGADOR FRONTAL CAT 950",
+      "original": {
+        "CODIGO": 1345,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "CARGADOR FRONTAL CAT 950",
+        "PRECIO": 141.6
+      },
+      "duplicado": {
+        "CODIGO": 1347,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "CARGADOR FRONTAL CAT 950",
+        "PRECIO": 208.86
+      }
+    },
+    {
+      "clave": "GASTOS GENERALES|UTILES DE ESCRITORIO|CINTA DE EMBALAJE 2\"X110",
+      "original": {
+        "CODIGO": 898,
+        "INSUMO": "GASTOS GENERALES",
+        "DETALLE": "UTILES DE ESCRITORIO",
+        "DESCRIPCIÓN": "CINTA DE EMBALAJE 2\"X110",
+        "PRECIO": 60
+      },
+      "duplicado": {
+        "CODIGO": 899,
+        "INSUMO": "GASTOS GENERALES",
+        "DETALLE": "UTILES DE ESCRITORIO",
+        "DESCRIPCIÓN": "CINTA DE EMBALAJE 2\"X110",
+        "PRECIO": 6.4
+      }
+    },
+    {
+      "clave": "EQUIPOS|EQUIPOS PESADOS|CISTERNA",
+      "original": {
+        "CODIGO": 1354,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "CISTERNA",
+        "PRECIO": 59
+      },
+      "duplicado": {
+        "CODIGO": 1355,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "CISTERNA",
+        "PRECIO": 37.52
+      }
+    },
+    {
+      "clave": "EQUIPOS|EQUIPOS PESADOS|CISTERNA",
+      "original": {
+        "CODIGO": 1354,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "CISTERNA",
+        "PRECIO": 59
+      },
+      "duplicado": {
+        "CODIGO": 1356,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "CISTERNA",
+        "PRECIO": 51.63
+      }
+    },
+    {
+      "clave": "GASTOS GENERALES|UTILES DE ESCRITORIO|CUADERNO A5 ESPIRAL",
+      "original": {
+        "CODIGO": 883,
+        "INSUMO": "GASTOS GENERALES",
+        "DETALLE": "UTILES DE ESCRITORIO",
+        "DESCRIPCIÓN": "CUADERNO A5 ESPIRAL",
+        "PRECIO": 5.54
+      },
+      "duplicado": {
+        "CODIGO": 1260,
+        "INSUMO": "GASTOS GENERALES",
+        "DETALLE": "UTILES DE ESCRITORIO",
+        "DESCRIPCIÓN": "CUADERNO A5 ESPIRAL",
+        "PRECIO": 241
+      }
+    },
+    {
+      "clave": "MATERIALES|TUBOS PVC|CURVA PVC UF A 30º Ø=355 MM",
+      "original": {
+        "CODIGO": 1552,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "TUBOS PVC",
+        "DESCRIPCIÓN": "CURVA PVC UF A 30º Ø=355 MM",
+        "PRECIO": 480
+      },
+      "duplicado": {
+        "CODIGO": 1553,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "TUBOS PVC",
+        "DESCRIPCIÓN": "CURVA PVC UF A 30º Ø=355 MM",
+        "PRECIO": 480
+      }
+    },
+    {
+      "clave": "EQUIPOS|EQUIPOS LIVIANOS|ELECTRODO CELLOCORD",
+      "original": {
+        "CODIGO": 1296,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS LIVIANOS",
+        "DESCRIPCIÓN": "ELECTRODO CELLOCORD",
+        "PRECIO": 20.99
+      },
+      "duplicado": {
+        "CODIGO": 1330,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS LIVIANOS",
+        "DESCRIPCIÓN": "ELECTRODO CELLOCORD",
+        "PRECIO": 18.5
+      }
+    },
+    {
+      "clave": "GASTOS GENERALES|UTILES DE ESCRITORIO|FORRO ARTESCOFAN X 5MTRS",
+      "original": {
+        "CODIGO": 904,
+        "INSUMO": "GASTOS GENERALES",
+        "DETALLE": "UTILES DE ESCRITORIO",
+        "DESCRIPCIÓN": "FORRO ARTESCOFAN X 5MTRS",
+        "PRECIO": 99
+      },
+      "duplicado": {
+        "CODIGO": 905,
+        "INSUMO": "GASTOS GENERALES",
+        "DETALLE": "UTILES DE ESCRITORIO",
+        "DESCRIPCIÓN": "FORRO ARTESCOFAN X 5MTRS",
+        "PRECIO": 9.5
+      }
+    },
+    {
+      "clave": "GASTOS GENERALES|UTILES DE ESCRITORIO|LAPIZ TECNICO 2B",
+      "original": {
+        "CODIGO": 887,
+        "INSUMO": "GASTOS GENERALES",
+        "DETALLE": "UTILES DE ESCRITORIO",
+        "DESCRIPCIÓN": "LAPIZ TECNICO 2B",
+        "PRECIO": 0.68
+      },
+      "duplicado": {
+        "CODIGO": 1259,
+        "INSUMO": "GASTOS GENERALES",
+        "DETALLE": "UTILES DE ESCRITORIO",
+        "DESCRIPCIÓN": "LAPIZ TECNICO 2B",
+        "PRECIO": 5.9
+      }
+    },
+    {
+      "clave": "EQUIPOS|EQUIPOS PESADOS|MINICARGADOR",
+      "original": {
+        "CODIGO": 1353,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "MINICARGADOR",
+        "PRECIO": 88.5
+      },
+      "duplicado": {
+        "CODIGO": 1351,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "MINICARGADOR",
+        "PRECIO": 94.4
+      }
+    },
+    {
+      "clave": "EQUIPOS|EQUIPOS PESADOS|MINICARGADOR",
+      "original": {
+        "CODIGO": 1353,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "MINICARGADOR",
+        "PRECIO": 88.5
+      },
+      "duplicado": {
+        "CODIGO": 1352,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "MINICARGADOR",
+        "PRECIO": 77.5
+      }
+    },
+    {
+      "clave": "EQUIPOS|EQUIPOS LIVIANOS|MOTOBOMBA DE 2 \"",
+      "original": {
+        "CODIGO": 1324,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS LIVIANOS",
+        "DESCRIPCIÓN": "MOTOBOMBA DE 2 \"",
+        "PRECIO": 870
+      },
+      "duplicado": {
+        "CODIGO": 5008,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS LIVIANOS",
+        "DESCRIPCIÓN": "MOTOBOMBA DE 2 \"",
+        "PRECIO": 30
+      }
+    },
+    {
+      "clave": "EQUIPOS|EQUIPOS LIVIANOS|MOTOBOMBA DE 3\"",
+      "original": {
+        "CODIGO": 1325,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS LIVIANOS",
+        "DESCRIPCIÓN": "MOTOBOMBA DE 3\"",
+        "PRECIO": 870
+      },
+      "duplicado": {
+        "CODIGO": 5007,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS LIVIANOS",
+        "DESCRIPCIÓN": "MOTOBOMBA DE 3\"",
+        "PRECIO": 50
+      }
+    },
+    {
+      "clave": "EQUIPOS|EQUIPOS PESADOS|MOTONIVELADORA",
+      "original": {
+        "CODIGO": 1337,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "MOTONIVELADORA",
+        "PRECIO": 224.2
+      },
+      "duplicado": {
+        "CODIGO": 20024,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "MOTONIVELADORA"
+      }
+    },
+    {
+      "clave": "GASTOS GENERALES|UTILES DE ESCRITORIO|PAPEL BOND",
+      "original": {
+        "CODIGO": 925,
+        "INSUMO": "GASTOS GENERALES",
+        "DETALLE": "UTILES DE ESCRITORIO",
+        "DESCRIPCIÓN": "PAPEL BOND",
+        "PRECIO": 158
+      },
+      "duplicado": {
+        "CODIGO": 926,
+        "INSUMO": "GASTOS GENERALES",
+        "DETALLE": "UTILES DE ESCRITORIO",
+        "DESCRIPCIÓN": "PAPEL BOND",
+        "PRECIO": 35
+      }
+    },
+    {
+      "clave": "GASTOS GENERALES|UTILES DE ESCRITORIO|PAPEL BOND",
+      "original": {
+        "CODIGO": 925,
+        "INSUMO": "GASTOS GENERALES",
+        "DETALLE": "UTILES DE ESCRITORIO",
+        "DESCRIPCIÓN": "PAPEL BOND",
+        "PRECIO": 158
+      },
+      "duplicado": {
+        "CODIGO": 927,
+        "INSUMO": "GASTOS GENERALES",
+        "DETALLE": "UTILES DE ESCRITORIO",
+        "DESCRIPCIÓN": "PAPEL BOND",
+        "PRECIO": 10.5
+      }
+    },
+    {
+      "clave": "GASTOS GENERALES|UTILES DE ESCRITORIO|PAPEL BOND DE COLOR",
+      "original": {
+        "CODIGO": 932,
+        "INSUMO": "GASTOS GENERALES",
+        "DETALLE": "UTILES DE ESCRITORIO",
+        "DESCRIPCIÓN": "PAPEL BOND DE COLOR",
+        "PRECIO": 53
+      },
+      "duplicado": {
+        "CODIGO": 933,
+        "INSUMO": "GASTOS GENERALES",
+        "DETALLE": "UTILES DE ESCRITORIO",
+        "DESCRIPCIÓN": "PAPEL BOND DE COLOR",
+        "PRECIO": 11
+      }
+    },
+    {
+      "clave": "MATERIALES|AGREGADO GRUESO|PIEDRA CHANCADA DE 1/2",
+      "original": {
+        "CODIGO": 115,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "AGREGADO GRUESO",
+        "DESCRIPCIÓN": "PIEDRA CHANCADA DE 1/2",
+        "PRECIO": 44.85
+      },
+      "duplicado": {
+        "CODIGO": 116,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "AGREGADO GRUESO",
+        "DESCRIPCIÓN": "PIEDRA CHANCADA DE 1/2",
+        "PRECIO": 60
+      }
+    },
+    {
+      "clave": "MATERIALES|AGREGADO GRUESO|PIEDRA CHANCADA DE 3/4",
+      "original": {
+        "CODIGO": 114,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "AGREGADO GRUESO",
+        "DESCRIPCIÓN": "PIEDRA CHANCADA DE 3/4",
+        "PRECIO": 120
+      },
+      "duplicado": {
+        "CODIGO": 117,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "AGREGADO GRUESO",
+        "DESCRIPCIÓN": "PIEDRA CHANCADA DE 3/4",
+        "PRECIO": 53
+      }
+    },
+    {
+      "clave": "MATERIALES|PINTURA|PINTURA DE TRAFICO AMARILLO X GLN",
+      "original": {
+        "CODIGO": 1592,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "PINTURA",
+        "DESCRIPCIÓN": "PINTURA DE TRAFICO AMARILLO X GLN",
+        "PRECIO": 45
+      },
+      "duplicado": {
+        "CODIGO": 1593,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "PINTURA",
+        "DESCRIPCIÓN": "PINTURA DE TRAFICO AMARILLO X GLN",
+        "PRECIO": 96
+      }
+    },
+    {
+      "clave": "EQUIPOS|EQUIPOS PESADOS|RETROEXCAVADORA",
+      "original": {
+        "CODIGO": 1342,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "RETROEXCAVADORA",
+        "PRECIO": 106.2
+      },
+      "duplicado": {
+        "CODIGO": 1343,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "RETROEXCAVADORA",
+        "PRECIO": 100.01
+      }
+    },
+    {
+      "clave": "EQUIPOS|EQUIPOS PESADOS|RODILLO",
+      "original": {
+        "CODIGO": 1339,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "RODILLO",
+        "PRECIO": 159.3
+      },
+      "duplicado": {
+        "CODIGO": 1340,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "RODILLO",
+        "PRECIO": 141.6
+      }
+    },
+    {
+      "clave": "GASTOS GENERALES|UTILES DE ESCRITORIO|TINTA PARA IMPRESORA EPSON L6270(CMY BK-504)",
+      "original": {
+        "CODIGO": 939,
+        "INSUMO": "GASTOS GENERALES",
+        "DETALLE": "UTILES DE ESCRITORIO",
+        "DESCRIPCIÓN": "TINTA PARA IMPRESORA EPSON L6270(CMY BK-504)",
+        "PRECIO": 150
+      },
+      "duplicado": {
+        "CODIGO": 1267,
+        "INSUMO": "GASTOS GENERALES",
+        "DETALLE": "UTILES DE ESCRITORIO",
+        "DESCRIPCIÓN": "TINTA PARA IMPRESORA EPSON L6270(CMY BK-504)",
+        "PRECIO": 135
+      }
+    },
+    {
+      "clave": "GASTOS GENERALES|UTILES DE ESCRITORIO|VINIFAN /OFICIO",
+      "original": {
+        "CODIGO": 911,
+        "INSUMO": "GASTOS GENERALES",
+        "DETALLE": "UTILES DE ESCRITORIO",
+        "DESCRIPCIÓN": "VINIFAN /OFICIO",
+        "PRECIO": 99
+      },
+      "duplicado": {
+        "CODIGO": 912,
+        "INSUMO": "GASTOS GENERALES",
+        "DETALLE": "UTILES DE ESCRITORIO",
+        "DESCRIPCIÓN": "VINIFAN /OFICIO",
+        "PRECIO": 10.8
+      }
+    },
+    {
+      "clave": "EQUIPOS|EQUIPOS PESADOS|VOLQUETE",
+      "original": {
+        "CODIGO": 20033,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "VOLQUETE"
+      },
+      "duplicado": {
+        "CODIGO": 20048,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "VOLQUETE"
+      }
+    },
+    {
+      "clave": "EQUIPOS|EQUIPOS PESADOS|VOLQUETE",
+      "original": {
+        "CODIGO": 20033,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "VOLQUETE"
+      },
+      "duplicado": {
+        "CODIGO": 1348,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "VOLQUETE",
+        "PRECIO": 112.1
+      }
+    },
+    {
+      "clave": "EQUIPOS|EQUIPOS PESADOS|VOLQUETE",
+      "original": {
+        "CODIGO": 20033,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "VOLQUETE"
+      },
+      "duplicado": {
+        "CODIGO": 1349,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "VOLQUETE",
+        "PRECIO": 112.1
+      }
+    },
+    {
+      "clave": "EQUIPOS|EQUIPOS PESADOS|VOLQUETE",
+      "original": {
+        "CODIGO": 20033,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "VOLQUETE"
+      },
+      "duplicado": {
+        "CODIGO": 1350,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS PESADOS",
+        "DESCRIPCIÓN": "VOLQUETE",
+        "PRECIO": 118
+      }
+    },
+    {
+      "clave": "SEGURIDAD|EMERGENCIA EN SEGURIDAD|AMOXICILINA + AMBROXOL CAPS 500",
+      "original": {
+        "CODIGO": 682,
+        "INSUMO": "SEGURIDAD",
+        "DETALLE": "EMERGENCIA EN SEGURIDAD",
+        "DESCRIPCIÓN": "AMOXICILINA + AMBROXOL CAPS 500",
+        "PRECIO": 0.45
+      },
+      "duplicado": {
+        "CODIGO": 683,
+        "INSUMO": "SEGURIDAD",
+        "DETALLE": "EMERGENCIA EN SEGURIDAD",
+        "DESCRIPCIÓN": "AMOXICILINA + AMBROXOL CAPS 500",
+        "PRECIO": 12
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|ANILLO UF ISO 250MM PRESION",
+      "original": {
+        "CODIGO": 354,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "ANILLO UF ISO 250MM PRESION",
+        "PRECIO": 8.8854
+      },
+      "duplicado": {
+        "CODIGO": 1723,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "ANILLO UF ISO 250MM PRESION",
+        "PRECIO": 14.0125
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|ANILLO UF ISO 315MM PRESION",
+      "original": {
+        "CODIGO": 355,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "ANILLO UF ISO 315MM PRESION",
+        "PRECIO": 15.7648
+      },
+      "duplicado": {
+        "CODIGO": 1724,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "ANILLO UF ISO 315MM PRESION",
+        "PRECIO": 24.8626
+      }
+    },
+    {
+      "clave": "MATERIALES|AGREGADO FINO|ARENA FINA",
+      "original": {
+        "CODIGO": 112,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "AGREGADO FINO",
+        "DESCRIPCIÓN": "ARENA FINA",
+        "PRECIO": 76.67
+      },
+      "duplicado": {
+        "CODIGO": 2156,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "AGREGADO FINO",
+        "DESCRIPCIÓN": "ARENA FINA"
+      }
+    },
+    {
+      "clave": "MATERIALES|AGREGADO FINO|ARENA GRUESA",
+      "original": {
+        "CODIGO": 109,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "AGREGADO FINO",
+        "DESCRIPCIÓN": "ARENA GRUESA",
+        "PRECIO": 39.33
+      },
+      "duplicado": {
+        "CODIGO": 110,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "AGREGADO FINO",
+        "DESCRIPCIÓN": "ARENA GRUESA",
+        "PRECIO": 63.33
+      }
+    },
+    {
+      "clave": "MATERIALES|AGREGADO FINO|ARENA GRUESA",
+      "original": {
+        "CODIGO": 109,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "AGREGADO FINO",
+        "DESCRIPCIÓN": "ARENA GRUESA",
+        "PRECIO": 39.33
+      },
+      "duplicado": {
+        "CODIGO": 111,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "AGREGADO FINO",
+        "DESCRIPCIÓN": "ARENA GRUESA",
+        "PRECIO": 112
+      }
+    },
+    {
+      "clave": "SEGURIDAD|EMERGENCIA EN SEGURIDAD|AZITROMICINA 500MG",
+      "original": {
+        "CODIGO": 695,
+        "INSUMO": "SEGURIDAD",
+        "DETALLE": "EMERGENCIA EN SEGURIDAD",
+        "DESCRIPCIÓN": "AZITROMICINA 500mg",
+        "PRECIO": 1.5
+      },
+      "duplicado": {
+        "CODIGO": 696,
+        "INSUMO": "SEGURIDAD",
+        "DETALLE": "EMERGENCIA EN SEGURIDAD",
+        "DESCRIPCIÓN": "AZITROMICINA 500mg",
+        "PRECIO": 39
+      }
+    },
+    {
+      "clave": "MATERIALES|HERRAMIENTAS|BROCA DE MADERA DE 3/8\"",
+      "original": {
+        "CODIGO": 1112,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "BROCA DE MADERA DE 3/8\"",
+        "PRECIO": 6.5
+      },
+      "duplicado": {
+        "CODIGO": 1155,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "BROCA DE MADERA DE 3/8\"",
+        "PRECIO": 29.9
+      }
+    },
+    {
+      "clave": "MATERIALES|HERRAMIENTAS|BRUÑA CANTONERA",
+      "original": {
+        "CODIGO": 1056,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "BRUÑA CANTONERA",
+        "PRECIO": 11.9
+      },
+      "duplicado": {
+        "CODIGO": 1144,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "BRUÑA CANTONERA",
+        "PRECIO": 13.5
+      }
+    },
+    {
+      "clave": "MATERIALES|HERRAMIENTAS|BRUÑA DE CENTRO",
+      "original": {
+        "CODIGO": 1054,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "BRUÑA DE CENTRO",
+        "PRECIO": 16.9
+      },
+      "duplicado": {
+        "CODIGO": 1055,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "BRUÑA DE CENTRO",
+        "PRECIO": 10.9
+      }
+    },
+    {
+      "clave": "MATERIALES|ELECTRICOS|CABLE ELECTRICO # 12",
+      "original": {
+        "CODIGO": 265,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ELECTRICOS",
+        "DESCRIPCIÓN": "CABLE ELECTRICO # 12",
+        "PRECIO": 192
+      },
+      "duplicado": {
+        "CODIGO": 266,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ELECTRICOS",
+        "DESCRIPCIÓN": "CABLE ELECTRICO # 12",
+        "PRECIO": 193
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|CAJA DE CONCRETO PARA PORTAMEDIDOR DE AGUA DE 58X36X18",
+      "original": {
+        "CODIGO": 332,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CAJA DE CONCRETO PARA PORTAMEDIDOR DE AGUA DE 58X36X18",
+        "PRECIO": 20
+      },
+      "duplicado": {
+        "CODIGO": 619,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CAJA DE CONCRETO PARA PORTAMEDIDOR DE AGUA DE 58X36X18",
+        "PRECIO": 17
+      }
+    },
+    {
+      "clave": "MATERIALES|CEMENTO|CEMENTO PORT LAND TIPO 1",
+      "original": {
+        "CODIGO": 126,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "CEMENTO",
+        "DESCRIPCIÓN": "CEMENTO PORT LAND TIPO 1",
+        "PRECIO": 29.5
+      },
+      "duplicado": {
+        "CODIGO": 127,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "CEMENTO",
+        "DESCRIPCIÓN": "CEMENTO PORT LAND TIPO 1",
+        "PRECIO": 0.8
+      }
+    },
+    {
+      "clave": "MATERIALES|CEMENTO|CEMENTO PORT LAND TIPO 1",
+      "original": {
+        "CODIGO": 126,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "CEMENTO",
+        "DESCRIPCIÓN": "CEMENTO PORT LAND TIPO 1",
+        "PRECIO": 29.5
+      },
+      "duplicado": {
+        "CODIGO": 128,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "CEMENTO",
+        "DESCRIPCIÓN": "CEMENTO PORT LAND TIPO 1",
+        "PRECIO": 27
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|CINTA TEFLON AMARILLO",
+      "original": {
+        "CODIGO": 612,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CINTA TEFLON AMARILLO",
+        "PRECIO": 3
+      },
+      "duplicado": {
+        "CODIGO": 613,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CINTA TEFLON AMARILLO",
+        "PRECIO": 2.5
+      }
+    },
+    {
+      "clave": "MATERIALES|ACERO|CLAVO DE CALAMINA 2.1/2\"",
+      "original": {
+        "CODIGO": 24,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "CLAVO DE CALAMINA 2.1/2\"",
+        "PRECIO": 6
+      },
+      "duplicado": {
+        "CODIGO": 25,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "CLAVO DE CALAMINA 2.1/2\"",
+        "PRECIO": 140
+      }
+    },
+    {
+      "clave": "MATERIALES|ACERO|CLAVO PARA MADERA DE 1\"",
+      "original": {
+        "CODIGO": 1532,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "CLAVO PARA MADERA DE 1\"",
+        "PRECIO": 145
+      },
+      "duplicado": {
+        "CODIGO": 1533,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "CLAVO PARA MADERA DE 1\"",
+        "PRECIO": 7.5
+      }
+    },
+    {
+      "clave": "MATERIALES|ACERO|CLAVO PARA MADERA DE 2\"",
+      "original": {
+        "CODIGO": 22,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "CLAVO PARA MADERA DE 2\"",
+        "PRECIO": 147
+      },
+      "duplicado": {
+        "CODIGO": 23,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "CLAVO PARA MADERA DE 2\"",
+        "PRECIO": 6.3
+      }
+    },
+    {
+      "clave": "MATERIALES|ACERO|CLAVO PARA MADERA DE 2.1/2\"",
+      "original": {
+        "CODIGO": 20,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "CLAVO PARA MADERA DE 2.1/2\"",
+        "PRECIO": 6.3
+      },
+      "duplicado": {
+        "CODIGO": 21,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "CLAVO PARA MADERA DE 2.1/2\"",
+        "PRECIO": 6.3
+      }
+    },
+    {
+      "clave": "MATERIALES|ACERO|CLAVO PARA MADERA DE 3\"",
+      "original": {
+        "CODIGO": 18,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "CLAVO PARA MADERA DE 3\"",
+        "PRECIO": 6.3
+      },
+      "duplicado": {
+        "CODIGO": 19,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "CLAVO PARA MADERA DE 3\"",
+        "PRECIO": 147
+      }
+    },
+    {
+      "clave": "MATERIALES|ACERO|CLAVO PARA MADERA DE 4\"",
+      "original": {
+        "CODIGO": 16,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "CLAVO PARA MADERA DE 4\"",
+        "PRECIO": 6.3
+      },
+      "duplicado": {
+        "CODIGO": 17,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "CLAVO PARA MADERA DE 4\"",
+        "PRECIO": 147
+      }
+    },
+    {
+      "clave": "MATERIALES|ACERO|CLAVO PARA MADERA DE 5\"",
+      "original": {
+        "CODIGO": 14,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "CLAVO PARA MADERA DE 5\"",
+        "PRECIO": 7.5
+      },
+      "duplicado": {
+        "CODIGO": 15,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "CLAVO PARA MADERA DE 5\"",
+        "PRECIO": 147
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|CODO DE 1\" PVC DE 45°",
+      "original": {
+        "CODIGO": 223,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 1\" PVC DE 45°",
+        "PRECIO": 2.5
+      },
+      "duplicado": {
+        "CODIGO": 224,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 1\" PVC DE 45°",
+        "PRECIO": 2.5
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|CODO DE 1\" PVC DE 90°",
+      "original": {
+        "CODIGO": 221,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 1\" PVC DE 90°",
+        "PRECIO": 3.8
+      },
+      "duplicado": {
+        "CODIGO": 222,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 1\" PVC DE 90°",
+        "PRECIO": 3.8
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|CODO DE 1\" PVC DE 90°",
+      "original": {
+        "CODIGO": 221,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 1\" PVC DE 90°",
+        "PRECIO": 3.8
+      },
+      "duplicado": {
+        "CODIGO": 225,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 1\" PVC DE 90°",
+        "PRECIO": 4.5
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|CODO DE 1.1/2\" PVC DE 45°",
+      "original": {
+        "CODIGO": 226,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 1.1/2\" PVC DE 45°",
+        "PRECIO": 4.8
+      },
+      "duplicado": {
+        "CODIGO": 228,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 1.1/2\" PVC DE 45°",
+        "PRECIO": 4.8
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|CODO DE 1.1/2\" PVC DE 90°",
+      "original": {
+        "CODIGO": 227,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 1.1/2\" PVC DE 90°",
+        "PRECIO": 10
+      },
+      "duplicado": {
+        "CODIGO": 229,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 1.1/2\" PVC DE 90°",
+        "PRECIO": 10
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|CODO DE 1/2\" PVC DE 45°-SP",
+      "original": {
+        "CODIGO": 209,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 1/2\" PVC DE 45°-SP",
+        "PRECIO": 2.8
+      },
+      "duplicado": {
+        "CODIGO": 210,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 1/2\" PVC DE 45°-SP",
+        "PRECIO": 1.15
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|CODO DE 1/2\" PVC DE 90°-SP",
+      "original": {
+        "CODIGO": 206,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 1/2\" PVC DE 90°-SP",
+        "PRECIO": 2.2
+      },
+      "duplicado": {
+        "CODIGO": 207,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 1/2\" PVC DE 90°-SP",
+        "PRECIO": 2.1
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|CODO DE 1/2\" PVC DE 90°-SP",
+      "original": {
+        "CODIGO": 206,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 1/2\" PVC DE 90°-SP",
+        "PRECIO": 2.2
+      },
+      "duplicado": {
+        "CODIGO": 208,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 1/2\" PVC DE 90°-SP",
+        "PRECIO": 2
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|CODO DE 2\" PVC DE 90° SP",
+      "original": {
+        "CODIGO": 230,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 2\" PVC DE 90° SP",
+        "PRECIO": 15
+      },
+      "duplicado": {
+        "CODIGO": 231,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 2\" PVC DE 90° SP",
+        "PRECIO": 10.8
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|CODO DE 3/4\" PVC DE 45°",
+      "original": {
+        "CODIGO": 218,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 3/4\" PVC DE 45°",
+        "PRECIO": 3
+      },
+      "duplicado": {
+        "CODIGO": 219,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 3/4\" PVC DE 45°",
+        "PRECIO": 3.5
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|CODO DE 3/4\" PVC DE 45°-SP",
+      "original": {
+        "CODIGO": 213,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 3/4\" PVC DE 45°-SP",
+        "PRECIO": 4.5
+      },
+      "duplicado": {
+        "CODIGO": 214,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 3/4\" PVC DE 45°-SP",
+        "PRECIO": 4.5
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|CODO DE 3/4\" PVC DE 90°-SP",
+      "original": {
+        "CODIGO": 211,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 3/4\" PVC DE 90°-SP",
+        "PRECIO": 3.7
+      },
+      "duplicado": {
+        "CODIGO": 212,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 3/4\" PVC DE 90°-SP",
+        "PRECIO": 3.6
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|CODO DE 4\" DE 90° DESAGUE",
+      "original": {
+        "CODIGO": 364,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 4\" DE 90° DESAGUE",
+        "PRECIO": 494
+      },
+      "duplicado": {
+        "CODIGO": 370,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "CODO DE 4\" DE 90° DESAGUE",
+        "PRECIO": 214
+      }
+    },
+    {
+      "clave": "MATERIALES|HERRAMIENTAS|DESARMADOR",
+      "original": {
+        "CODIGO": 1107,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "DESARMADOR",
+        "PRECIO": 39.9
+      },
+      "duplicado": {
+        "CODIGO": 1108,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "DESARMADOR",
+        "PRECIO": 26.9
+      }
+    },
+    {
+      "clave": "MATERIALES|HERRAMIENTAS|DISCO DE CORTE DE CONCRETO DE 7\" CONTINUO",
+      "original": {
+        "CODIGO": 1119,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "DISCO DE CORTE DE CONCRETO DE 7\" CONTINUO",
+        "PRECIO": 59.99
+      },
+      "duplicado": {
+        "CODIGO": 1120,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "DISCO DE CORTE DE CONCRETO DE 7\" CONTINUO",
+        "PRECIO": 50
+      }
+    },
+    {
+      "clave": "MATERIALES|HERRAMIENTAS|DISCO DE CORTE DE MADERA DE 7\"",
+      "original": {
+        "CODIGO": 1126,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "DISCO DE CORTE DE MADERA DE 7\"",
+        "PRECIO": 38
+      },
+      "duplicado": {
+        "CODIGO": 1128,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "DISCO DE CORTE DE MADERA DE 7\"",
+        "PRECIO": 14.9
+      }
+    },
+    {
+      "clave": "MATERIALES|HERRAMIENTAS|DISCO DE CORTE DE METAL DE 14\"",
+      "original": {
+        "CODIGO": 1158,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "DISCO DE CORTE DE METAL DE 14\"",
+        "PRECIO": 16.5
+      },
+      "duplicado": {
+        "CODIGO": 1159,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "DISCO DE CORTE DE METAL DE 14\"",
+        "PRECIO": 24
+      }
+    },
+    {
+      "clave": "MATERIALES|HERRAMIENTAS|DISCO DE CORTE DE METAL DE 14\"",
+      "original": {
+        "CODIGO": 1158,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "DISCO DE CORTE DE METAL DE 14\"",
+        "PRECIO": 16.5
+      },
+      "duplicado": {
+        "CODIGO": 1160,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "DISCO DE CORTE DE METAL DE 14\"",
+        "PRECIO": 15.9
+      }
+    },
+    {
+      "clave": "MATERIALES|HERRAMIENTAS|DISCO DE CORTE DE METAL DE 4\"",
+      "original": {
+        "CODIGO": 1122,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "DISCO DE CORTE DE METAL DE 4\"",
+        "PRECIO": 15.5
+      },
+      "duplicado": {
+        "CODIGO": 1124,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "DISCO DE CORTE DE METAL DE 4\"",
+        "PRECIO": 3.9
+      }
+    },
+    {
+      "clave": "MATERIALES|HERRAMIENTAS|DISCO DE CORTE DE METAL DE 4\"",
+      "original": {
+        "CODIGO": 1122,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "DISCO DE CORTE DE METAL DE 4\"",
+        "PRECIO": 15.5
+      },
+      "duplicado": {
+        "CODIGO": 1125,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "DISCO DE CORTE DE METAL DE 4\"",
+        "PRECIO": 4
+      }
+    },
+    {
+      "clave": "MATERIALES|HERRAMIENTAS|DISCO DE CORTE DE METAL DE 7\"",
+      "original": {
+        "CODIGO": 1123,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "DISCO DE CORTE DE METAL DE 7\"",
+        "PRECIO": 7.9
+      },
+      "duplicado": {
+        "CODIGO": 1153,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "DISCO DE CORTE DE METAL DE 7\"",
+        "PRECIO": 8.9
+      }
+    },
+    {
+      "clave": "MATERIALES|ACERO|FIERRO CORRUGADO DE 1 \" X 9 MTS",
+      "original": {
+        "CODIGO": 9,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "FIERRO CORRUGADO DE 1 \" X 9 mts",
+        "PRECIO": 169
+      },
+      "duplicado": {
+        "CODIGO": 10,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "FIERRO CORRUGADO DE 1 \" X 9 mts",
+        "PRECIO": 162
+      }
+    },
+    {
+      "clave": "MATERIALES|ACERO|FIERRO CORRUGADO DE 1 \" X 9 MTS",
+      "original": {
+        "CODIGO": 9,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "FIERRO CORRUGADO DE 1 \" X 9 mts",
+        "PRECIO": 169
+      },
+      "duplicado": {
+        "CODIGO": 11,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "FIERRO CORRUGADO DE 1 \" X 9 mts",
+        "PRECIO": 159.4
+      }
+    },
+    {
+      "clave": "MATERIALES|ACERO|FIERRO CORRUGADO DE 3/4\" X 9 MTS",
+      "original": {
+        "CODIGO": 6,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "FIERRO CORRUGADO DE 3/4\" X 9 mts",
+        "PRECIO": 98
+      },
+      "duplicado": {
+        "CODIGO": 7,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "FIERRO CORRUGADO DE 3/4\" X 9 mts",
+        "PRECIO": 96.2
+      }
+    },
+    {
+      "clave": "MATERIALES|ACERO|FIERRO CORRUGADO DE 3/4\" X 9 MTS",
+      "original": {
+        "CODIGO": 6,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "FIERRO CORRUGADO DE 3/4\" X 9 mts",
+        "PRECIO": 98
+      },
+      "duplicado": {
+        "CODIGO": 8,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "FIERRO CORRUGADO DE 3/4\" X 9 mts",
+        "PRECIO": 93
+      }
+    },
+    {
+      "clave": "MATERIALES|ACERO|FIERRO CORRUGADO DE 5/8\" X 9 MTS",
+      "original": {
+        "CODIGO": 3,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "FIERRO CORRUGADO DE 5/8\" X 9 mts",
+        "PRECIO": 60.3
+      },
+      "duplicado": {
+        "CODIGO": 4,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "FIERRO CORRUGADO DE 5/8\" X 9 mts",
+        "PRECIO": 59.8
+      }
+    },
+    {
+      "clave": "MATERIALES|ACERO|FIERRO CORRUGADO DE 5/8\" X 9 MTS",
+      "original": {
+        "CODIGO": 3,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "FIERRO CORRUGADO DE 5/8\" X 9 mts",
+        "PRECIO": 60.3
+      },
+      "duplicado": {
+        "CODIGO": 5,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "FIERRO CORRUGADO DE 5/8\" X 9 mts",
+        "PRECIO": 57.3
+      }
+    },
+    {
+      "clave": "EQUIPOS|GASOLINA|GASOLINA",
+      "original": {
+        "CODIGO": 645,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "GASOLINA",
+        "DESCRIPCIÓN": "GASOLINA",
+        "PRECIO": 14.33
+      },
+      "duplicado": {
+        "CODIGO": 646,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "GASOLINA",
+        "DESCRIPCIÓN": "GASOLINA",
+        "PRECIO": 14.5
+      }
+    },
+    {
+      "clave": "SEGURIDAD|EMERGENCIA EN SEGURIDAD|GUANTES QUIRÚRGICOS DE LATEX ESTERILES DESCARTABLES",
+      "original": {
+        "CODIGO": 154,
+        "INSUMO": "SEGURIDAD",
+        "DETALLE": "EMERGENCIA EN SEGURIDAD",
+        "DESCRIPCIÓN": "GUANTES QUIRÚRGICOS DE LATEX ESTERILES DESCARTABLES",
+        "PRECIO": 30
+      },
+      "duplicado": {
+        "CODIGO": 155,
+        "INSUMO": "SEGURIDAD",
+        "DETALLE": "EMERGENCIA EN SEGURIDAD",
+        "DESCRIPCIÓN": "GUANTES QUIRÚRGICOS DE LATEX ESTERILES DESCARTABLES",
+        "PRECIO": 1
+      }
+    },
+    {
+      "clave": "MATERIALES|HERRAMIENTAS|HOJA DE SIERRA 18 \"",
+      "original": {
+        "CODIGO": 1065,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "HOJA DE SIERRA 18 \"",
+        "PRECIO": 8
+      },
+      "duplicado": {
+        "CODIGO": 1066,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "HOJA DE SIERRA 18 \"",
+        "PRECIO": 8.9
+      }
+    },
+    {
+      "clave": "MATERIALES|AGREGADO FINO|HORMIGON",
+      "original": {
+        "CODIGO": 124,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "AGREGADO FINO",
+        "DESCRIPCIÓN": "HORMIGON",
+        "PRECIO": 19.67
+      },
+      "duplicado": {
+        "CODIGO": 125,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "AGREGADO FINO",
+        "DESCRIPCIÓN": "HORMIGON",
+        "PRECIO": 94.5
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|LLAVE DE DUCHA",
+      "original": {
+        "CODIGO": 330,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "LLAVE DE DUCHA",
+        "PRECIO": 26
+      },
+      "duplicado": {
+        "CODIGO": 331,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "LLAVE DE DUCHA",
+        "PRECIO": 25
+      }
+    },
+    {
+      "clave": "MATERIALES|ELECTRICOS|LLAVE TERMOMACNETICO 2 X 25 AMP",
+      "original": {
+        "CODIGO": 285,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ELECTRICOS",
+        "DESCRIPCIÓN": "LLAVE TERMOMACNETICO 2 X 25 AMP",
+        "PRECIO": 40.9
+      },
+      "duplicado": {
+        "CODIGO": 287,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ELECTRICOS",
+        "DESCRIPCIÓN": "LLAVE TERMOMACNETICO 2 X 25 AMP",
+        "PRECIO": 40.9
+      }
+    },
+    {
+      "clave": "MATERIALES|ACERO|MALLA DE 1/4\" PARA ZARANDA",
+      "original": {
+        "CODIGO": 82,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "MALLA DE 1/4\" PARA ZARANDA",
+        "PRECIO": 46.8
+      },
+      "duplicado": {
+        "CODIGO": 83,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "MALLA DE 1/4\" PARA ZARANDA",
+        "PRECIO": 59
+      }
+    },
+    {
+      "clave": "MATERIALES|ACERO|MALLA DE 1/4\" PARA ZARANDA",
+      "original": {
+        "CODIGO": 82,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "MALLA DE 1/4\" PARA ZARANDA",
+        "PRECIO": 46.8
+      },
+      "duplicado": {
+        "CODIGO": 755,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "MALLA DE 1/4\" PARA ZARANDA",
+        "PRECIO": 58
+      }
+    },
+    {
+      "clave": "MATERIALES|HERRAMIENTAS|MALLA RASCHEL 90 %",
+      "original": {
+        "CODIGO": 944,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "MALLA RASCHEL 90 %",
+        "PRECIO": 978
+      },
+      "duplicado": {
+        "CODIGO": 945,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "MALLA RASCHEL 90 %",
+        "PRECIO": 14.3
+      }
+    },
+    {
+      "clave": "SEGURIDAD|EMERGENCIA EN SEGURIDAD|MANDIL DESECHABLE",
+      "original": {
+        "CODIGO": 157,
+        "INSUMO": "SEGURIDAD",
+        "DETALLE": "EMERGENCIA EN SEGURIDAD",
+        "DESCRIPCIÓN": "MANDIL DESECHABLE",
+        "PRECIO": 5
+      },
+      "duplicado": {
+        "CODIGO": 172,
+        "INSUMO": "SEGURIDAD",
+        "DETALLE": "EMERGENCIA EN SEGURIDAD",
+        "DESCRIPCIÓN": "MANDIL DESECHABLE",
+        "PRECIO": 2.3
+      }
+    },
+    {
+      "clave": "MATERIALES|HERRAMIENTAS|MANGO DE PICO",
+      "original": {
+        "CODIGO": 960,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "MANGO DE PICO",
+        "PRECIO": 4
+      },
+      "duplicado": {
+        "CODIGO": 965,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "MANGO DE PICO",
+        "PRECIO": 4
+      }
+    },
+    {
+      "clave": "SEGURIDAD|EMERGENCIA EN SEGURIDAD|MASCARILLA DE 3 PLIEGUES X 50 UND",
+      "original": {
+        "CODIGO": 150,
+        "INSUMO": "SEGURIDAD",
+        "DETALLE": "EMERGENCIA EN SEGURIDAD",
+        "DESCRIPCIÓN": "MASCARILLA DE 3 PLIEGUES X 50 UND",
+        "PRECIO": 9.9
+      },
+      "duplicado": {
+        "CODIGO": 168,
+        "INSUMO": "SEGURIDAD",
+        "DETALLE": "EMERGENCIA EN SEGURIDAD",
+        "DESCRIPCIÓN": "MASCARILLA DE 3 PLIEGUES X 50 UND",
+        "PRECIO": 1
+      }
+    },
+    {
+      "clave": "MATERIALES|POLIMEROS|PEGAMENTO AZUL 1 GLN",
+      "original": {
+        "CODIGO": 811,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "POLIMEROS",
+        "DESCRIPCIÓN": "PEGAMENTO AZUL 1 GLN",
+        "PRECIO": 250
+      },
+      "duplicado": {
+        "CODIGO": 812,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "POLIMEROS",
+        "DESCRIPCIÓN": "PEGAMENTO AZUL 1 GLN",
+        "PRECIO": 230
+      }
+    },
+    {
+      "clave": "MATERIALES|POLIMEROS|PEGAMENTO AZUL 1/4",
+      "original": {
+        "CODIGO": 806,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "POLIMEROS",
+        "DESCRIPCIÓN": "PEGAMENTO AZUL 1/4",
+        "PRECIO": 63
+      },
+      "duplicado": {
+        "CODIGO": 807,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "POLIMEROS",
+        "DESCRIPCIÓN": "PEGAMENTO AZUL 1/4",
+        "PRECIO": 69.3
+      }
+    },
+    {
+      "clave": "EQUIPOS|PETROLEO|PETROLEO",
+      "original": {
+        "CODIGO": 647,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "PETROLEO",
+        "DESCRIPCIÓN": "PETROLEO",
+        "PRECIO": 14.9
+      },
+      "duplicado": {
+        "CODIGO": 648,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "PETROLEO",
+        "DESCRIPCIÓN": "PETROLEO",
+        "PRECIO": 14.95
+      }
+    },
+    {
+      "clave": "MATERIALES|PINTURA|PINTURA TRAFICO COLOR NEGRO X GLN",
+      "original": {
+        "CODIGO": 782,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "PINTURA",
+        "DESCRIPCIÓN": "PINTURA TRAFICO COLOR NEGRO X GLN",
+        "PRECIO": 92
+      },
+      "duplicado": {
+        "CODIGO": 783,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "PINTURA",
+        "DESCRIPCIÓN": "PINTURA TRAFICO COLOR NEGRO X GLN",
+        "PRECIO": 92
+      }
+    },
+    {
+      "clave": "MATERIALES|POLIMEROS|PLASTICO DOBLE DE 2.50X100 METROS AZUL/NEGRO",
+      "original": {
+        "CODIGO": 821,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "POLIMEROS",
+        "DESCRIPCIÓN": "PLASTICO DOBLE DE 2.50X100 METROS AZUL/NEGRO",
+        "PRECIO": 330
+      },
+      "duplicado": {
+        "CODIGO": 823,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "POLIMEROS",
+        "DESCRIPCIÓN": "PLASTICO DOBLE DE 2.50X100 METROS AZUL/NEGRO",
+        "PRECIO": 350
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|REDUCCION DE 1\" A 3/4\"",
+      "original": {
+        "CODIGO": 544,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "REDUCCION DE 1\" A 3/4\"",
+        "PRECIO": 3.3
+      },
+      "duplicado": {
+        "CODIGO": 552,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "REDUCCION DE 1\" A 3/4\"",
+        "PRECIO": 3.6
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|REDUCCION DE 1\" A 3/4\"",
+      "original": {
+        "CODIGO": 544,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "REDUCCION DE 1\" A 3/4\"",
+        "PRECIO": 3.3
+      },
+      "duplicado": {
+        "CODIGO": 556,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "REDUCCION DE 1\" A 3/4\"",
+        "PRECIO": 3.6
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|REDUCCION DE 1.1/2\" A 1\"",
+      "original": {
+        "CODIGO": 548,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "REDUCCION DE 1.1/2\" A 1\"",
+        "PRECIO": 5.7
+      },
+      "duplicado": {
+        "CODIGO": 623,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "REDUCCION DE 1.1/2\" A 1\"",
+        "PRECIO": 7.5
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|REDUCCION DE 2\"-1 1/2\"",
+      "original": {
+        "CODIGO": 626,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "REDUCCION DE 2\"-1 1/2\"",
+        "PRECIO": 14.7
+      },
+      "duplicado": {
+        "CODIGO": 627,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "REDUCCION DE 2\"-1 1/2\"",
+        "PRECIO": 15
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|REDUCCION DE 3\" A 1 1/2\"",
+      "original": {
+        "CODIGO": 543,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "REDUCCION DE 3\" A 1 1/2\"",
+        "PRECIO": 54
+      },
+      "duplicado": {
+        "CODIGO": 550,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "REDUCCION DE 3\" A 1 1/2\"",
+        "PRECIO": 7.4
+      }
+    },
+    {
+      "clave": "MATERIALES|HERRAMIENTAS|REGLA DE ALUMINIO DE 6 M PESADA",
+      "original": {
+        "CODIGO": 1080,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "REGLA DE ALUMINIO DE 6 M PESADA",
+        "PRECIO": 149.9
+      },
+      "duplicado": {
+        "CODIGO": 1140,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "REGLA DE ALUMINIO DE 6 M PESADA",
+        "PRECIO": 173
+      }
+    },
+    {
+      "clave": "SEGURIDAD|EP INDIVIDUAL|RESPIRADOR CON FILTRO",
+      "original": {
+        "CODIGO": 1391,
+        "INSUMO": "SEGURIDAD",
+        "DETALLE": "EP INDIVIDUAL",
+        "DESCRIPCIÓN": "RESPIRADOR CON FILTRO",
+        "PRECIO": 43
+      },
+      "duplicado": {
+        "CODIGO": 1404,
+        "INSUMO": "SEGURIDAD",
+        "DETALLE": "EP INDIVIDUAL",
+        "DESCRIPCIÓN": "RESPIRADOR CON FILTRO",
+        "PRECIO": 47.2
+      }
+    },
+    {
+      "clave": "EQUIPOS|EQUIPOS LIVIANOS|ROTOMARTILLO 1700 WALT",
+      "original": {
+        "CODIGO": 1328,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS LIVIANOS",
+        "DESCRIPCIÓN": "ROTOMARTILLO 1700 WALT",
+        "PRECIO": 5000
+      },
+      "duplicado": {
+        "CODIGO": 5015,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS LIVIANOS",
+        "DESCRIPCIÓN": "ROTOMARTILLO 1700 WALT",
+        "PRECIO": 50
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TAPON HEMBRA DE 1\" PVC",
+      "original": {
+        "CODIGO": 513,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TAPON HEMBRA DE 1\" PVC",
+        "PRECIO": 3.2
+      },
+      "duplicado": {
+        "CODIGO": 515,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TAPON HEMBRA DE 1\" PVC",
+        "PRECIO": 3.2
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TAPON HEMBRA DE 1/2\" PVC",
+      "original": {
+        "CODIGO": 509,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TAPON HEMBRA DE 1/2\" PVC",
+        "PRECIO": 1.2
+      },
+      "duplicado": {
+        "CODIGO": 511,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TAPON HEMBRA DE 1/2\" PVC",
+        "PRECIO": 1.2
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TAPON HEMBRA DE 2\" PVC",
+      "original": {
+        "CODIGO": 523,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TAPON HEMBRA DE 2\" PVC",
+        "PRECIO": 5.8
+      },
+      "duplicado": {
+        "CODIGO": 529,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TAPON HEMBRA DE 2\" PVC",
+        "PRECIO": 13.9
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TAPON HEMBRA DE 3/4\" PVC",
+      "original": {
+        "CODIGO": 505,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TAPON HEMBRA DE 3/4\" PVC",
+        "PRECIO": 2.7
+      },
+      "duplicado": {
+        "CODIGO": 507,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TAPON HEMBRA DE 3/4\" PVC",
+        "PRECIO": 2.7
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TAPON HEMBRA DE 90MM (3\")",
+      "original": {
+        "CODIGO": 502,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TAPON HEMBRA DE 90MM (3\")",
+        "PRECIO": 9.5
+      },
+      "duplicado": {
+        "CODIGO": 503,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TAPON HEMBRA DE 90MM (3\")",
+        "PRECIO": 9.5
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TAPON MACHO 1/2\" PVC",
+      "original": {
+        "CODIGO": 508,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TAPON MACHO 1/2\" PVC",
+        "PRECIO": 1.9
+      },
+      "duplicado": {
+        "CODIGO": 510,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TAPON MACHO 1/2\" PVC",
+        "PRECIO": 1.9
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TAPON MACHO DE 1\" PVC",
+      "original": {
+        "CODIGO": 516,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TAPON MACHO DE 1\" PVC"
+      },
+      "duplicado": {
+        "CODIGO": 512,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TAPON MACHO DE 1\" PVC",
+        "PRECIO": 3.4
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TAPON MACHO DE 1\" PVC",
+      "original": {
+        "CODIGO": 516,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TAPON MACHO DE 1\" PVC"
+      },
+      "duplicado": {
+        "CODIGO": 514,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TAPON MACHO DE 1\" PVC",
+        "PRECIO": 3.4
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TAPON MACHO DE 3/4\" PCV",
+      "original": {
+        "CODIGO": 504,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TAPON MACHO DE 3/4\" PCV",
+        "PRECIO": 2.9
+      },
+      "duplicado": {
+        "CODIGO": 506,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TAPON MACHO DE 3/4\" PCV",
+        "PRECIO": 2.9
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TEE D = 90MM INC. ANILLOS (3\")",
+      "original": {
+        "CODIGO": 479,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TEE D = 90mm INC. ANILLOS (3\")",
+        "PRECIO": 98
+      },
+      "duplicado": {
+        "CODIGO": 480,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TEE D = 90mm INC. ANILLOS (3\")",
+        "PRECIO": 98
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TEE D = 90MM INC. ANILLOS (3\")",
+      "original": {
+        "CODIGO": 479,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TEE D = 90mm INC. ANILLOS (3\")",
+        "PRECIO": 98
+      },
+      "duplicado": {
+        "CODIGO": 481,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TEE D = 90mm INC. ANILLOS (3\")",
+        "PRECIO": 98
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TEE D=63MM INC ANILLOS (2\")",
+      "original": {
+        "CODIGO": 476,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TEE D=63mm INC ANILLOS (2\")",
+        "PRECIO": 49.9
+      },
+      "duplicado": {
+        "CODIGO": 477,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TEE D=63mm INC ANILLOS (2\")",
+        "PRECIO": 30.8
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TEE D=63MM INC ANILLOS (2\")",
+      "original": {
+        "CODIGO": 476,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TEE D=63mm INC ANILLOS (2\")",
+        "PRECIO": 49.9
+      },
+      "duplicado": {
+        "CODIGO": 478,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TEE D=63mm INC ANILLOS (2\")",
+        "PRECIO": 30.8
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TEE DE 1 1/2\"PVC SP",
+      "original": {
+        "CODIGO": 490,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TEE DE 1 1/2\"PVC SP",
+        "PRECIO": 15.6
+      },
+      "duplicado": {
+        "CODIGO": 491,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TEE DE 1 1/2\"PVC SP",
+        "PRECIO": 15.6
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TEE DE 1\" PVC",
+      "original": {
+        "CODIGO": 488,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TEE DE 1\" PVC",
+        "PRECIO": 8.2
+      },
+      "duplicado": {
+        "CODIGO": 489,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TEE DE 1\" PVC",
+        "PRECIO": 6.7
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TEE DE 1/2\"PVC SP",
+      "original": {
+        "CODIGO": 482,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TEE DE 1/2\"PVC SP",
+        "PRECIO": 2.8
+      },
+      "duplicado": {
+        "CODIGO": 483,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TEE DE 1/2\"PVC SP",
+        "PRECIO": 2.9
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TEE DE 1/2\"PVC SP",
+      "original": {
+        "CODIGO": 482,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TEE DE 1/2\"PVC SP",
+        "PRECIO": 2.8
+      },
+      "duplicado": {
+        "CODIGO": 484,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TEE DE 1/2\"PVC SP",
+        "PRECIO": 2.9
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TEE DE 2\" PVC SP",
+      "original": {
+        "CODIGO": 492,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TEE DE 2\" PVC SP",
+        "PRECIO": 25.6
+      },
+      "duplicado": {
+        "CODIGO": 493,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TEE DE 2\" PVC SP",
+        "PRECIO": 25.6
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TEE DE 3/4\" PVC",
+      "original": {
+        "CODIGO": 485,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TEE DE 3/4\" PVC",
+        "PRECIO": 2.8
+      },
+      "duplicado": {
+        "CODIGO": 486,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TEE DE 3/4\" PVC",
+        "PRECIO": 2.8
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TEE DE 3/4\" PVC",
+      "original": {
+        "CODIGO": 485,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TEE DE 3/4\" PVC",
+        "PRECIO": 2.8
+      },
+      "duplicado": {
+        "CODIGO": 487,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TEE DE 3/4\" PVC",
+        "PRECIO": 2.8
+      }
+    },
+    {
+      "clave": "MATERIALES|POLIMEROS|TEROKAL X GALON",
+      "original": {
+        "CODIGO": 873,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "POLIMEROS",
+        "DESCRIPCIÓN": "TEROKAL x GALON",
+        "PRECIO": 50
+      },
+      "duplicado": {
+        "CODIGO": 874,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "POLIMEROS",
+        "DESCRIPCIÓN": "TEROKAL x GALON",
+        "PRECIO": 90
+      }
+    },
+    {
+      "clave": "MATERIALES|PINTURA|THINNER",
+      "original": {
+        "CODIGO": 769,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "PINTURA",
+        "DESCRIPCIÓN": "THINNER",
+        "PRECIO": 19
+      },
+      "duplicado": {
+        "CODIGO": 768,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "PINTURA",
+        "DESCRIPCIÓN": "THINNER",
+        "PRECIO": 17
+      }
+    },
+    {
+      "clave": "MATERIALES|HERRAMIENTAS|TIRALINEA TL-50 DE 30M",
+      "original": {
+        "CODIGO": 1015,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "TIRALINEA TL-50 DE 30m",
+        "PRECIO": 13.1
+      },
+      "duplicado": {
+        "CODIGO": 1104,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "TIRALINEA TL-50 DE 30m",
+        "PRECIO": 13.1
+      }
+    },
+    {
+      "clave": "EQUIPOS|EQUIPOS LIVIANOS|TRONZADORA DE METAL 14\"(355MM)-2300W-2400W",
+      "original": {
+        "CODIGO": 1284,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS LIVIANOS",
+        "DESCRIPCIÓN": "TRONZADORA DE METAL 14\"(355mm)-2300W-2400W",
+        "PRECIO": 587
+      },
+      "duplicado": {
+        "CODIGO": 1285,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS LIVIANOS",
+        "DESCRIPCIÓN": "TRONZADORA DE METAL 14\"(355mm)-2300W-2400W",
+        "PRECIO": 736.44
+      }
+    },
+    {
+      "clave": "EQUIPOS|EQUIPOS LIVIANOS|TRONZADORA DE METAL 14\"(355MM)-2300W-2400W",
+      "original": {
+        "CODIGO": 1284,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS LIVIANOS",
+        "DESCRIPCIÓN": "TRONZADORA DE METAL 14\"(355mm)-2300W-2400W",
+        "PRECIO": 587
+      },
+      "duplicado": {
+        "CODIGO": 1286,
+        "INSUMO": "EQUIPOS",
+        "DETALLE": "EQUIPOS LIVIANOS",
+        "DESCRIPCIÓN": "TRONZADORA DE METAL 14\"(355mm)-2300W-2400W",
+        "PRECIO": 620
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TUBO DE 1\" PVC SP C-10 X 5 MTRS (32MM)",
+      "original": {
+        "CODIGO": 438,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TUBO DE 1\" PVC SP C-10 X 5 MTRS (32mm)",
+        "PRECIO": 39.6
+      },
+      "duplicado": {
+        "CODIGO": 439,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TUBO DE 1\" PVC SP C-10 X 5 MTRS (32mm)",
+        "PRECIO": 19
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TUBO DE 1.1/2\" PVC SAP C-10 (50MM)",
+      "original": {
+        "CODIGO": 440,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TUBO DE 1.1/2\" PVC SAP C-10 (50mm)"
+      },
+      "duplicado": {
+        "CODIGO": 441,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TUBO DE 1.1/2\" PVC SAP C-10 (50mm)"
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TUBO DE 1.1/2\" PVC SAP C-7.5 (50MM)",
+      "original": {
+        "CODIGO": 442,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TUBO DE 1.1/2\" PVC SAP C-7.5 (50mm)",
+        "PRECIO": 44.5
+      },
+      "duplicado": {
+        "CODIGO": 443,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TUBO DE 1.1/2\" PVC SAP C-7.5 (50mm)",
+        "PRECIO": 28
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TUBO DE 1/2\" PVC SP (C-10) (20MM)",
+      "original": {
+        "CODIGO": 435,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TUBO DE 1/2\" PVC SP (C-10) (20mm)",
+        "PRECIO": 14.5
+      },
+      "duplicado": {
+        "CODIGO": 433,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TUBO DE 1/2\" PVC SP (C-10) (20mm)",
+        "PRECIO": 12.9
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TUBO DE 1/2\" PVC SP (C-10) (20MM)",
+      "original": {
+        "CODIGO": 435,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TUBO DE 1/2\" PVC SP (C-10) (20mm)",
+        "PRECIO": 14.5
+      },
+      "duplicado": {
+        "CODIGO": 434,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TUBO DE 1/2\" PVC SP (C-10) (20mm)",
+        "PRECIO": 12.9
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TUBO DE 2\" PVC SAP C-10 (63MM)-UF",
+      "original": {
+        "CODIGO": 444,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TUBO DE 2\" PVC SAP C-10 (63mm)-UF",
+        "PRECIO": 56
+      },
+      "duplicado": {
+        "CODIGO": 445,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TUBO DE 2\" PVC SAP C-10 (63mm)-UF",
+        "PRECIO": 78
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TUBO DE 3\" PVC UF (90MM)",
+      "original": {
+        "CODIGO": 449,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TUBO DE 3\" PVC UF (90mm)",
+        "PRECIO": 101
+      },
+      "duplicado": {
+        "CODIGO": 450,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TUBO DE 3\" PVC UF (90mm)",
+        "PRECIO": 97
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TUBO DE 3\" PVC UF (90MM)",
+      "original": {
+        "CODIGO": 449,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TUBO DE 3\" PVC UF (90mm)",
+        "PRECIO": 101
+      },
+      "duplicado": {
+        "CODIGO": 448,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TUBO DE 3\" PVC UF (90mm)",
+        "PRECIO": 135
+      }
+    },
+    {
+      "clave": "MATERIALES|ELECTRICOS|TUBO DE 3/4 \" PVC SEL",
+      "original": {
+        "CODIGO": 425,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ELECTRICOS",
+        "DESCRIPCIÓN": "TUBO DE 3/4 \" PVC SEL",
+        "PRECIO": 2.7
+      },
+      "duplicado": {
+        "CODIGO": 428,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ELECTRICOS",
+        "DESCRIPCIÓN": "TUBO DE 3/4 \" PVC SEL",
+        "PRECIO": 4.62
+      }
+    },
+    {
+      "clave": "MATERIALES|ELECTRICOS|TUBO DE 3/4 \" PVC SEL",
+      "original": {
+        "CODIGO": 425,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ELECTRICOS",
+        "DESCRIPCIÓN": "TUBO DE 3/4 \" PVC SEL",
+        "PRECIO": 2.7
+      },
+      "duplicado": {
+        "CODIGO": 429,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ELECTRICOS",
+        "DESCRIPCIÓN": "TUBO DE 3/4 \" PVC SEL",
+        "PRECIO": 4
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|TUBO DE 3/4 \" PVC SP",
+      "original": {
+        "CODIGO": 436,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TUBO DE 3/4 \" PVC SP"
+      },
+      "duplicado": {
+        "CODIGO": 437,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "TUBO DE 3/4 \" PVC SP"
+      }
+    },
+    {
+      "clave": "MATERIALES|ACERO|TUBO NEGRO 40X60X6M LAC",
+      "original": {
+        "CODIGO": 52,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "TUBO NEGRO 40X60X6M LAC",
+        "PRECIO": 82.5
+      },
+      "duplicado": {
+        "CODIGO": 104,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "TUBO NEGRO 40X60X6M LAC",
+        "PRECIO": 85.2
+      }
+    },
+    {
+      "clave": "MATERIALES|ACERO|TUBO NEGRO RECTANGULAR 0.02 X 0.04 X 6M E=1.5",
+      "original": {
+        "CODIGO": 53,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "TUBO NEGRO RECTANGULAR 0.02 X 0.04 X 6M e=1.5",
+        "PRECIO": 40.3
+      },
+      "duplicado": {
+        "CODIGO": 105,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "TUBO NEGRO RECTANGULAR 0.02 X 0.04 X 6M e=1.5",
+        "PRECIO": 40.5
+      }
+    },
+    {
+      "clave": "MATERIALES|ACERO|TUBO NEGRO RECTANGULAR 1\" X 2\" ESP 2MM",
+      "original": {
+        "CODIGO": 51,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "TUBO NEGRO RECTANGULAR 1\" X 2\" ESP 2MM",
+        "PRECIO": 60
+      },
+      "duplicado": {
+        "CODIGO": 103,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "ACERO",
+        "DESCRIPCIÓN": "TUBO NEGRO RECTANGULAR 1\" X 2\" ESP 2MM",
+        "PRECIO": 62
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|UNION CORREDIZA DE 90 MM UF",
+      "original": {
+        "CODIGO": 358,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION CORREDIZA DE 90 MM UF",
+        "PRECIO": 48
+      },
+      "duplicado": {
+        "CODIGO": 362,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION CORREDIZA DE 90 mm UF",
+        "PRECIO": 50
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|UNION CORREDIZO DE 63 MM UF",
+      "original": {
+        "CODIGO": 357,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION CORREDIZO DE 63 MM UF",
+        "PRECIO": 16
+      },
+      "duplicado": {
+        "CODIGO": 359,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION CORREDIZO DE 63 mm UF",
+        "PRECIO": 17
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|UNION CORREDIZO DE 63 MM UF",
+      "original": {
+        "CODIGO": 357,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION CORREDIZO DE 63 MM UF",
+        "PRECIO": 16
+      },
+      "duplicado": {
+        "CODIGO": 360,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION CORREDIZO DE 63 MM UF",
+        "PRECIO": 19
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|UNION MIXTA DE 2\" PVC",
+      "original": {
+        "CODIGO": 395,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION MIXTA DE 2\" PVC",
+        "PRECIO": 5.5
+      },
+      "duplicado": {
+        "CODIGO": 396,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION MIXTA DE 2\" PVC",
+        "PRECIO": 10.2
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|UNION SIMPLE DE 1\" PVC",
+      "original": {
+        "CODIGO": 388,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION SIMPLE DE 1\" PVC",
+        "PRECIO": 3.5
+      },
+      "duplicado": {
+        "CODIGO": 389,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION SIMPLE DE 1\" PVC",
+        "PRECIO": 3
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|UNION SIMPLE DE 1\" PVC SP",
+      "original": {
+        "CODIGO": 386,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION SIMPLE DE 1\" PVC SP",
+        "PRECIO": 2.9
+      },
+      "duplicado": {
+        "CODIGO": 387,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION SIMPLE DE 1\" PVC SP",
+        "PRECIO": 4
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|UNION SIMPLE DE 1/2\" PVC SP",
+      "original": {
+        "CODIGO": 380,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION SIMPLE DE 1/2\" PVC SP",
+        "PRECIO": 4.8
+      },
+      "duplicado": {
+        "CODIGO": 381,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION SIMPLE DE 1/2\" PVC SP",
+        "PRECIO": 1.5
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|UNION SIMPLE DE 2\" (60 MM)PVC",
+      "original": {
+        "CODIGO": 393,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION SIMPLE DE 2\" (60 mm)PVC",
+        "PRECIO": 5
+      },
+      "duplicado": {
+        "CODIGO": 394,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION SIMPLE DE 2\" (60 mm)PVC",
+        "PRECIO": 5.5
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|UNION SIMPLE DE 3/4\" PVC SP",
+      "original": {
+        "CODIGO": 383,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION SIMPLE DE 3/4\" PVC SP",
+        "PRECIO": 2.7
+      },
+      "duplicado": {
+        "CODIGO": 384,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION SIMPLE DE 3/4\" PVC SP",
+        "PRECIO": 4.99
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|UNION UNIVERSAL DE 1\" CON ROSCA",
+      "original": {
+        "CODIGO": 413,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION UNIVERSAL DE 1\" CON ROSCA",
+        "PRECIO": 9.5
+      },
+      "duplicado": {
+        "CODIGO": 415,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION UNIVERSAL DE 1\" CON ROSCA",
+        "PRECIO": 9.5
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|UNION UNIVERSAL DE 1\" CON ROSCA",
+      "original": {
+        "CODIGO": 413,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION UNIVERSAL DE 1\" CON ROSCA",
+        "PRECIO": 9.5
+      },
+      "duplicado": {
+        "CODIGO": 416,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION UNIVERSAL DE 1\" CON ROSCA"
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|UNION UNIVERSAL DE 2\" PVC",
+      "original": {
+        "CODIGO": 420,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION UNIVERSAL DE 2\" PVC",
+        "PRECIO": 33.8
+      },
+      "duplicado": {
+        "CODIGO": 421,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION UNIVERSAL DE 2\" PVC"
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|UNION UNIVERSAL DE 2\" PVC",
+      "original": {
+        "CODIGO": 420,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION UNIVERSAL DE 2\" PVC",
+        "PRECIO": 33.8
+      },
+      "duplicado": {
+        "CODIGO": 422,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION UNIVERSAL DE 2\" PVC"
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|UNION UNIVERSAL DE 3/4\" PVC",
+      "original": {
+        "CODIGO": 407,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION UNIVERSAL DE 3/4\" PVC",
+        "PRECIO": 6.1
+      },
+      "duplicado": {
+        "CODIGO": 408,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION UNIVERSAL DE 3/4\" PVC",
+        "PRECIO": 9.5
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|UNION UNIVERSAL PVC DE 1 1/2\" CON ROSCA",
+      "original": {
+        "CODIGO": 418,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION UNIVERSAL PVC DE 1 1/2\" CON ROSCA",
+        "PRECIO": 8
+      },
+      "duplicado": {
+        "CODIGO": 417,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "UNION UNIVERSAL PVC DE 1 1/2\" CON ROSCA",
+        "PRECIO": 8
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|VALVULA DE PASO DE 1/2",
+      "original": {
+        "CODIGO": 582,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "VALVULA DE PASO DE 1/2",
+        "PRECIO": 8
+      },
+      "duplicado": {
+        "CODIGO": 583,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "VALVULA DE PASO DE 1/2",
+        "PRECIO": 9
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|VALVULA DE PASO DE 1/2\"",
+      "original": {
+        "CODIGO": 580,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "VALVULA DE PASO DE 1/2\"",
+        "PRECIO": 10.5
+      },
+      "duplicado": {
+        "CODIGO": 581,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "VALVULA DE PASO DE 1/2\"",
+        "PRECIO": 7.9
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_A|VALVULA DE PASO ROSCADA DE 1 \"",
+      "original": {
+        "CODIGO": 588,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "VALVULA DE PASO ROSCADA DE 1 \"",
+        "PRECIO": 14
+      },
+      "duplicado": {
+        "CODIGO": 590,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_A",
+        "DESCRIPCIÓN": "VALVULA DE PASO ROSCADA DE 1 \"",
+        "PRECIO": 11.5
+      }
+    },
+    {
+      "clave": "MATERIALES|HERRAMIENTAS|WINCHA DE 100 MT CON MANGO",
+      "original": {
+        "CODIGO": 994,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "WINCHA DE 100 MT CON MANGO",
+        "PRECIO": 69
+      },
+      "duplicado": {
+        "CODIGO": 995,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "WINCHA DE 100 MT CON MANGO",
+        "PRECIO": 125.9
+      }
+    },
+    {
+      "clave": "MATERIALES|HERRAMIENTAS|WINCHA DE 100 MT CON MANGO",
+      "original": {
+        "CODIGO": 994,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "WINCHA DE 100 MT CON MANGO",
+        "PRECIO": 69
+      },
+      "duplicado": {
+        "CODIGO": 1142,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "HERRAMIENTAS",
+        "DESCRIPCIÓN": "WINCHA DE 100 MT CON MANGO",
+        "PRECIO": 102.9
+      }
+    },
+    {
+      "clave": "MATERIALES|GASFITERIA_D|YEE DE 3X3",
+      "original": {
+        "CODIGO": 643,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_D",
+        "DESCRIPCIÓN": "YEE DE 3X3",
+        "PRECIO": 11.5
+      },
+      "duplicado": {
+        "CODIGO": 644,
+        "INSUMO": "MATERIALES",
+        "DETALLE": "GASFITERIA_D",
+        "DESCRIPCIÓN": "YEE DE 3X3",
+        "PRECIO": 12
+      }
+    },
+    {
+      "clave": "SEGURIDAD|EP INDIVIDUAL|ZAPATOS DE SEGURIDAD",
+      "original": {
+        "CODIGO": 1384,
+        "INSUMO": "SEGURIDAD",
+        "DETALLE": "EP INDIVIDUAL",
+        "DESCRIPCIÓN": "ZAPATOS DE SEGURIDAD",
+        "PRECIO": 60
+      },
+      "duplicado": {
+        "CODIGO": 1385,
+        "INSUMO": "SEGURIDAD",
+        "DETALLE": "EP INDIVIDUAL",
+        "DESCRIPCIÓN": "ZAPATOS DE SEGURIDAD",
+        "PRECIO": 90
+      }
+    },
+    {
+      "clave": "SEGURIDAD|EP INDIVIDUAL|ZAPATOS DE SEGURIDAD",
+      "original": {
+        "CODIGO": 1384,
+        "INSUMO": "SEGURIDAD",
+        "DETALLE": "EP INDIVIDUAL",
+        "DESCRIPCIÓN": "ZAPATOS DE SEGURIDAD",
+        "PRECIO": 60
+      },
+      "duplicado": {
+        "CODIGO": 1386,
+        "INSUMO": "SEGURIDAD",
+        "DETALLE": "EP INDIVIDUAL",
+        "DESCRIPCIÓN": "ZAPATOS DE SEGURIDAD",
+        "PRECIO": 109
+      }
+    },
+    {
+      "clave": "SEGURIDAD|EP INDIVIDUAL|ZAPATOS DE SEGURIDAD",
+      "original": {
+        "CODIGO": 1384,
+        "INSUMO": "SEGURIDAD",
+        "DETALLE": "EP INDIVIDUAL",
+        "DESCRIPCIÓN": "ZAPATOS DE SEGURIDAD",
+        "PRECIO": 60
+      },
+      "duplicado": {
+        "CODIGO": 1405,
+        "INSUMO": "SEGURIDAD",
+        "DETALLE": "EP INDIVIDUAL",
+        "DESCRIPCIÓN": "ZAPATOS DE SEGURIDAD",
+        "PRECIO": 65
+      }
+    }
+  ]
+}

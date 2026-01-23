@@ -1,0 +1,370 @@
+[
+  {
+    "CODIGO": 1,
+    "NOMBRE": "COMBUSTIBLE"
+  },
+  {
+    "CODIGO": 2,
+    "NOMBRE": "MANTENIMIENTO"
+  },
+  {
+    "CODIGO": 3,
+    "NOMBRE": "ACCESORIOS EQUIPOS"
+  },
+  {
+    "CODIGO": 4,
+    "NOMBRE": "LETRAS"
+  },
+  {
+    "CODIGO": 5,
+    "NOMBRE": "COMPRA"
+  },
+  {
+    "CODIGO": 6,
+    "NOMBRE": "PAGO DE SEGUROS"
+  },
+  {
+    "CODIGO": 7,
+    "NOMBRE": "PAGO DE ALQUILER"
+  },
+  {
+    "CODIGO": 8,
+    "NOMBRE": "IMPUESTOS"
+  },
+  {
+    "CODIGO": 9,
+    "NOMBRE": "MANO DE OBRA"
+  },
+  {
+    "CODIGO": 10,
+    "NOMBRE": "CAJA CHICA"
+  },
+  {
+    "CODIGO": 11,
+    "NOMBRE": "GASTO OBRA"
+  },
+  {
+    "CODIGO": 12,
+    "NOMBRE": "GARANTIA DE FIANZAS"
+  },
+  {
+    "CODIGO": 13,
+    "NOMBRE": "AUDITORIA DE OBRA"
+  },
+  {
+    "CODIGO": 14,
+    "NOMBRE": "FACTURAS P PAGAR"
+  },
+  {
+    "CODIGO": 15,
+    "NOMBRE": "FACTURAS A CREDITO"
+  },
+  {
+    "CODIGO": 16,
+    "NOMBRE": "INTERESES POR PRESTAMOS"
+  },
+  {
+    "CODIGO": 17,
+    "NOMBRE": "IMPUESTOS"
+  },
+  {
+    "CODIGO": 18,
+    "NOMBRE": "GASTOS DE CONSORCIO"
+  },
+  {
+    "CODIGO": 19,
+    "NOMBRE": "PAGO DE VALORIZACIONES"
+  },
+  {
+    "CODIGO": 20,
+    "NOMBRE": "FACTURAS A CREDITO"
+  },
+  {
+    "CODIGO": 21,
+    "NOMBRE": "GASTOS DE LICITACION"
+  },
+  {
+    "CODIGO": 22,
+    "NOMBRE": "GASTOS DE CONSORCIO"
+  },
+  {
+    "CODIGO": 23,
+    "NOMBRE": "PAGO CONSULTORIA EXTERNA"
+  },
+  {
+    "CODIGO": 24,
+    "NOMBRE": "PAGO DE FICHA TECNICA"
+  },
+  {
+    "CODIGO": 25,
+    "NOMBRE": "PERSONAL CLAVE"
+  },
+  {
+    "CODIGO": 26,
+    "NOMBRE": "GASTOS DE ESTADIA"
+  },
+  {
+    "CODIGO": 27,
+    "NOMBRE": "MOVILIDAD"
+  },
+  {
+    "CODIGO": 28,
+    "NOMBRE": "ESTUDIO TOPOGRAFICO"
+  },
+  {
+    "CODIGO": 29,
+    "NOMBRE": "PUNTOS GEODESICOS"
+  },
+  {
+    "CODIGO": 30,
+    "NOMBRE": "ESTUDIOS DE MECANICA DE SUELOS"
+  },
+  {
+    "CODIGO": 31,
+    "NOMBRE": "ESTUDIOS DE FUENTES DE AGUA"
+  },
+  {
+    "CODIGO": 32,
+    "NOMBRE": "ESTUDIOS DE VULNERABILIDAD"
+  },
+  {
+    "CODIGO": 33,
+    "NOMBRE": "AUTORIZACION DE ANA"
+  },
+  {
+    "CODIGO": 34,
+    "NOMBRE": "CIRAS Y/O PMA"
+  },
+  {
+    "CODIGO": 35,
+    "NOMBRE": "CERTIFICACION AMBIENTAL"
+  },
+  {
+    "CODIGO": 36,
+    "NOMBRE": "SANEAMIENTO FISICO LEGAL"
+  },
+  {
+    "CODIGO": 37,
+    "NOMBRE": "DONACIONES"
+  },
+  {
+    "CODIGO": 38,
+    "NOMBRE": "PAGO DE EXPEDIENTE"
+  },
+  {
+    "CODIGO": 39,
+    "NOMBRE": "IMPUESTOS"
+  },
+  {
+    "CODIGO": 40,
+    "NOMBRE": "ESTUDIO HIDROLOGICO E HIDRAULICO"
+  },
+  {
+    "CODIGO": 41,
+    "NOMBRE": "FACTURAS A CREDITO"
+  },
+  {
+    "CODIGO": 42,
+    "NOMBRE": "GASTOS DE LICITACION"
+  },
+  {
+    "CODIGO": 43,
+    "NOMBRE": "GASTOS DE CONSORCIO"
+  },
+  {
+    "CODIGO": 44,
+    "NOMBRE": "SERVICIOS"
+  },
+  {
+    "CODIGO": 45,
+    "NOMBRE": "PAGO PERSONAL"
+  },
+  {
+    "CODIGO": 46,
+    "NOMBRE": "GASTOS DE ESTADIA"
+  },
+  {
+    "CODIGO": 47,
+    "NOMBRE": "EQUIPOS DE SEGURIDAD"
+  },
+  {
+    "CODIGO": 48,
+    "NOMBRE": "UTILES DE ESCRITORIO"
+  },
+  {
+    "CODIGO": 49,
+    "NOMBRE": "HERRAMIENTAS DE OFICINA"
+  },
+  {
+    "CODIGO": 50,
+    "NOMBRE": "CAMIONETA"
+  },
+  {
+    "CODIGO": 51,
+    "NOMBRE": "GASTOS DE VISITA OBRA"
+  },
+  {
+    "CODIGO": 52,
+    "NOMBRE": "PRIMAS DE FIANZA"
+  },
+  {
+    "CODIGO": 53,
+    "NOMBRE": "ITF"
+  },
+  {
+    "CODIGO": 54,
+    "NOMBRE": "SCTR"
+  },
+  {
+    "CODIGO": 55,
+    "NOMBRE": "VIDA LEY"
+  },
+  {
+    "CODIGO": 56,
+    "NOMBRE": "LIQUIDACION DE SUPER"
+  },
+  {
+    "CODIGO": 57,
+    "NOMBRE": "GASTOS DE LICITACION"
+  },
+  {
+    "CODIGO": 58,
+    "NOMBRE": "LABORATORIOS Y ESTUDIOS"
+  },
+  {
+    "CODIGO": 59,
+    "NOMBRE": "ALQUILER OFICINA"
+  },
+  {
+    "CODIGO": 60,
+    "NOMBRE": "PAGO DE SUPERVISION"
+  },
+  {
+    "CODIGO": 61,
+    "NOMBRE": "IMPUESTOS"
+  },
+  {
+    "CODIGO": 62,
+    "NOMBRE": "SERVICIOS"
+  },
+  {
+    "CODIGO": 63,
+    "NOMBRE": "MANTENIMIENTO"
+  },
+  {
+    "CODIGO": 64,
+    "NOMBRE": "PAGO PERSONAL"
+  },
+  {
+    "CODIGO": 65,
+    "NOMBRE": "GASTOS DE REPRESENTACION"
+  },
+  {
+    "CODIGO": 66,
+    "NOMBRE": "EQUIPOS DE SEGURIDAD"
+  },
+  {
+    "CODIGO": 67,
+    "NOMBRE": "UTILES DE ESCRITORIO"
+  },
+  {
+    "CODIGO": 68,
+    "NOMBRE": "AGUA Y CORTESIAS"
+  },
+  {
+    "CODIGO": 69,
+    "NOMBRE": "HERRAMIENTAS DE OFICINA"
+  },
+  {
+    "CODIGO": 70,
+    "NOMBRE": "MOVILIDAD"
+  },
+  {
+    "CODIGO": 71,
+    "NOMBRE": "MARKETING"
+  },
+  {
+    "CODIGO": 72,
+    "NOMBRE": "CAPACITACIONES"
+  },
+  {
+    "CODIGO": 73,
+    "NOMBRE": "AUDITORIAS"
+  },
+  {
+    "CODIGO": 74,
+    "NOMBRE": "ASESORIA LEGAL"
+  },
+  {
+    "CODIGO": 75,
+    "NOMBRE": "EVENTOS"
+  },
+  {
+    "CODIGO": 76,
+    "NOMBRE": "DONACIONES Y RECAUDACIONES"
+  },
+  {
+    "CODIGO": 77,
+    "NOMBRE": "TRAMITES"
+  },
+  {
+    "CODIGO": 78,
+    "NOMBRE": "CAJA CHICA"
+  },
+  {
+    "CODIGO": 79,
+    "NOMBRE": "MATERIALES DE LIMPIEZA"
+  },
+  {
+    "CODIGO": 80,
+    "NOMBRE": "EQUIPOS TOPOGRAFICOS"
+  },
+  {
+    "CODIGO": 82,
+    "NOMBRE": "PAGO PERSONAL"
+  },
+  {
+    "CODIGO": 83,
+    "NOMBRE": "CAJA CHICA"
+  },
+  {
+    "CODIGO": 84,
+    "NOMBRE": "MANTENIMIENTO"
+  },
+  {
+    "CODIGO": 85,
+    "NOMBRE": "GASTO OBRA"
+  },
+  {
+    "CODIGO": 86,
+    "NOMBRE": "DEVOLUCION"
+  },
+  {
+    "CODIGO": 87,
+    "NOMBRE": "GASTOS DE ESTADIA"
+  },
+  {
+    "CODIGO": 88,
+    "NOMBRE": "PRESTAMOS"
+  },
+  {
+    "CODIGO": 89,
+    "NOMBRE": "GASTO OBRA"
+  },
+  {
+    "CODIGO": 90,
+    "NOMBRE": "MANO DE OBRA"
+  },
+  {
+    "CODIGO": 91,
+    "NOMBRE": "SUB CONTRATA"
+  },
+  {
+    "CODIGO": 92,
+    "NOMBRE": "VENTA DE AGREGADOS"
+  },
+  {
+    "CODIGO": 93,
+    "NOMBRE": "VENTA DE CONCRETO PREMEZCLADO"
+  }
+]

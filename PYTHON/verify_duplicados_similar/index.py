@@ -2,7 +2,7 @@ import pandas as pd
 from fuzzywuzzy import fuzz, process
 
 # Cargar el archivo JSON (una lista de objetos con clave "COLUMNA")
-df1 = pd.read_json("proveedoresjson.json", encoding="utf-8")
+df1 = pd.read_json("proveenews.json", encoding="utf-8")
 
 # Inicializar conjuntos y lista de grupos
 processed = set()

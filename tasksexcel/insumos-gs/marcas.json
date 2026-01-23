@@ -1,0 +1,1582 @@
+[
+  {
+    "id": 1,
+    "nombre": "1",
+    "estado": 1
+  },
+  {
+    "id": 2,
+    "nombre": "1+G2155+B2155:F2155",
+    "estado": 1
+  },
+  {
+    "id": 3,
+    "nombre": "3M",
+    "estado": 1
+  },
+  {
+    "id": 4,
+    "nombre": "A Y C",
+    "estado": 1
+  },
+  {
+    "id": 5,
+    "nombre": "A2B",
+    "estado": 1
+  },
+  {
+    "id": 6,
+    "nombre": "A4",
+    "estado": 1
+  },
+  {
+    "id": 7,
+    "nombre": "ABRO",
+    "estado": 1
+  },
+  {
+    "id": 8,
+    "nombre": "ACERO AREQUIPA",
+    "estado": 1
+  },
+  {
+    "id": 9,
+    "nombre": "ACOXX",
+    "estado": 1
+  },
+  {
+    "id": 10,
+    "nombre": "ADEX",
+    "estado": 1
+  },
+  {
+    "id": 11,
+    "nombre": "AFRICANO",
+    "estado": 1
+  },
+  {
+    "id": 12,
+    "nombre": "AIC - PZ",
+    "estado": 1
+  },
+  {
+    "id": 13,
+    "nombre": "AKSEL",
+    "estado": 1
+  },
+  {
+    "id": 14,
+    "nombre": "ALCOFARMA",
+    "estado": 1
+  },
+  {
+    "id": 15,
+    "nombre": "ALIRSA",
+    "estado": 1
+  },
+  {
+    "id": 16,
+    "nombre": "ALKHOFAR",
+    "estado": 1
+  },
+  {
+    "id": 17,
+    "nombre": "ALKOFARMA",
+    "estado": 1
+  },
+  {
+    "id": 18,
+    "nombre": "ALLIANCE",
+    "estado": 1
+  },
+  {
+    "id": 19,
+    "nombre": "AMAUTA",
+    "estado": 1
+  },
+  {
+    "id": 20,
+    "nombre": "AMERICAN BLOWER",
+    "estado": 1
+  },
+  {
+    "id": 21,
+    "nombre": "ANDINO",
+    "estado": 1
+  },
+  {
+    "id": 22,
+    "nombre": "ANYPSA",
+    "estado": 1
+  },
+  {
+    "id": 23,
+    "nombre": "APG",
+    "estado": 1
+  },
+  {
+    "id": 24,
+    "nombre": "AQUAPLAST",
+    "estado": 1
+  },
+  {
+    "id": 25,
+    "nombre": "ARCOIRIS",
+    "estado": 1
+  },
+  {
+    "id": 26,
+    "nombre": "AREQUIPA",
+    "estado": 1
+  },
+  {
+    "id": 27,
+    "nombre": "ARTECO",
+    "estado": 1
+  },
+  {
+    "id": 28,
+    "nombre": "ARTESCO",
+    "estado": 1
+  },
+  {
+    "id": 29,
+    "nombre": "ASA",
+    "estado": 1
+  },
+  {
+    "id": 30,
+    "nombre": "ATARA",
+    "estado": 1
+  },
+  {
+    "id": 31,
+    "nombre": "AUGER",
+    "estado": 1
+  },
+  {
+    "id": 32,
+    "nombre": "AUTOMOVILES",
+    "estado": 1
+  },
+  {
+    "id": 33,
+    "nombre": "AVAL",
+    "estado": 1
+  },
+  {
+    "id": 34,
+    "nombre": "BANDERA",
+    "estado": 1
+  },
+  {
+    "id": 35,
+    "nombre": "BAUKER",
+    "estado": 1
+  },
+  {
+    "id": 36,
+    "nombre": "BAYER",
+    "estado": 1
+  },
+  {
+    "id": 37,
+    "nombre": "BIOCRETO",
+    "estado": 1
+  },
+  {
+    "id": 38,
+    "nombre": "BISA",
+    "estado": 1
+  },
+  {
+    "id": 39,
+    "nombre": "BLISTER",
+    "estado": 1
+  },
+  {
+    "id": 40,
+    "nombre": "BLOQSOLAR",
+    "estado": 1
+  },
+  {
+    "id": 41,
+    "nombre": "BOCHERINNE",
+    "estado": 1
+  },
+  {
+    "id": 42,
+    "nombre": "BOCSH",
+    "estado": 1
+  },
+  {
+    "id": 43,
+    "nombre": "BONELLY",
+    "estado": 1
+  },
+  {
+    "id": 44,
+    "nombre": "BOSCH",
+    "estado": 1
+  },
+  {
+    "id": 45,
+    "nombre": "BOSH",
+    "estado": 1
+  },
+  {
+    "id": 46,
+    "nombre": "BOYA",
+    "estado": 1
+  },
+  {
+    "id": 47,
+    "nombre": "BREMEN",
+    "estado": 1
+  },
+  {
+    "id": 48,
+    "nombre": "BTICINO",
+    "estado": 1
+  },
+  {
+    "id": 49,
+    "nombre": "C Y A",
+    "estado": 1
+  },
+  {
+    "id": 50,
+    "nombre": "C&A",
+    "estado": 1
+  },
+  {
+    "id": 51,
+    "nombre": "CANON",
+    "estado": 1
+  },
+  {
+    "id": 52,
+    "nombre": "CANTERA",
+    "estado": 1
+  },
+  {
+    "id": 53,
+    "nombre": "CASCO",
+    "estado": 1
+  },
+  {
+    "id": 54,
+    "nombre": "CASET",
+    "estado": 1
+  },
+  {
+    "id": 55,
+    "nombre": "CAT",
+    "estado": 1
+  },
+  {
+    "id": 56,
+    "nombre": "CET",
+    "estado": 1
+  },
+  {
+    "id": 57,
+    "nombre": "CHAMPION",
+    "estado": 1
+  },
+  {
+    "id": 58,
+    "nombre": "CHEMA",
+    "estado": 1
+  },
+  {
+    "id": 59,
+    "nombre": "CHINA SHOP",
+    "estado": 1
+  },
+  {
+    "id": 60,
+    "nombre": "CIELO",
+    "estado": 1
+  },
+  {
+    "id": 61,
+    "nombre": "CLOROX",
+    "estado": 1
+  },
+  {
+    "id": 62,
+    "nombre": "COMAPE",
+    "estado": 1
+  },
+  {
+    "id": 63,
+    "nombre": "COMERCIAL",
+    "estado": 1
+  },
+  {
+    "id": 64,
+    "nombre": "CONCYSSA",
+    "estado": 1
+  },
+  {
+    "id": 65,
+    "nombre": "CONTEC",
+    "estado": 1
+  },
+  {
+    "id": 66,
+    "nombre": "COOLBOX",
+    "estado": 1
+  },
+  {
+    "id": 67,
+    "nombre": "CORPLIM",
+    "estado": 1
+  },
+  {
+    "id": 68,
+    "nombre": "CORPORATION",
+    "estado": 1
+  },
+  {
+    "id": 69,
+    "nombre": "CPA",
+    "estado": 1
+  },
+  {
+    "id": 70,
+    "nombre": "CPP",
+    "estado": 1
+  },
+  {
+    "id": 71,
+    "nombre": "CRISTAL",
+    "estado": 1
+  },
+  {
+    "id": 72,
+    "nombre": "CRONS",
+    "estado": 1
+  },
+  {
+    "id": 73,
+    "nombre": "CROONS",
+    "estado": 1
+  },
+  {
+    "id": 74,
+    "nombre": "CROWN",
+    "estado": 1
+  },
+  {
+    "id": 75,
+    "nombre": "CUT",
+    "estado": 1
+  },
+  {
+    "id": 76,
+    "nombre": "DAC5",
+    "estado": 1
+  },
+  {
+    "id": 77,
+    "nombre": "DAEWOO",
+    "estado": 1
+  },
+  {
+    "id": 78,
+    "nombre": "DALTON",
+    "estado": 1
+  },
+  {
+    "id": 79,
+    "nombre": "DARIZA",
+    "estado": 1
+  },
+  {
+    "id": 80,
+    "nombre": "DARYZA",
+    "estado": 1
+  },
+  {
+    "id": 81,
+    "nombre": "DENSO",
+    "estado": 1
+  },
+  {
+    "id": 82,
+    "nombre": "DEWALT",
+    "estado": 1
+  },
+  {
+    "id": 83,
+    "nombre": "DEXSON",
+    "estado": 1
+  },
+  {
+    "id": 84,
+    "nombre": "DEXTER",
+    "estado": 1
+  },
+  {
+    "id": 85,
+    "nombre": "DIBAR",
+    "estado": 1
+  },
+  {
+    "id": 86,
+    "nombre": "DR",
+    "estado": 1
+  },
+  {
+    "id": 87,
+    "nombre": "DUPLEX",
+    "estado": 1
+  },
+  {
+    "id": 88,
+    "nombre": "DURAPLAST",
+    "estado": 1
+  },
+  {
+    "id": 89,
+    "nombre": "DYNAMIC",
+    "estado": 1
+  },
+  {
+    "id": 90,
+    "nombre": "ECOIDALA",
+    "estado": 1
+  },
+  {
+    "id": 91,
+    "nombre": "ECOMARK",
+    "estado": 1
+  },
+  {
+    "id": 92,
+    "nombre": "ECONOMICO",
+    "estado": 1
+  },
+  {
+    "id": 93,
+    "nombre": "EINHELL",
+    "estado": 1
+  },
+  {
+    "id": 94,
+    "nombre": "ELAMIGO",
+    "estado": 1
+  },
+  {
+    "id": 95,
+    "nombre": "EPSON",
+    "estado": 1
+  },
+  {
+    "id": 96,
+    "nombre": "ERA",
+    "estado": 1
+  },
+  {
+    "id": 97,
+    "nombre": "EUCALIPTO",
+    "estado": 1
+  },
+  {
+    "id": 98,
+    "nombre": "EUROLITE",
+    "estado": 1
+  },
+  {
+    "id": 99,
+    "nombre": "FABER",
+    "estado": 1
+  },
+  {
+    "id": 100,
+    "nombre": "FABER CASTELL",
+    "estado": 1
+  },
+  {
+    "id": 101,
+    "nombre": "FERAWY",
+    "estado": 1
+  },
+  {
+    "id": 102,
+    "nombre": "FERTICORP",
+    "estado": 1
+  },
+  {
+    "id": 103,
+    "nombre": "FIJI",
+    "estado": 1
+  },
+  {
+    "id": 104,
+    "nombre": "FLORIDA",
+    "estado": 1
+  },
+  {
+    "id": 105,
+    "nombre": "FORTE",
+    "estado": 1
+  },
+  {
+    "id": 106,
+    "nombre": "FOTOC",
+    "estado": 1
+  },
+  {
+    "id": 107,
+    "nombre": "FSL",
+    "estado": 1
+  },
+  {
+    "id": 108,
+    "nombre": "GALAXYS",
+    "estado": 1
+  },
+  {
+    "id": 109,
+    "nombre": "GALVANIZADO",
+    "estado": 1
+  },
+  {
+    "id": 110,
+    "nombre": "GARMIX",
+    "estado": 1
+  },
+  {
+    "id": 111,
+    "nombre": "GENERICA",
+    "estado": 1
+  },
+  {
+    "id": 112,
+    "nombre": "GENERICO",
+    "estado": 1
+  },
+  {
+    "id": 113,
+    "nombre": "GENFAR",
+    "estado": 1
+  },
+  {
+    "id": 114,
+    "nombre": "GERFOR",
+    "estado": 1
+  },
+  {
+    "id": 115,
+    "nombre": "GLEEKOL",
+    "estado": 1
+  },
+  {
+    "id": 116,
+    "nombre": "GLOSSXS",
+    "estado": 1
+  },
+  {
+    "id": 117,
+    "nombre": "GORILA",
+    "estado": 1
+  },
+  {
+    "id": 118,
+    "nombre": "GPR",
+    "estado": 1
+  },
+  {
+    "id": 119,
+    "nombre": "GRAFI",
+    "estado": 1
+  },
+  {
+    "id": 120,
+    "nombre": "GRAN TEST",
+    "estado": 1
+  },
+  {
+    "id": 121,
+    "nombre": "GREAT WALL",
+    "estado": 1
+  },
+  {
+    "id": 122,
+    "nombre": "GRIFO GRECIA",
+    "estado": 1
+  },
+  {
+    "id": 123,
+    "nombre": "HALOGENURO",
+    "estado": 1
+  },
+  {
+    "id": 124,
+    "nombre": "HALUX",
+    "estado": 1
+  },
+  {
+    "id": 125,
+    "nombre": "HATZ",
+    "estado": 1
+  },
+  {
+    "id": 126,
+    "nombre": "HDD",
+    "estado": 1
+  },
+  {
+    "id": 127,
+    "nombre": "HECHIZO",
+    "estado": 1
+  },
+  {
+    "id": 128,
+    "nombre": "HERRAGRO",
+    "estado": 1
+  },
+  {
+    "id": 129,
+    "nombre": "HINO",
+    "estado": 1
+  },
+  {
+    "id": 130,
+    "nombre": "HOLSTEN",
+    "estado": 1
+  },
+  {
+    "id": 131,
+    "nombre": "HOME LIGHT",
+    "estado": 1
+  },
+  {
+    "id": 132,
+    "nombre": "HONDA",
+    "estado": 1
+  },
+  {
+    "id": 133,
+    "nombre": "HOUSE",
+    "estado": 1
+  },
+  {
+    "id": 134,
+    "nombre": "HP",
+    "estado": 1
+  },
+  {
+    "id": 135,
+    "nombre": "HUAWEI WIFI",
+    "estado": 1
+  },
+  {
+    "id": 136,
+    "nombre": "HUDE",
+    "estado": 1
+  },
+  {
+    "id": 137,
+    "nombre": "HUGHESNET",
+    "estado": 1
+  },
+  {
+    "id": 138,
+    "nombre": "HUMDOLDT",
+    "estado": 1
+  },
+  {
+    "id": 139,
+    "nombre": "IMACASA",
+    "estado": 1
+  },
+  {
+    "id": 140,
+    "nombre": "IMPORTADO",
+    "estado": 1
+  },
+  {
+    "id": 141,
+    "nombre": "INDECO",
+    "estado": 1
+  },
+  {
+    "id": 142,
+    "nombre": "INDECO IMPORTADO",
+    "estado": 1
+  },
+  {
+    "id": 143,
+    "nombre": "INDEO",
+    "estado": 1
+  },
+  {
+    "id": 144,
+    "nombre": "INDUSTRIAL",
+    "estado": 1
+  },
+  {
+    "id": 145,
+    "nombre": "INTEL",
+    "estado": 1
+  },
+  {
+    "id": 146,
+    "nombre": "INYECTADO",
+    "estado": 1
+  },
+  {
+    "id": 147,
+    "nombre": "INYECTOPLAST",
+    "estado": 1
+  },
+  {
+    "id": 148,
+    "nombre": "IRWIN",
+    "estado": 1
+  },
+  {
+    "id": 149,
+    "nombre": "ITALIKA",
+    "estado": 1
+  },
+  {
+    "id": 150,
+    "nombre": "ITALY",
+    "estado": 1
+  },
+  {
+    "id": 151,
+    "nombre": "ITAP",
+    "estado": 1
+  },
+  {
+    "id": 152,
+    "nombre": "IVAX",
+    "estado": 1
+  },
+  {
+    "id": 153,
+    "nombre": "JACTO",
+    "estado": 1
+  },
+  {
+    "id": 154,
+    "nombre": "JETT",
+    "estado": 1
+  },
+  {
+    "id": 155,
+    "nombre": "JRR",
+    "estado": 1
+  },
+  {
+    "id": 156,
+    "nombre": "JUSTUS",
+    "estado": 1
+  },
+  {
+    "id": 157,
+    "nombre": "KAISE",
+    "estado": 1
+  },
+  {
+    "id": 158,
+    "nombre": "KAMASA",
+    "estado": 1
+  },
+  {
+    "id": 159,
+    "nombre": "KAMAX",
+    "estado": 1
+  },
+  {
+    "id": 160,
+    "nombre": "KAMAZA",
+    "estado": 1
+  },
+  {
+    "id": 161,
+    "nombre": "KAMAZAKI",
+    "estado": 1
+  },
+  {
+    "id": 162,
+    "nombre": "KATUN",
+    "estado": 1
+  },
+  {
+    "id": 163,
+    "nombre": "KAZ",
+    "estado": 1
+  },
+  {
+    "id": 164,
+    "nombre": "KEIHIN",
+    "estado": 1
+  },
+  {
+    "id": 165,
+    "nombre": "KHOMANDER",
+    "estado": 1
+  },
+  {
+    "id": 166,
+    "nombre": "KIMGTON",
+    "estado": 1
+  },
+  {
+    "id": 167,
+    "nombre": "KINGCORD",
+    "estado": 1
+  },
+  {
+    "id": 168,
+    "nombre": "KRAUS",
+    "estado": 1
+  },
+  {
+    "id": 169,
+    "nombre": "KROSS",
+    "estado": 1
+  },
+  {
+    "id": 170,
+    "nombre": "LAYCONSA",
+    "estado": 1
+  },
+  {
+    "id": 171,
+    "nombre": "LED STREET",
+    "estado": 1
+  },
+  {
+    "id": 172,
+    "nombre": "LEVITON",
+    "estado": 1
+  },
+  {
+    "id": 173,
+    "nombre": "MADERA",
+    "estado": 1
+  },
+  {
+    "id": 174,
+    "nombre": "MAGENTA",
+    "estado": 1
+  },
+  {
+    "id": 175,
+    "nombre": "MAGNUM",
+    "estado": 1
+  },
+  {
+    "id": 176,
+    "nombre": "MAKITA",
+    "estado": 1
+  },
+  {
+    "id": 177,
+    "nombre": "MASALTA",
+    "estado": 1
+  },
+  {
+    "id": 178,
+    "nombre": "MAX MATIC",
+    "estado": 1
+  },
+  {
+    "id": 179,
+    "nombre": "MENNEKE",
+    "estado": 1
+  },
+  {
+    "id": 180,
+    "nombre": "METUSA",
+    "estado": 1
+  },
+  {
+    "id": 181,
+    "nombre": "METZEMBAUM",
+    "estado": 1
+  },
+  {
+    "id": 182,
+    "nombre": "MIKUNI",
+    "estado": 1
+  },
+  {
+    "id": 183,
+    "nombre": "MISA",
+    "estado": 1
+  },
+  {
+    "id": 184,
+    "nombre": "MOCOASMA",
+    "estado": 1
+  },
+  {
+    "id": 185,
+    "nombre": "MOD DELTA",
+    "estado": 1
+  },
+  {
+    "id": 186,
+    "nombre": "MONTAÑA",
+    "estado": 1
+  },
+  {
+    "id": 187,
+    "nombre": "MOTOROLA",
+    "estado": 1
+  },
+  {
+    "id": 188,
+    "nombre": "MUTLUSAN",
+    "estado": 1
+  },
+  {
+    "id": 189,
+    "nombre": "NACIOANL",
+    "estado": 1
+  },
+  {
+    "id": 190,
+    "nombre": "NACIONAL",
+    "estado": 1
+  },
+  {
+    "id": 191,
+    "nombre": "NACIONAL- HECHIZO",
+    "estado": 1
+  },
+  {
+    "id": 192,
+    "nombre": "NASCA",
+    "estado": 1
+  },
+  {
+    "id": 193,
+    "nombre": "NASTIZOL",
+    "estado": 1
+  },
+  {
+    "id": 194,
+    "nombre": "NECO",
+    "estado": 1
+  },
+  {
+    "id": 195,
+    "nombre": "NEON",
+    "estado": 1
+  },
+  {
+    "id": 196,
+    "nombre": "NGK",
+    "estado": 1
+  },
+  {
+    "id": 197,
+    "nombre": "NICHOLSON",
+    "estado": 1
+  },
+  {
+    "id": 198,
+    "nombre": "NICOLL",
+    "estado": 1
+  },
+  {
+    "id": 199,
+    "nombre": "NORTON",
+    "estado": 1
+  },
+  {
+    "id": 200,
+    "nombre": "NOVA",
+    "estado": 1
+  },
+  {
+    "id": 201,
+    "nombre": "OATEY",
+    "estado": 1
+  },
+  {
+    "id": 202,
+    "nombre": "OMEGA",
+    "estado": 1
+  },
+  {
+    "id": 203,
+    "nombre": "OPALUX",
+    "estado": 1
+  },
+  {
+    "id": 204,
+    "nombre": "ORANGE",
+    "estado": 1
+  },
+  {
+    "id": 205,
+    "nombre": "PAGODA",
+    "estado": 1
+  },
+  {
+    "id": 206,
+    "nombre": "PANASONIC",
+    "estado": 1
+  },
+  {
+    "id": 207,
+    "nombre": "PAVCO",
+    "estado": 1
+  },
+  {
+    "id": 208,
+    "nombre": "PEGAFAN",
+    "estado": 1
+  },
+  {
+    "id": 209,
+    "nombre": "PEGAFORTE",
+    "estado": 1
+  },
+  {
+    "id": 210,
+    "nombre": "PEGSA",
+    "estado": 1
+  },
+  {
+    "id": 211,
+    "nombre": "PEN GRADO 90",
+    "estado": 1
+  },
+  {
+    "id": 212,
+    "nombre": "PERKINS",
+    "estado": 1
+  },
+  {
+    "id": 213,
+    "nombre": "PERUTEST",
+    "estado": 1
+  },
+  {
+    "id": 214,
+    "nombre": "PHILIP",
+    "estado": 1
+  },
+  {
+    "id": 215,
+    "nombre": "PHILIPS",
+    "estado": 1
+  },
+  {
+    "id": 216,
+    "nombre": "PINTOR",
+    "estado": 1
+  },
+  {
+    "id": 217,
+    "nombre": "PIONER",
+    "estado": 1
+  },
+  {
+    "id": 218,
+    "nombre": "PIRAMIDE",
+    "estado": 1
+  },
+  {
+    "id": 219,
+    "nombre": "PITBULL",
+    "estado": 1
+  },
+  {
+    "id": 220,
+    "nombre": "PLASTI REY",
+    "estado": 1
+  },
+  {
+    "id": 221,
+    "nombre": "PLASTIREY",
+    "estado": 1
+  },
+  {
+    "id": 222,
+    "nombre": "PLATIREY",
+    "estado": 1
+  },
+  {
+    "id": 223,
+    "nombre": "PLYNIUM",
+    "estado": 1
+  },
+  {
+    "id": 224,
+    "nombre": "POELSA",
+    "estado": 1
+  },
+  {
+    "id": 225,
+    "nombre": "POELSAM",
+    "estado": 1
+  },
+  {
+    "id": 226,
+    "nombre": "POELSAN",
+    "estado": 1
+  },
+  {
+    "id": 227,
+    "nombre": "PORTUGAL",
+    "estado": 1
+  },
+  {
+    "id": 228,
+    "nombre": "PREMIUM",
+    "estado": 1
+  },
+  {
+    "id": 229,
+    "nombre": "PRESTONY",
+    "estado": 1
+  },
+  {
+    "id": 230,
+    "nombre": "PRETUL",
+    "estado": 1
+  },
+  {
+    "id": 231,
+    "nombre": "PRINCO",
+    "estado": 1
+  },
+  {
+    "id": 232,
+    "nombre": "PRODAC",
+    "estado": 1
+  },
+  {
+    "id": 233,
+    "nombre": "PROTEC",
+    "estado": 1
+  },
+  {
+    "id": 234,
+    "nombre": "PTK",
+    "estado": 1
+  },
+  {
+    "id": 235,
+    "nombre": "PUESTO EN OBRA",
+    "estado": 1
+  },
+  {
+    "id": 236,
+    "nombre": "QEP",
+    "estado": 1
+  },
+  {
+    "id": 237,
+    "nombre": "QUIMICA ORIENTAL",
+    "estado": 1
+  },
+  {
+    "id": 238,
+    "nombre": "QUIMIOPRODUC",
+    "estado": 1
+  },
+  {
+    "id": 239,
+    "nombre": "QUIMIOPRODUCT",
+    "estado": 1
+  },
+  {
+    "id": 240,
+    "nombre": "QUIRURJICA",
+    "estado": 1
+  },
+  {
+    "id": 241,
+    "nombre": "REDLINE",
+    "estado": 1
+  },
+  {
+    "id": 242,
+    "nombre": "REGENCY",
+    "estado": 1
+  },
+  {
+    "id": 243,
+    "nombre": "RHINOCEROS",
+    "estado": 1
+  },
+  {
+    "id": 244,
+    "nombre": "ROBIN",
+    "estado": 1
+  },
+  {
+    "id": 245,
+    "nombre": "SAFETY",
+    "estado": 1
+  },
+  {
+    "id": 246,
+    "nombre": "SAFIRO",
+    "estado": 1
+  },
+  {
+    "id": 247,
+    "nombre": "SAPOLIO",
+    "estado": 1
+  },
+  {
+    "id": 248,
+    "nombre": "SCHNEIDER",
+    "estado": 1
+  },
+  {
+    "id": 249,
+    "nombre": "SCOTCH BRITE",
+    "estado": 1
+  },
+  {
+    "id": 250,
+    "nombre": "SCOTK BRINCH",
+    "estado": 1
+  },
+  {
+    "id": 251,
+    "nombre": "SEGUSA",
+    "estado": 1
+  },
+  {
+    "id": 252,
+    "nombre": "SELLCOPR",
+    "estado": 1
+  },
+  {
+    "id": 253,
+    "nombre": "SHACMAN",
+    "estado": 1
+  },
+  {
+    "id": 254,
+    "nombre": "SIDER",
+    "estado": 1
+  },
+  {
+    "id": 255,
+    "nombre": "SIDER PERU",
+    "estado": 1
+  },
+  {
+    "id": 256,
+    "nombre": "SIGA",
+    "estado": 1
+  },
+  {
+    "id": 257,
+    "nombre": "SIKA",
+    "estado": 1
+  },
+  {
+    "id": 258,
+    "nombre": "SIN MARCA",
+    "estado": 1
+  },
+  {
+    "id": 259,
+    "nombre": "SK",
+    "estado": 1
+  },
+  {
+    "id": 260,
+    "nombre": "SM",
+    "estado": 1
+  },
+  {
+    "id": 261,
+    "nombre": "SOLARBLOCK",
+    "estado": 1
+  },
+  {
+    "id": 262,
+    "nombre": "SOLE",
+    "estado": 1
+  },
+  {
+    "id": 263,
+    "nombre": "SPRO",
+    "estado": 1
+  },
+  {
+    "id": 264,
+    "nombre": "STABY",
+    "estado": 1
+  },
+  {
+    "id": 265,
+    "nombre": "STADART",
+    "estado": 1
+  },
+  {
+    "id": 266,
+    "nombre": "STANDFORD",
+    "estado": 1
+  },
+  {
+    "id": 267,
+    "nombre": "STANLEY",
+    "estado": 1
+  },
+  {
+    "id": 268,
+    "nombre": "STEEL HARD",
+    "estado": 1
+  },
+  {
+    "id": 269,
+    "nombre": "STIHL",
+    "estado": 1
+  },
+  {
+    "id": 270,
+    "nombre": "STRONGER",
+    "estado": 1
+  },
+  {
+    "id": 271,
+    "nombre": "SUPER MOBIL",
+    "estado": 1
+  },
+  {
+    "id": 272,
+    "nombre": "SUPERCITO",
+    "estado": 1
+  },
+  {
+    "id": 273,
+    "nombre": "TAI LOY",
+    "estado": 1
+  },
+  {
+    "id": 274,
+    "nombre": "TEKNO",
+    "estado": 1
+  },
+  {
+    "id": 275,
+    "nombre": "TEMPS",
+    "estado": 1
+  },
+  {
+    "id": 276,
+    "nombre": "TERMAC",
+    "estado": 1
+  },
+  {
+    "id": 277,
+    "nombre": "THORCEM",
+    "estado": 1
+  },
+  {
+    "id": 278,
+    "nombre": "TIERRA GEL",
+    "estado": 1
+  },
+  {
+    "id": 279,
+    "nombre": "TIGRE",
+    "estado": 1
+  },
+  {
+    "id": 280,
+    "nombre": "TIMSUM",
+    "estado": 1
+  },
+  {
+    "id": 281,
+    "nombre": "TKL",
+    "estado": 1
+  },
+  {
+    "id": 282,
+    "nombre": "TMF",
+    "estado": 1
+  },
+  {
+    "id": 283,
+    "nombre": "TOOLS",
+    "estado": 1
+  },
+  {
+    "id": 284,
+    "nombre": "TOPCON",
+    "estado": 1
+  },
+  {
+    "id": 285,
+    "nombre": "TOPEX",
+    "estado": 1
+  },
+  {
+    "id": 286,
+    "nombre": "TOTAL",
+    "estado": 1
+  },
+  {
+    "id": 287,
+    "nombre": "TOTALTOOLS",
+    "estado": 1
+  },
+  {
+    "id": 288,
+    "nombre": "TP- LINK",
+    "estado": 1
+  },
+  {
+    "id": 289,
+    "nombre": "TR4",
+    "estado": 1
+  },
+  {
+    "id": 290,
+    "nombre": "TRAMONTINA",
+    "estado": 1
+  },
+  {
+    "id": 291,
+    "nombre": "TREBOL",
+    "estado": 1
+  },
+  {
+    "id": 292,
+    "nombre": "TRIDENTE",
+    "estado": 1
+  },
+  {
+    "id": 293,
+    "nombre": "TRODAT",
+    "estado": 1
+  },
+  {
+    "id": 294,
+    "nombre": "TROME",
+    "estado": 1
+  },
+  {
+    "id": 295,
+    "nombre": "TRUPER",
+    "estado": 1
+  },
+  {
+    "id": 296,
+    "nombre": "TUBOPLAST",
+    "estado": 1
+  },
+  {
+    "id": 297,
+    "nombre": "TUMI",
+    "estado": 1
+  },
+  {
+    "id": 298,
+    "nombre": "UND",
+    "estado": 1
+  },
+  {
+    "id": 299,
+    "nombre": "UNIVERSAL",
+    "estado": 1
+  },
+  {
+    "id": 300,
+    "nombre": "UYUSTOOLS",
+    "estado": 1
+  },
+  {
+    "id": 301,
+    "nombre": "V B",
+    "estado": 1
+  },
+  {
+    "id": 302,
+    "nombre": "VAINSA",
+    "estado": 1
+  },
+  {
+    "id": 303,
+    "nombre": "VALMAX",
+    "estado": 1
+  },
+  {
+    "id": 304,
+    "nombre": "VALVA",
+    "estado": 1
+  },
+  {
+    "id": 305,
+    "nombre": "VENCEDOR",
+    "estado": 1
+  },
+  {
+    "id": 306,
+    "nombre": "VINIFAN",
+    "estado": 1
+  },
+  {
+    "id": 307,
+    "nombre": "VIRAL",
+    "estado": 1
+  },
+  {
+    "id": 308,
+    "nombre": "VISION",
+    "estado": 1
+  },
+  {
+    "id": 309,
+    "nombre": "VISTONY",
+    "estado": 1
+  },
+  {
+    "id": 310,
+    "nombre": "WERKEN",
+    "estado": 1
+  },
+  {
+    "id": 311,
+    "nombre": "WONPRO",
+    "estado": 1
+  },
+  {
+    "id": 312,
+    "nombre": "XIAOMI",
+    "estado": 1
+  },
+  {
+    "id": 313,
+    "nombre": "YALE",
+    "estado": 1
+  },
+  {
+    "id": 314,
+    "nombre": "YODOC",
+    "estado": 1
+  },
+  {
+    "id": 315,
+    "nombre": "YOKOPARTS",
+    "estado": 1
+  },
+  {
+    "id": 316,
+    "nombre": "ZOOAGRO",
+    "estado": 1
+  }
+]

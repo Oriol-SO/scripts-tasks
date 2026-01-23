@@ -1,0 +1,14 @@
+{
+  "total": 1111,
+  "marcas_encontradas": 1092,
+  "marcas_no_encontradas": 0,
+  "marcas_nulas": 19,
+  "unidades_encontradas": 1107,
+  "unidades_no_encontradas": 4,
+  "unidades_nulas": 0,
+  "marcas_sin_match": [],
+  "unidades_sin_match": [
+    "cnt",
+    "p²"
+  ]
+}

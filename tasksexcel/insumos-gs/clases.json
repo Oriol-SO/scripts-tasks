@@ -1,0 +1,569 @@
+[
+  {
+    "id": 1,
+    "id_clase": "CL0000000001",
+    "codigo_clase": 1,
+    "descripcion_clase": "Aceite",
+    "Columna1": "CL0000000001"
+  },
+  {
+    "id": 2,
+    "id_clase": "CL0000000002",
+    "codigo_clase": 3,
+    "descripcion_clase": "Acero de Construcción Corrugado",
+    "Columna1": "CL0000000002"
+  },
+  {
+    "id": 3,
+    "id_clase": "CL0000000003",
+    "codigo_clase": 2,
+    "descripcion_clase": "Acero de Construcción Liso",
+    "Columna1": "CL0000000003"
+  },
+  {
+    "id": 4,
+    "id_clase": "CL0000000004",
+    "codigo_clase": 4,
+    "descripcion_clase": "Agregado Fino",
+    "Columna1": "CL0000000004"
+  },
+  {
+    "id": 5,
+    "id_clase": "CL0000000005",
+    "codigo_clase": 47,
+    "descripcion_clase": "Mano de Obra (Incluido Leyes Sociales)",
+    "Columna1": "CL0000000005"
+  },
+  {
+    "id": 6,
+    "id_clase": "CL0000000006",
+    "codigo_clase": 5,
+    "descripcion_clase": "Agregado Grueso",
+    "Columna1": "CL0000000006"
+  },
+  {
+    "id": 7,
+    "id_clase": "CL0000000007",
+    "codigo_clase": 48,
+    "descripcion_clase": "Maquinaria y Equipo Nacional",
+    "Columna1": "CL0000000007"
+  },
+  {
+    "id": 8,
+    "id_clase": "CL0000000008",
+    "codigo_clase": 49,
+    "descripcion_clase": "Maquinaria y Equipo Importados",
+    "Columna1": "CL0000000008"
+  },
+  {
+    "id": 9,
+    "id_clase": "CL0000000009",
+    "codigo_clase": 999,
+    "descripcion_clase": "SIN_CLASE",
+    "Columna1": "CL0000000009"
+  },
+  {
+    "id": 10,
+    "id_clase": "CL0000000010",
+    "codigo_clase": 6,
+    "descripcion_clase": "Alambre y Cable de Cobre Desnudo",
+    "Columna1": "CL0000000010"
+  },
+  {
+    "id": 11,
+    "id_clase": "CL0000000011",
+    "codigo_clase": 7,
+    "descripcion_clase": "Alambre y Cable Tipo TW y THW",
+    "Columna1": "CL0000000011"
+  },
+  {
+    "id": 12,
+    "id_clase": "CL0000000012",
+    "codigo_clase": 13,
+    "descripcion_clase": "Asfalto",
+    "Columna1": "CL0000000012"
+  },
+  {
+    "id": 13,
+    "id_clase": "CL0000000013",
+    "codigo_clase": 10,
+    "descripcion_clase": "Aparato Sanitario con Grifería",
+    "Columna1": "CL0000000013"
+  },
+  {
+    "id": 14,
+    "id_clase": "CL0000000014",
+    "codigo_clase": 8,
+    "descripcion_clase": "Alambre y Cable Tipo WP",
+    "Columna1": "CL0000000014"
+  },
+  {
+    "id": 15,
+    "id_clase": "CL0000000015",
+    "codigo_clase": 32,
+    "descripcion_clase": "Flete Terrestre",
+    "Columna1": "CL0000000015"
+  },
+  {
+    "id": 16,
+    "id_clase": "CL0000000016",
+    "codigo_clase": 33,
+    "descripcion_clase": "Flete Aéreo",
+    "Columna1": "CL0000000016"
+  },
+  {
+    "id": 17,
+    "id_clase": "CL0000000017",
+    "codigo_clase": 64,
+    "descripcion_clase": "Terrazo",
+    "Columna1": "CL0000000017"
+  },
+  {
+    "id": 18,
+    "id_clase": "CL0000000018",
+    "codigo_clase": 46,
+    "descripcion_clase": "Malla de Acero",
+    "Columna1": "CL0000000018"
+  },
+  {
+    "id": 19,
+    "id_clase": "CL0000000019",
+    "codigo_clase": 62,
+    "descripcion_clase": "Poste de Concreto",
+    "Columna1": "CL0000000019"
+  },
+  {
+    "id": 20,
+    "id_clase": "CL0000000020",
+    "codigo_clase": 9,
+    "descripcion_clase": "Alcantarilla Metálica",
+    "Columna1": "CL0000000020"
+  },
+  {
+    "id": 21,
+    "id_clase": "CL0000000021",
+    "codigo_clase": 39,
+    "descripcion_clase": "Indice General de Precios al Consumidor (INEI)",
+    "Columna1": "CL0000000021"
+  },
+  {
+    "id": 22,
+    "id_clase": "CL0000000022",
+    "codigo_clase": 37,
+    "descripcion_clase": "Herramienta Manual",
+    "Columna1": "CL0000000022"
+  },
+  {
+    "id": 23,
+    "id_clase": "CL0000000023",
+    "codigo_clase": 38,
+    "descripcion_clase": "Hormigón",
+    "Columna1": "CL0000000023"
+  },
+  {
+    "id": 24,
+    "id_clase": "CL0000000024",
+    "codigo_clase": 40,
+    "descripcion_clase": "Loseta",
+    "Columna1": "CL0000000024"
+  },
+  {
+    "id": 25,
+    "id_clase": "CL0000000025",
+    "codigo_clase": 41,
+    "descripcion_clase": "Madera en Tiras para Piso",
+    "Columna1": "CL0000000025"
+  },
+  {
+    "id": 26,
+    "id_clase": "CL0000000026",
+    "codigo_clase": 11,
+    "descripcion_clase": "Artefacto de Alumbrado Exterior",
+    "Columna1": "CL0000000026"
+  },
+  {
+    "id": 27,
+    "id_clase": "CL0000000027",
+    "codigo_clase": 12,
+    "descripcion_clase": "Artefacto de Alumbrado Interior",
+    "Columna1": "CL0000000027"
+  },
+  {
+    "id": 28,
+    "id_clase": "CL0000000028",
+    "codigo_clase": 14,
+    "descripcion_clase": "Baldosa Acústica",
+    "Columna1": "CL0000000028"
+  },
+  {
+    "id": 29,
+    "id_clase": "CL0000000029",
+    "codigo_clase": 15,
+    "descripcion_clase": "Baldosa Alfástica (Índice Unificado 15 se encuentra “descontinuado”)",
+    "Columna1": "CL0000000029"
+  },
+  {
+    "id": 30,
+    "id_clase": "CL0000000030",
+    "codigo_clase": 16,
+    "descripcion_clase": "Baldosa Vinílica",
+    "Columna1": "CL0000000030"
+  },
+  {
+    "id": 31,
+    "id_clase": "CL0000000031",
+    "codigo_clase": 17,
+    "descripcion_clase": "Bloque y Ladrillo",
+    "Columna1": "CL0000000031"
+  },
+  {
+    "id": 32,
+    "id_clase": "CL0000000032",
+    "codigo_clase": 18,
+    "descripcion_clase": "Cable Telefónico (Se sustituye el Índice 29 por el Nº 18 para todo tipo de cable telefónico)",
+    "Columna1": "CL0000000032"
+  },
+  {
+    "id": 33,
+    "id_clase": "CL0000000033",
+    "codigo_clase": 19,
+    "descripcion_clase": "Cable NYY y N2XY (Reagrupan el IU 18 cables NKY dentro del IU 19 cables NYY, el nuevo elemento N2XY en reemplazo del Cable NKY)",
+    "Columna1": "CL0000000033"
+  },
+  {
+    "id": 34,
+    "id_clase": "CL0000000034",
+    "codigo_clase": 20,
+    "descripcion_clase": "Cemento Asfáltico",
+    "Columna1": "CL0000000034"
+  },
+  {
+    "id": 35,
+    "id_clase": "CL0000000035",
+    "codigo_clase": 21,
+    "descripcion_clase": "Cemento Portland Tipo I",
+    "Columna1": "CL0000000035"
+  },
+  {
+    "id": 36,
+    "id_clase": "CL0000000036",
+    "codigo_clase": 22,
+    "descripcion_clase": "Cemento Portland Tipo II",
+    "Columna1": "CL0000000036"
+  },
+  {
+    "id": 37,
+    "id_clase": "CL0000000037",
+    "codigo_clase": 23,
+    "descripcion_clase": "Cemento Portland Tipo V",
+    "Columna1": "CL0000000037"
+  },
+  {
+    "id": 38,
+    "id_clase": "CL0000000038",
+    "codigo_clase": 24,
+    "descripcion_clase": "Cerámica Esmaltada y sin Esmaltar",
+    "Columna1": "CL0000000038"
+  },
+  {
+    "id": 39,
+    "id_clase": "CL0000000039",
+    "codigo_clase": 26,
+    "descripcion_clase": "Cerrajería Nacional",
+    "Columna1": "CL0000000039"
+  },
+  {
+    "id": 40,
+    "id_clase": "CL0000000040",
+    "codigo_clase": 27,
+    "descripcion_clase": "Detonante",
+    "Columna1": "CL0000000040"
+  },
+  {
+    "id": 41,
+    "id_clase": "CL0000000041",
+    "codigo_clase": 28,
+    "descripcion_clase": "Dinamita",
+    "Columna1": "CL0000000041"
+  },
+  {
+    "id": 42,
+    "id_clase": "CL0000000042",
+    "codigo_clase": 30,
+    "descripcion_clase": "Dólar",
+    "Columna1": "CL0000000042"
+  },
+  {
+    "id": 43,
+    "id_clase": "CL0000000043",
+    "codigo_clase": 31,
+    "descripcion_clase": "Ducto de Concreto",
+    "Columna1": "CL0000000043"
+  },
+  {
+    "id": 44,
+    "id_clase": "CL0000000044",
+    "codigo_clase": 34,
+    "descripcion_clase": "Gasolina",
+    "Columna1": "CL0000000044"
+  },
+  {
+    "id": 45,
+    "id_clase": "CL0000000045",
+    "codigo_clase": 42,
+    "descripcion_clase": "Madera Importada para Encofrado y Carpintería",
+    "Columna1": "CL0000000045"
+  },
+  {
+    "id": 46,
+    "id_clase": "CL0000000046",
+    "codigo_clase": 43,
+    "descripcion_clase": "Madera Nacional para Encofrado y Carpintería",
+    "Columna1": "CL0000000046"
+  },
+  {
+    "id": 47,
+    "id_clase": "CL0000000047",
+    "codigo_clase": 44,
+    "descripcion_clase": "Madera Terciada para Encofrado y Carpintería",
+    "Columna1": "CL0000000047"
+  },
+  {
+    "id": 48,
+    "id_clase": "CL0000000048",
+    "codigo_clase": 45,
+    "descripcion_clase": "Madera Terciada para Encofrado",
+    "Columna1": "CL0000000048"
+  },
+  {
+    "id": 49,
+    "id_clase": "CL0000000049",
+    "codigo_clase": 50,
+    "descripcion_clase": "Marco y Tapa de Fierro Fundido",
+    "Columna1": "CL0000000049"
+  },
+  {
+    "id": 50,
+    "id_clase": "CL0000000050",
+    "codigo_clase": 51,
+    "descripcion_clase": "Perfil de Acero Liviano",
+    "Columna1": "CL0000000050"
+  },
+  {
+    "id": 51,
+    "id_clase": "CL0000000051",
+    "codigo_clase": 52,
+    "descripcion_clase": "Perfil de Aluminio",
+    "Columna1": "CL0000000051"
+  },
+  {
+    "id": 52,
+    "id_clase": "CL0000000052",
+    "codigo_clase": 53,
+    "descripcion_clase": "Petróleo Diesel",
+    "Columna1": "CL0000000052"
+  },
+  {
+    "id": 53,
+    "id_clase": "CL0000000053",
+    "codigo_clase": 54,
+    "descripcion_clase": "Pintura Látex",
+    "Columna1": "CL0000000053"
+  },
+  {
+    "id": 54,
+    "id_clase": "CL0000000054",
+    "codigo_clase": 55,
+    "descripcion_clase": "Pintura Temple",
+    "Columna1": "CL0000000054"
+  },
+  {
+    "id": 55,
+    "id_clase": "CL0000000055",
+    "codigo_clase": 56,
+    "descripcion_clase": "Plancha de Acero LAC",
+    "Columna1": "CL0000000055"
+  },
+  {
+    "id": 56,
+    "id_clase": "CL0000000056",
+    "codigo_clase": 57,
+    "descripcion_clase": "Plancha de Acero LAF",
+    "Columna1": "CL0000000056"
+  },
+  {
+    "id": 57,
+    "id_clase": "CL0000000057",
+    "codigo_clase": 59,
+    "descripcion_clase": "Plancha de Fibro - Cemento",
+    "Columna1": "CL0000000057"
+  },
+  {
+    "id": 58,
+    "id_clase": "CL0000000058",
+    "codigo_clase": 60,
+    "descripcion_clase": "Plancha de Poliuretano",
+    "Columna1": "CL0000000058"
+  },
+  {
+    "id": 59,
+    "id_clase": "CL0000000059",
+    "codigo_clase": 65,
+    "descripcion_clase": "Tubería de Acero Negro y/o Galvanizada",
+    "Columna1": "CL0000000059"
+  },
+  {
+    "id": 60,
+    "id_clase": "CL0000000060",
+    "codigo_clase": 66,
+    "descripcion_clase": "Tubería de PVC para la Red de Agua Potable y Alcantarillado",
+    "Columna1": "CL0000000060"
+  },
+  {
+    "id": 61,
+    "id_clase": "CL0000000061",
+    "codigo_clase": 68,
+    "descripcion_clase": "Tubería de Cobre",
+    "Columna1": "CL0000000061"
+  },
+  {
+    "id": 62,
+    "id_clase": "CL0000000062",
+    "codigo_clase": 69,
+    "descripcion_clase": "Tubería de Concreto Simple",
+    "Columna1": "CL0000000062"
+  },
+  {
+    "id": 63,
+    "id_clase": "CL0000000063",
+    "codigo_clase": 70,
+    "descripcion_clase": "Tubería de Concreto Reforzado",
+    "Columna1": "CL0000000063"
+  },
+  {
+    "id": 64,
+    "id_clase": "CL0000000064",
+    "codigo_clase": 71,
+    "descripcion_clase": "Tubería de Fierro Fundido",
+    "Columna1": "CL0000000064"
+  },
+  {
+    "id": 65,
+    "id_clase": "CL0000000065",
+    "codigo_clase": 72,
+    "descripcion_clase": "Tubería de PVC para Agua",
+    "Columna1": "CL0000000065"
+  },
+  {
+    "id": 66,
+    "id_clase": "CL0000000066",
+    "codigo_clase": 73,
+    "descripcion_clase": "Ducto Telefónico de PVC",
+    "Columna1": "CL0000000066"
+  },
+  {
+    "id": 67,
+    "id_clase": "CL0000000067",
+    "codigo_clase": 74,
+    "descripcion_clase": "Tubería de PVC para Electricidad SAP (Se reagrupó, cambió a indice 72)",
+    "Columna1": "CL0000000067"
+  },
+  {
+    "id": 68,
+    "id_clase": "CL0000000068",
+    "codigo_clase": 77,
+    "descripcion_clase": "Válvula de Bronce Nacional",
+    "Columna1": "CL0000000068"
+  },
+  {
+    "id": 69,
+    "id_clase": "CL0000000069",
+    "codigo_clase": 78,
+    "descripcion_clase": "Válvula de Fierro Fundido Nacional",
+    "Columna1": "CL0000000069"
+  },
+  {
+    "id": 70,
+    "id_clase": "CL0000000070",
+    "codigo_clase": 79,
+    "descripcion_clase": "Vidrio Incoloro Nacional (En suspenso, se reagrupó a indice 30)",
+    "Columna1": "CL0000000070"
+  },
+  {
+    "id": 71,
+    "id_clase": "CL0000000071",
+    "codigo_clase": 61,
+    "descripcion_clase": "Plancha Galvanizada",
+    "Columna1": "CL0000000071"
+  },
+  {
+    "id": 72,
+    "id_clase": "CL0000000072",
+    "codigo_clase": 29,
+    "descripcion_clase": "Ocre (Se reagrupó, cambió a indice 30)",
+    "Columna1": "CL0000000072"
+  },
+  {
+    "id": 73,
+    "id_clase": "CL0000000073",
+    "codigo_clase": 25,
+    "descripcion_clase": "Cerámica Inportada (Se reagrupó, cambió a indice 30)",
+    "Columna1": "CL0000000073"
+  },
+  {
+    "id": 74,
+    "id_clase": "CL0000000074",
+    "codigo_clase": 80,
+    "descripcion_clase": "Concreto Premezclado",
+    "Columna1": "CL0000000074"
+  },
+  {
+    "id": 75,
+    "id_clase": "CL0000000075",
+    "codigo_clase": 35,
+    "descripcion_clase": "Gelatina (Se reagrupó, cambió a indice 28)",
+    "Columna1": "CL0000000075"
+  },
+  {
+    "id": 76,
+    "id_clase": "CL0000000076",
+    "codigo_clase": 36,
+    "descripcion_clase": "Gelignita (Se reagrupó, cambió a indice 28)",
+    "Columna1": "CL0000000076"
+  },
+  {
+    "id": 77,
+    "id_clase": "CL0000000077",
+    "codigo_clase": 58,
+    "descripcion_clase": "Plancha de acero mediano LAC (Se reagrupó, cambió a indice 56)",
+    "Columna1": "CL0000000077"
+  },
+  {
+    "id": 78,
+    "id_clase": "CL0000000078",
+    "codigo_clase": 63,
+    "descripcion_clase": "Poste de Fierro (Se reagrupó, cambió a indice 65)",
+    "Columna1": "CL0000000078"
+  },
+  {
+    "id": 79,
+    "id_clase": "CL0000000079",
+    "codigo_clase": 67,
+    "descripcion_clase": "Tubería de asbesto cemento de 18\"a 24\" (Se reagrupó, cambió a indice 66)",
+    "Columna1": "CL0000000079"
+  },
+  {
+    "id": 80,
+    "id_clase": "CL0000000080",
+    "codigo_clase": 75,
+    "descripcion_clase": "Tubería de PVC para Electricidad SEL (Se reagrupó, cambió a indice 72)",
+    "Columna1": "CL0000000080"
+  },
+  {
+    "id": 81,
+    "id_clase": "CL0000000081",
+    "codigo_clase": 76,
+    "descripcion_clase": "Válvula de bronce importada (Se reagrupó, cambió a indice 30)",
+    "Columna1": "CL0000000081"
+  }
+]

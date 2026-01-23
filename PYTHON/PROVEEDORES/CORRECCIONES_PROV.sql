@@ -1,0 +1,46 @@
+
+SGCEO MACONAV S.A.C			OK	
+S.G.C.E.O. MACONAV SAC  DEL 
+
+JJ SAENZ PEÑA ASESORES E.I.R.L		 OK		
+JJ SAENZ PEÑAASESORES EIRL   DEL    
+
+GAVILAN EDSON FABIAN JESUS			OK	(GAVILAN TITO EDSON FABIAN JESUS)
+GAVILAN TITO EDSON                 DEL
+
+"CASTILLON LAYMITO CRISTIAN",   CORRE (CASTILLO LAYMITO CRISTIAN)
+
+"COMPAÑIA INNMOBILIARIA ZUHAITZ SAC", CORRE (COMPAÑIA INMOBILIARIA ZUHAITZ SAC)
+
+"N Y ML CONSULTORES Y EJECUTORES S.A.C", CORRE (N Y MJ CONSULTORES Y EJECUTORES SAC)
+
+"FEDERACION UNITARIA DE TRABAJADORES", CORRE (FEDERACION UNITARIA DE TRABAJADORES EN CONSTRUCCION CIVIL Y DE ACTIVIDADES SIMILARES DEL PERU-FUTCCA)
+
+ "CORPORACION MEDICA SAN JOSE", CORRE (CORPORACION MEDICA SAN JOSE E.I.R.L)
+
+ /*ANTES DE HACER LAS CORRECCIONES VERIFICAR LOS ID*/
+
+select*from registros where proveedor_id in (650,2103);
+
+
+update registros set proveedor_id=650 where proveedor_id=2103;
+delete from proveedores where id=2103;
+
+update registros set proveedor_id=1871 where proveedor_id=2148;
+delete from proveedores where id=2148;
+
+
+update registros set proveedor_id=1691 where proveedor_id=1832;
+delete from proveedores where id=1832;
+update proveedores set nombre="GAVILAN TITO EDSON FABIAN JESUS" where id=1691;
+
+
+update proveedores set nombre="CASTILLO LAYMITO CRISTIAN" where id=1622;
+
+update proveedores set nombre="COMPAÑIA INMOBILIARIA ZUHAITZ SAC" where id=1925;
+
+update proveedores set nombre="N Y MJ CONSULTORES Y EJECUTORES SAC" where id=2077;
+
+update proveedores set nombre="FEDERACION UNITARIA DE TRABAJADORES EN CONSTRUCCION CIVIL Y DE ACTIVIDADES SIMILARES DEL PERU-FUTCCA" where id=1808;
+
+update proveedores set nombre="CORPORACION MEDICA SAN JOSE E.I.R.L" where id=2038

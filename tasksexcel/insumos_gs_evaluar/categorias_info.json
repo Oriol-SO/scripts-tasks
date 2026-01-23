@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "total_categorias": 82,
+    "fecha_creacion": "2025-10-18",
+    "descripcion": "Categorías de gastos y recursos para gestión de proyectos"
+  },
+  "grupos": {
+    "principales": {
+      "rango_id": "1-20",
+      "descripcion": "Categorías principales de costos",
+      "categorias": [
+        { "id": 1, "nombre": "MANO DE OBRA" },
+        { "id": 2, "nombre": "SUB CONTRATA" },
+        { "id": 3, "nombre": "MATERIALES" },
+        { "id": 4, "nombre": "EQUIPOS" },
+        { "id": 5, "nombre": "GASTOS GENERALES" },
+        { "id": 6, "nombre": "SEGURIDAD" },
+        { "id": 7, "nombre": "MANEJO AMBIENTAL" },
+        { "id": 8, "nombre": "CAJA CHICA O." },
+        { "id": 10, "nombre": "CEMENTO" },
+        { "id": 11, "nombre": "ACEROS" },
+        { "id": 12, "nombre": "HERRAMIENTAS" },
+        { "id": 13, "nombre": "EPPS" },
+        { "id": 14, "nombre": "MAQUINARIA" }
+      ]
+    },
+    "impuestos_y_planilla": {
+      "rango_id": "26-41",
+      "descripcion": "Impuestos, planilla y beneficios laborales",
+      "categorias": [
+        { "id": 26, "nombre": "IGV" },
+        { "id": 27, "nombre": "RENTA" },
+        { "id": 28, "nombre": "FACTURAS" },
+        { "id": 30, "nombre": "PAGO DE VALORIZACION" },
+        { "id": 33, "nombre": "PLANILLA" },
+        { "id": 34, "nombre": "RH" },
+        { "id": 35, "nombre": "ESSALUD" },
+        { "id": 36, "nombre": "FONDO DE PENSIONES" },
+        { "id": 37, "nombre": "RENTA 4ta CARTEGORIA" },
+        { "id": 38, "nombre": "RENTA 5ta CARTEGORIA" },
+        { "id": 39, "nombre": "VIDA LEY" },
+        { "id": 40, "nombre": "CTS" },
+        { "id": 41, "nombre": "PENSION" }
+      ]
+    },
+    "equipamiento_oficina": {
+      "rango_id": "56-93",
+      "descripcion": "Equipamiento de oficina y tecnología",
+      "categorias": [
+        { "id": 56, "nombre": "IMPRESORAS" },
+        { "id": 60, "nombre": "OFICINA" },
+        { "id": 62, "nombre": "SILLAS" },
+        { "id": 64, "nombre": "COMPUTADORA GA" },
+        { "id": 65, "nombre": "COMPUTADORA GM" },
+        { "id": 67, "nombre": "LAPTOPS" },
+        { "id": 70, "nombre": "PLOTERS" },
+        { "id": 71, "nombre": "PROYECTOR MULTIMEDIA" },
+        { "id": 73, "nombre": "ESCRITORIOS" },
+        { "id": 74, "nombre": "AUDIFONOS" },
+        { "id": 75, "nombre": "TACHOS (LIMPIEZA)" },
+        { "id": 79, "nombre": "MUEBLES" },
+        { "id": 81, "nombre": "TELEFONOS" },
+        { "id": 82, "nombre": "ESTABILIZADORES" },
+        { "id": 83, "nombre": "CAMARA" },
+        { "id": 84, "nombre": "CASE SWITCH/SSD" },
+        { "id": 85, "nombre": "PARLANTES" },
+        { "id": 86, "nombre": "PAD MOUSE" },
+        { "id": 87, "nombre": "USB" },
+        { "id": 88, "nombre": "FUENTE DE PODER" },
+        { "id": 89, "nombre": "PROCESADOR" },
+        { "id": 90, "nombre": "ADAPTADORES" },
+        { "id": 91, "nombre": "ECRAN" },
+        { "id": 92, "nombre": "ESTUFA" },
+        { "id": 93, "nombre": "MONITOR" }
+      ]
+    },
+    "servicios": {
+      "rango_id": "132-143",
+      "descripcion": "Servicios básicos y tecnológicos",
+      "categorias": [
+        { "id": 132, "nombre": "ALQUILER" },
+        { "id": 133, "nombre": "INTERNET" },
+        { "id": 134, "nombre": "TELEFONIA" },
+        { "id": 135, "nombre": "AGUA" },
+        { "id": 136, "nombre": "LUZ" },
+        { "id": 137, "nombre": "LIMPIEZA" },
+        { "id": 138, "nombre": "APLICATIVOS INFORMATICOS" },
+        { "id": 139, "nombre": "PAGINA WEB" },
+        { "id": 140, "nombre": "SOPORTE TECNICO" },
+        { "id": 141, "nombre": "SOFTWARE" },
+        { "id": 142, "nombre": "VIGILANCIA" },
+        { "id": 143, "nombre": "IMPRESIÓN" }
+      ]
+    },
+    "especiales": {
+      "rango_id": "330+",
+      "descripcion": "Categorías especiales y específicas",
+      "categorias": [
+        { "id": 330, "nombre": "ROUTER" },
+        { "id": 331, "nombre": "CARPAS" },
+        { "id": 339, "nombre": "SCTR" },
+        { "id": 340, "nombre": "PRESTAMOS" },
+        { "id": 341, "nombre": "PAGO PERSONAL" },
+        { "id": 342, "nombre": "CORRECTIVO" },
+        { "id": 343, "nombre": "PREVENTIVO" },
+        { "id": 346, "nombre": "MOV TIERRAS" },
+        { "id": 347, "nombre": "PAVIMENTO" },
+        { "id": 352, "nombre": "ENCOFRADOS" },
+        { "id": 355, "nombre": "ARENA GRUESA" }
+      ]
+    }
+  },
+  "estadisticas": {
+    "por_grupo": {
+      "principales": 13,
+      "impuestos_y_planilla": 13,
+      "equipamiento_oficina": 25,
+      "servicios": 12,
+      "especiales": 11
+    },
+    "categorias_mas_importantes": [
+      "MANO DE OBRA",
+      "MATERIALES",
+      "EQUIPOS",
+      "PLANILLA",
+      "ESSALUD"
+    ]
+  }
+}
+

@@ -1,0 +1,56 @@
+[
+  {
+    "id":1,
+    "codigo": "TC0000000001",
+    "origen": "db_ingenio",
+    "descripcion_categoria": "MANO DE OBRA"
+  },
+  {
+    "id":2,
+    "codigo": "TC0000000002",
+    "origen": "db_ingenio",
+    "descripcion_categoria": "MATERIALES"
+  },
+  {
+    "id":3,
+    "codigo": "TC0000000003",
+    "origen": "db_ingenio",
+    "descripcion_categoria": "EQUIPO"
+  },
+  {
+    "id":4,
+    "codigo": "TC0000000004",
+    "origen": "db_ingenio",
+    "descripcion_categoria": "SUB-CONTRATOS"
+  },
+  {
+    "id":5,
+    "codigo": "TC0000000005",
+    "origen": "db_ingenio",
+    "descripcion_categoria": "COSTOS AUXILIARES"
+  },
+  {
+    "id":6,
+    "codigo": "TC0000000006",
+    "origen": "db_ingenio",
+    "descripcion_categoria": "GASTO GENERAL"
+  },
+  {
+    "id":7,
+    "codigo": "TC0000000007",
+    "origen": "db_ingenio",
+    "descripcion_categoria": "REPUESTOS, COMBUSTIBLE Y LUBRICANTES"
+  },
+  {
+    "id":8,
+    "codigo": "TC0000000008",
+    "origen": "db_ingenio",
+    "descripcion_categoria": "SUB-PARTIDAS"
+  },
+  { 
+    "id":9,
+    "codigo": "TC0000000009",
+    "origen": "db_ingenio",
+    "descripcion_categoria": "OTROS"
+  }
+]

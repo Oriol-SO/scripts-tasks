@@ -1,0 +1,622 @@
+[
+  {
+    "id": 1,
+    "nombre": "PLANILLAS",
+    "estado": 1
+  },
+  {
+    "id": 2,
+    "nombre": "PENSION",
+    "estado": 1
+  },
+  {
+    "id": 3,
+    "nombre": "CUARTOS",
+    "estado": 1
+  },
+  {
+    "id": 4,
+    "nombre": "CAMAS , COLCHONES",
+    "estado": 1
+  },
+  {
+    "id": 5,
+    "nombre": "ESSALUD",
+    "estado": 1
+  },
+  {
+    "id": 6,
+    "nombre": "SINDICATO",
+    "estado": 1
+  },
+  {
+    "id": 7,
+    "nombre": "FONDO DE PENSIONES",
+    "estado": 1
+  },
+  {
+    "id": 8,
+    "nombre": "CONAFOVICER",
+    "estado": 1
+  },
+  {
+    "id": 9,
+    "nombre": "RENTA 4ta CARTEGORIA",
+    "estado": 1
+  },
+  {
+    "id": 10,
+    "nombre": "RENTA 5ta CARTEGORIA",
+    "estado": 1
+  },
+  {
+    "id": 11,
+    "nombre": "MOV TIERRAS",
+    "estado": 1
+  },
+  {
+    "id": 12,
+    "nombre": "PAVIMENTO",
+    "estado": 1
+  },
+  {
+    "id": 13,
+    "nombre": "VEREDAS",
+    "estado": 1
+  },
+  {
+    "id": 14,
+    "nombre": "CERRAJERIA",
+    "estado": 1
+  },
+  {
+    "id": 15,
+    "nombre": "PINTURA",
+    "estado": 1
+  },
+  {
+    "id": 16,
+    "nombre": "ENCOFRADOS",
+    "estado": 1
+  },
+  {
+    "id": 17,
+    "nombre": "ADOQUINES",
+    "estado": 1
+  },
+  {
+    "id": 18,
+    "nombre": "AFIRMADO",
+    "estado": 1
+  },
+  {
+    "id": 19,
+    "nombre": "ACERO",
+    "estado": 1
+  },
+  {
+    "id": 20,
+    "nombre": "AGREGADOS FINO",
+    "estado": 1
+  },
+  {
+    "id": 21,
+    "nombre": "AGREGADO GRUESO",
+    "estado": 1
+  },
+  {
+    "id": 22,
+    "nombre": "ADITIVOS",
+    "estado": 1
+  },
+  {
+    "id": 23,
+    "nombre": "APARATOS SANITARIOS",
+    "estado": 1
+  },
+  {
+    "id": 24,
+    "nombre": "ASFALTO",
+    "estado": 1
+  },
+  {
+    "id": 25,
+    "nombre": "BLOQUES Y LADRILLOS",
+    "estado": 1
+  },
+  {
+    "id": 26,
+    "nombre": "CEMENTO",
+    "estado": 1
+  },
+  {
+    "id": 27,
+    "nombre": "CERAMICAS",
+    "estado": 1
+  },
+  {
+    "id": 28,
+    "nombre": "CERRAJERIA",
+    "estado": 1
+  },
+  {
+    "id": 29,
+    "nombre": "DETONANTE",
+    "estado": 1
+  },
+  {
+    "id": 30,
+    "nombre": "POSTE DE CONCRETO",
+    "estado": 1
+  },
+  {
+    "id": 31,
+    "nombre": "LOSETA",
+    "estado": 1
+  },
+  {
+    "id": 32,
+    "nombre": "ELECTRICOS",
+    "estado": 1
+  },
+  {
+    "id": 33,
+    "nombre": "GASFITERIA_A",
+    "estado": 1
+  },
+  {
+    "id": 34,
+    "nombre": "GASFITERIA_D",
+    "estado": 1
+  },
+  {
+    "id": 35,
+    "nombre": "TUBOS PVC",
+    "estado": 1
+  },
+  {
+    "id": 36,
+    "nombre": "MADERA",
+    "estado": 1
+  },
+  {
+    "id": 37,
+    "nombre": "PINTURA",
+    "estado": 1
+  },
+  {
+    "id": 38,
+    "nombre": "CAJA DE AGUA",
+    "estado": 1
+  },
+  {
+    "id": 39,
+    "nombre": "GRASA",
+    "estado": 1
+  },
+  {
+    "id": 40,
+    "nombre": "GEOMEMBRANA",
+    "estado": 1
+  },
+  {
+    "id": 41,
+    "nombre": "TAPAS DE CONCRETO",
+    "estado": 1
+  },
+  {
+    "id": 42,
+    "nombre": "ORNAMENTALES",
+    "estado": 1
+  },
+  {
+    "id": 43,
+    "nombre": "POLIMEROS",
+    "estado": 1
+  },
+  {
+    "id": 44,
+    "nombre": "CONCRETO PREMEZCLADO",
+    "estado": 1
+  },
+  {
+    "id": 45,
+    "nombre": "FLETE",
+    "estado": 1
+  },
+  {
+    "id": 46,
+    "nombre": "HERRAMIENTAS",
+    "estado": 1
+  },
+  {
+    "id": 47,
+    "nombre": "EQUIPOS PESADOS",
+    "estado": 1
+  },
+  {
+    "id": 48,
+    "nombre": "EQUIPOS LIVIANOS",
+    "estado": 1
+  },
+  {
+    "id": 49,
+    "nombre": "PETROLEO",
+    "estado": 1
+  },
+  {
+    "id": 50,
+    "nombre": "GASOLINA",
+    "estado": 1
+  },
+  {
+    "id": 51,
+    "nombre": "TOPOGRAFIA",
+    "estado": 1
+  },
+  {
+    "id": 52,
+    "nombre": "MOVILIZACION",
+    "estado": 1
+  },
+  {
+    "id": 53,
+    "nombre": "SERVICIOS",
+    "estado": 1
+  },
+  {
+    "id": 54,
+    "nombre": "PAGO PERSONAL",
+    "estado": 1
+  },
+  {
+    "id": 55,
+    "nombre": "GASTOS DE ESTADIA",
+    "estado": 1
+  },
+  {
+    "id": 56,
+    "nombre": "EQUIPOS DE SEGURIDAD",
+    "estado": 1
+  },
+  {
+    "id": 57,
+    "nombre": "UTILES DE ESCRITORIO",
+    "estado": 1
+  },
+  {
+    "id": 58,
+    "nombre": "HERRAMIENTAS DE OFICINA",
+    "estado": 1
+  },
+  {
+    "id": 59,
+    "nombre": "CAMIONETA",
+    "estado": 1
+  },
+  {
+    "id": 60,
+    "nombre": "GASTOS DE VISITA OBRA",
+    "estado": 1
+  },
+  {
+    "id": 61,
+    "nombre": "PRIMAS DE FIANZA",
+    "estado": 1
+  },
+  {
+    "id": 62,
+    "nombre": "SENCICO",
+    "estado": 1
+  },
+  {
+    "id": 63,
+    "nombre": "ITF",
+    "estado": 1
+  },
+  {
+    "id": 64,
+    "nombre": "SCTR",
+    "estado": 1
+  },
+  {
+    "id": 65,
+    "nombre": "VIDA LEY",
+    "estado": 1
+  },
+  {
+    "id": 66,
+    "nombre": "POLIZA CAR",
+    "estado": 1
+  },
+  {
+    "id": 67,
+    "nombre": "LIQUIDACION DE OBRA",
+    "estado": 1
+  },
+  {
+    "id": 68,
+    "nombre": "GASTOS DE LICITACION",
+    "estado": 1
+  },
+  {
+    "id": 69,
+    "nombre": "LABORATORIOS Y ESTUDIOS",
+    "estado": 1
+  },
+  {
+    "id": 70,
+    "nombre": "PM ARQUEOLOGICO",
+    "estado": 1
+  },
+  {
+    "id": 71,
+    "nombre": "ALQUILER LOCAL",
+    "estado": 1
+  },
+  {
+    "id": 72,
+    "nombre": "REHUBICACION DE POSTES",
+    "estado": 1
+  },
+  {
+    "id": 73,
+    "nombre": "DERECHO DE EXTRACCION",
+    "estado": 1
+  },
+  {
+    "id": 74,
+    "nombre": "DERECHO DE AGUA",
+    "estado": 1
+  },
+  {
+    "id": 75,
+    "nombre": "DONACIONES",
+    "estado": 1
+  },
+  {
+    "id": 76,
+    "nombre": "EXPEDIENTE ADICIONAL",
+    "estado": 1
+  },
+  {
+    "id": 77,
+    "nombre": "E.P. INDIVIDUAL",
+    "estado": 1
+  },
+  {
+    "id": 78,
+    "nombre": "E.P. COLECTIVA",
+    "estado": 1
+  },
+  {
+    "id": 79,
+    "nombre": "SEÑALIZACION DE SEGURIDAD",
+    "estado": 1
+  },
+  {
+    "id": 80,
+    "nombre": "EMERGENCIA EN SEGURIDAD",
+    "estado": 1
+  },
+  {
+    "id": 81,
+    "nombre": "CAPACITACION EN SEGURIDAD",
+    "estado": 1
+  },
+  {
+    "id": 82,
+    "nombre": "PLAN DE MANEJO AMBIENTAL",
+    "estado": 1
+  },
+  {
+    "id": 83,
+    "nombre": "RESIDUOS SOLIDOS",
+    "estado": 1
+  },
+  {
+    "id": 84,
+    "nombre": "MONITOREO DE AIRE Y RUIDO",
+    "estado": 1
+  },
+  {
+    "id": 85,
+    "nombre": "MONITOREO DE AGUA",
+    "estado": 1
+  },
+  {
+    "id": 90,
+    "nombre": "EQUIPOS PESADOS",
+    "estado": 1
+  },
+  {
+    "id": 99,
+    "nombre": "PAGO PERSONAL",
+    "estado": 1
+  },
+  {
+    "id": 101,
+    "nombre": "PAGO PERSONAL",
+    "estado": 1
+  },
+  {
+    "id": 102,
+    "nombre": "NO PLANILLA",
+    "estado": 1
+  },
+  {
+    "id": 103,
+    "nombre": "MOVILIDAD",
+    "estado": 1
+  },
+  {
+    "id": 104,
+    "nombre": "TARRAJEO",
+    "estado": 1
+  },
+  {
+    "id": 105,
+    "nombre": "MANO DE OBRA",
+    "estado": 1
+  },
+  {
+    "id": 106,
+    "nombre": "HERRAMIENTAS DE OFICINA",
+    "estado": 1
+  },
+  {
+    "id": 107,
+    "nombre": "UTILES DE ESCRITORIO",
+    "estado": 1
+  },
+  {
+    "id": 109,
+    "nombre": "LABORATORIOS Y ESTUDIOS",
+    "estado": 1
+  },
+  {
+    "id": 110,
+    "nombre": "PETROLEO",
+    "estado": 1
+  },
+  {
+    "id": 111,
+    "nombre": "MOVILIZACION/DESMOVILIZACION",
+    "estado": 1
+  },
+  {
+    "id": 112,
+    "nombre": "SERVICIOS",
+    "estado": 1
+  },
+  {
+    "id": 113,
+    "nombre": "SINDICATO",
+    "estado": 1
+  },
+  {
+    "id": 114,
+    "nombre": "SEÑALIZACION DE SEGURIDAD",
+    "estado": 1
+  },
+  {
+    "id": 115,
+    "nombre": "CAMAS , COLCHONES",
+    "estado": 1
+  },
+  {
+    "id": 116,
+    "nombre": "PAGO PERSONAL",
+    "estado": 1
+  },
+  {
+    "id": 117,
+    "nombre": "HERRAMIENTAS",
+    "estado": 1
+  },
+  {
+    "id": 118,
+    "nombre": "DESMOVILIZACION",
+    "estado": 1
+  },
+  {
+    "id": 119,
+    "nombre": "PAGO PERSONAL",
+    "estado": 1
+  },
+  {
+    "id": 120,
+    "nombre": "APARATOS SANITARIOS",
+    "estado": 1
+  },
+  {
+    "id": 121,
+    "nombre": "HERRAMIENTAS",
+    "estado": 1
+  },
+  {
+    "id": 122,
+    "nombre": "SINDICATO",
+    "estado": 1
+  },
+  {
+    "id": 123,
+    "nombre": "CERAMICAS",
+    "estado": 1
+  },
+  {
+    "id": 124,
+    "nombre": "PENSION",
+    "estado": 1
+  },
+  {
+    "id": 125,
+    "nombre": "SCTR OBRA",
+    "estado": 1
+  },
+  {
+    "id": 126,
+    "nombre": "PAGO PERSONAL",
+    "estado": 1
+  },
+  {
+    "id": 127,
+    "nombre": "PAGO PERSONAL",
+    "estado": 1
+  },
+  {
+    "id": 130,
+    "nombre": "MOVILIZACION/DESMOVILIZACION",
+    "estado": 1
+  },
+  {
+    "id": 131,
+    "nombre": "MOVILIZACION/DESMOVILIZACION",
+    "estado": 1
+  },
+  {
+    "id": 132,
+    "nombre": "PAGO OFICINA CENTRAL",
+    "estado": 1
+  },
+  {
+    "id": 133,
+    "nombre": "DEVUELTOS",
+    "estado": 1
+  },
+  {
+    "id": 134,
+    "nombre": "RECIBIDOS",
+    "estado": 1
+  },
+  {
+    "id": 137,
+    "nombre": "GERENCIA",
+    "estado": 1
+  },
+  {
+    "id": 138,
+    "nombre": "OBRAS",
+    "estado": 1
+  },
+  {
+    "id": 139,
+    "nombre": "ADMINISTRACION",
+    "estado": 1
+  },
+  {
+    "id": 140,
+    "nombre": "GERENCIA",
+    "estado": 1
+  },
+  {
+    "id": 141,
+    "nombre": "OBRAS",
+    "estado": 1
+  },
+  {
+    "id": 142,
+    "nombre": "ADMINISTRACION",
+    "estado": 1
+  }
+]

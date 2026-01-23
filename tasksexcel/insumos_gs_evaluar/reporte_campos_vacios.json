@@ -1,0 +1,128 @@
+{
+  "resumen": {
+    "total_registros": 1111,
+    "registros_completos": 0,
+    "registros_incompletos": 1111,
+    "porcentaje_completos": "0.00%",
+    "porcentaje_incompletos": "100.00%"
+  },
+  "por_campo": {
+    "nombre": {
+      "con_valor": 1111,
+      "sin_valor": 0,
+      "porcentaje_vacio": "0.00%",
+      "porcentaje_completo": "100.00%"
+    },
+    "categoria_delphin_insumo_id": {
+      "con_valor": 1111,
+      "sin_valor": 0,
+      "porcentaje_vacio": "0.00%",
+      "porcentaje_completo": "100.00%"
+    },
+    "clase_delphin_insumo_id": {
+      "con_valor": 1056,
+      "sin_valor": 55,
+      "porcentaje_vacio": "4.95%",
+      "porcentaje_completo": "95.05%"
+    },
+    "clase_conta_insumo_id": {
+      "con_valor": 0,
+      "sin_valor": 1111,
+      "porcentaje_vacio": "100.00%",
+      "porcentaje_completo": "0.00%"
+    },
+    "tipo_costodelphi_insumo_id": {
+      "con_valor": 1111,
+      "sin_valor": 0,
+      "porcentaje_vacio": "0.00%",
+      "porcentaje_completo": "100.00%"
+    },
+    "unidad_medida_id": {
+      "con_valor": 1107,
+      "sin_valor": 4,
+      "porcentaje_vacio": "0.36%",
+      "porcentaje_completo": "99.64%"
+    },
+    "marca_id": {
+      "con_valor": 1092,
+      "sin_valor": 19,
+      "porcentaje_vacio": "1.71%",
+      "porcentaje_completo": "98.29%"
+    },
+    "precio_unitario": {
+      "con_valor": 1111,
+      "sin_valor": 0,
+      "porcentaje_vacio": "0.00%",
+      "porcentaje_completo": "100.00%"
+    },
+    "observaciones": {
+      "con_valor": 0,
+      "sin_valor": 1111,
+      "porcentaje_vacio": "100.00%",
+      "porcentaje_completo": "0.00%"
+    }
+  },
+  "distribucion_campos_vacios": {
+    "0": 0,
+    "1": 0,
+    "2": 1033,
+    "3": 78,
+    "4": 0,
+    "5": 0,
+    "6+": 0
+  },
+  "campos_mas_vacios": [
+    {
+      "campo": "clase_conta_insumo_id",
+      "sin_valor": 1111,
+      "porcentaje": "100.00"
+    },
+    {
+      "campo": "observaciones",
+      "sin_valor": 1111,
+      "porcentaje": "100.00"
+    },
+    {
+      "campo": "clase_delphin_insumo_id",
+      "sin_valor": 55,
+      "porcentaje": "4.95"
+    },
+    {
+      "campo": "marca_id",
+      "sin_valor": 19,
+      "porcentaje": "1.71"
+    },
+    {
+      "campo": "unidad_medida_id",
+      "sin_valor": 4,
+      "porcentaje": "0.36"
+    }
+  ],
+  "campos_mas_completos": [
+    {
+      "campo": "precio_unitario",
+      "sin_valor": 0,
+      "porcentaje": "0.00"
+    },
+    {
+      "campo": "tipo_costodelphi_insumo_id",
+      "sin_valor": 0,
+      "porcentaje": "0.00"
+    },
+    {
+      "campo": "categoria_delphin_insumo_id",
+      "sin_valor": 0,
+      "porcentaje": "0.00"
+    },
+    {
+      "campo": "nombre",
+      "sin_valor": 0,
+      "porcentaje": "0.00"
+    },
+    {
+      "campo": "unidad_medida_id",
+      "sin_valor": 4,
+      "porcentaje": "0.36"
+    }
+  ]
+}
