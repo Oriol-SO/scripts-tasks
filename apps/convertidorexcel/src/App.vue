@@ -1,9 +1,6 @@
 <template>
   <v-app>
-    <div class="min-h-screen bg-white">
-      <!-- Router View -->
-      <router-view />
-    </div>
+    <router-view />
   </v-app>
 </template>
 

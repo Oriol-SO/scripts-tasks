@@ -1,187 +1,153 @@
 <template>
-  <div class="min-h-screen flex items-center justify-center p-4 sm:p-6 lg:p-8">
-    <div class="w-full max-w-7xl">
-      <!-- Header Section -->
-      <div class="text-center mb-16 animate-fade-in">
-        <!-- Icon with glow effect -->
-        <div class="flex items-center justify-center mb-8">
-          <div class="relative">
-            <div class="absolute inset-0 bg-blue-500 rounded-full blur-2xl opacity-50 animate-pulse"></div>
-            <div class="relative bg-gradient-to-br from-blue-500 to-blue-600 p-6 rounded-3xl shadow-2xl transform hover:scale-110 transition-transform duration-300">
-              <svg class="w-16 h-16 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.325 4.317c.426-1.756 2.924-1.756 3.35 0a1.724 1.724 0 002.573 1.066c1.543-.94 3.31.826 2.37 2.37a1.724 1.724 0 001.065 2.572c1.756.426 1.756 2.924 0 3.35a1.724 1.724 0 00-1.066 2.573c.94 1.543-.826 3.31-2.37 2.37a1.724 1.724 0 00-2.572 1.065c-.426 1.756-2.924 1.756-3.35 0a1.724 1.724 0 00-2.573-1.066c-1.543.94-3.31-.826-2.37-2.37a1.724 1.724 0 00-1.065-2.572c-1.756-.426-1.756-2.924 0-3.35a1.724 1.724 0 001.066-2.573c-.94-1.543.826-3.31 2.37-2.37.996.608 2.296.07 2.572-1.065z" />
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
-              </svg>
-            </div>
-          </div>
+  <div class="min-h-screen bg-gradient-to-br from-slate-50 via-white to-blue-50/40">
+
+    <!-- Main Content -->
+    <div class="container mx-auto px-6 py-12 sm:px-10 lg:px-16 flex flex-col items-center min-h-screen">
+
+      <!-- Hero Section -->
+      <div class="text-center w-full max-w-3xl mx-auto mt-10 mb-14 animate-fade-in-up">
+        <div class="inline-flex items-center justify-center p-1.5 mb-8 rounded-full bg-blue-50 border border-blue-100 shadow-sm">
+          <span class="px-4 py-1 rounded-full bg-blue-500 text-white text-xs font-semibold tracking-wide uppercase mr-2">Novedad</span>
+          <span class="text-gray-500 text-sm pr-4">Nuevas herramientas de conversión JSON 🚀</span>
         </div>
 
-        <!-- Title -->
-        <h1 class="text-5xl sm:text-6xl lg:text-7xl font-extrabold text-transparent bg-clip-text bg-gradient-to-r from-blue-400 via-purple-400 to-pink-400 mb-6 leading-tight">
-          oriolexcel
+        <h1 class="text-6xl sm:text-7xl lg:text-8xl font-black tracking-tight mb-5">
+          <span class="text-transparent bg-clip-text bg-gradient-to-r from-blue-600 via-indigo-500 to-purple-600">
+            ORIOL tools
+          </span>
         </h1>
-        
-        <!-- Subtitle -->
-        <p class="text-xl sm:text-2xl text-gray-600 mb-4 font-light">
-          Convierte y transforma tus datos fácilmente
+
+        <p class="text-lg sm:text-xl text-gray-500 mb-6 max-w-2xl mx-auto font-normal leading-relaxed">
+          Tu suite definitiva de herramientas. Transforma, genera y optimiza tus datos en segundos.
         </p>
-        
-        <!-- Decorative line -->
-        <div class="flex items-center justify-center gap-4 mt-8">
-          <div class="h-px w-20 bg-gradient-to-r from-transparent to-blue-500"></div>
-          <div class="w-2 h-2 bg-blue-500 rounded-full"></div>
-          <div class="h-px w-20 bg-gradient-to-l from-transparent to-blue-500"></div>
-        </div>
       </div>
 
-      <!-- Cards Grid -->
-      <div class="grid grid-cols-1 lg:grid-cols-2 gap-6 mb-16 px-4">
-        <!-- Convertidor de Excel Card -->
-        <div 
-          @click="$router.push('/excel-to-json')"
-          class="group relative bg-white rounded-2xl shadow-lg border border-gray-200 hover:border-blue-400 hover:shadow-xl transition-all duration-500 transform hover:-translate-y-2 cursor-pointer overflow-hidden p-6"
-        >
-          <!-- Content -->
-          <div class="relative">
-            <!-- Icon -->
-            <div class="flex items-center justify-center mb-4">
-              <div class="relative">
-                <div class="absolute inset-0 bg-blue-500 rounded-xl blur-lg opacity-20 group-hover:opacity-30 transition-opacity duration-300"></div>
-                <div class="relative bg-gradient-to-br from-blue-500 to-blue-600 p-4 rounded-xl shadow-md group-hover:scale-110 group-hover:rotate-3 transition-all duration-300">
-                  <svg class="w-12 h-12 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <!-- Tools Section -->
+      <div class="w-full max-w-6xl mx-auto pb-16">
+
+        <!-- Excel Tools -->
+        <div class="flex items-center gap-3 mb-6">
+          <div class="h-7 w-1 bg-gradient-to-b from-blue-500 to-emerald-500 rounded-full"></div>
+          <h2 class="text-2xl font-bold text-gray-800 tracking-wide">Herramientas Excel</h2>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-5 mb-12">
+
+          <!-- Excel to JSON Card -->
+          <div
+            @click="$router.push('/excel-to-json')"
+            class="pa-4 group relative bg-white border border-gray-100 rounded-2xl  hover:border-emerald-200 transition-all duration-300 cursor-pointer overflow-hidden shadow-sm hover:shadow-lg hover:-translate-y-1"
+          >
+            <!-- Top accent bar -->
+            <div class="absolute top-0 left-0 right-0 h-0.5 bg-gradient-to-r from-emerald-400 to-teal-400 opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-t-2xl"></div>
+
+            <div class="flex flex-col h-full">
+              <div class="flex items-center justify-between mb-6">
+                <div class="w-14 h-14 rounded-2xl bg-gradient-to-br from-emerald-400 to-teal-500 flex items-center justify-center shadow-md transform group-hover:rotate-3 group-hover:scale-105 transition-all duration-300">
+                  <svg class="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
                   </svg>
                 </div>
-              </div>
-            </div>
-
-            <!-- Title and description -->
-            <h2 class="text-2xl font-bold text-gray-800 mb-3 text-center group-hover:text-blue-600 transition-colors duration-300">
-              Convertidor de Excel
-            </h2>
-            <p class="text-gray-600 text-center mb-6 text-base leading-relaxed">
-              Convierte entre Excel y JSON de forma rápida y sencilla. Soporta múltiples formatos y opciones avanzadas.
-            </p>
-
-            <!-- Button -->
-            <button
-              @click.stop="$router.push('/excel-to-json')"
-              class="w-full bg-gradient-to-r from-blue-500 to-blue-600 hover:from-blue-600 hover:to-blue-700 text-white font-bold py-3 px-6 rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:scale-105 flex items-center justify-center gap-2 text-base"
-            >
-              <span>Ir a Convertidor</span>
-              <svg class="w-5 h-5 transform group-hover:translate-x-1 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" />
-              </svg>
-            </button>
-          </div>
-
-          <!-- Animated bottom border -->
-          <div class="absolute bottom-0 left-0 right-0 h-1 bg-gradient-to-r from-blue-500 via-blue-400 to-blue-500 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-500 origin-left"></div>
-        </div>
-
-        <!-- Generador SQL Card -->
-        <div 
-          @click="$router.push('/generador-sql')"
-          class="group relative bg-white rounded-2xl shadow-lg border border-gray-200 hover:border-purple-400 hover:shadow-xl transition-all duration-500 transform hover:-translate-y-2 cursor-pointer overflow-hidden p-6"
-        >
-          <!-- Content -->
-          <div class="relative">
-            <!-- Icon -->
-            <div class="flex items-center justify-center mb-4">
-              <div class="relative">
-                <div class="absolute inset-0 bg-purple-500 rounded-xl blur-lg opacity-20 group-hover:opacity-30 transition-opacity duration-300"></div>
-                <div class="relative bg-gradient-to-br from-purple-500 to-purple-600 p-4 rounded-xl shadow-md group-hover:scale-110 group-hover:rotate-3 transition-all duration-300">
-                  <svg class="w-12 h-12 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4" />
+                <div class="w-9 h-9 rounded-full bg-gray-100 flex items-center justify-center group-hover:bg-emerald-100 transition-colors duration-300">
+                  <svg class="w-4 h-4 text-gray-400 group-hover:text-emerald-600 transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-all duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
                   </svg>
                 </div>
               </div>
+
+              <h3 class="text-2xl font-bold text-gray-800 mb-3 group-hover:text-emerald-600 transition-colors duration-300">Excel a JSON</h3>
+              <p class="text-gray-500 text-base leading-relaxed mb-6 flex-grow">
+                Convierte tus hojas de cálculo Excel en estructuras JSON precisas. Soporte completo para múltiples hojas y opciones de formato avanzado.
+              </p>
+
+              <div class="flex flex-wrap gap-2 mt-auto">
+                <span class="px-3 py-1 rounded-lg bg-emerald-50 border border-emerald-100 text-xs text-emerald-700 font-medium">.xlsx / .xls</span>
+                <span class="px-3 py-1 rounded-lg bg-emerald-50 border border-emerald-100 text-xs text-emerald-700 font-medium">Múltiples hojas</span>
+                <span class="px-3 py-1 rounded-lg bg-emerald-50 border border-emerald-100 text-xs text-emerald-700 font-medium">Conversión rápida</span>
+              </div>
             </div>
+          </div>
 
-            <!-- Title and description -->
-            <h2 class="text-2xl font-bold text-gray-800 mb-3 text-center group-hover:text-purple-600 transition-colors duration-300">
-              Generador SQL
-            </h2>
-            <p class="text-gray-600 text-center mb-6 text-base leading-relaxed">
-              Genera consultas SQL de forma rápida y sencilla. Crea queries complejas con facilidad.
-            </p>
+          <!-- JSON to Excel Card -->
+          <div
+            @click="$router.push('/json-to-excel')"
+            class="pa-4 group relative bg-white border border-gray-100 rounded-2xl hover:border-blue-200 transition-all duration-300 cursor-pointer overflow-hidden shadow-sm hover:shadow-lg hover:-translate-y-1"
+          >
+            <div class="absolute top-0 left-0 right-0 h-0.5 bg-gradient-to-r from-blue-400 to-indigo-500 opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-t-2xl"></div>
 
-            <!-- Button -->
-            <button
-              @click.stop="$router.push('/generador-sql')"
-              class="w-full bg-gradient-to-r from-purple-500 to-purple-600 hover:from-purple-600 hover:to-purple-700 text-white font-bold py-3 px-6 rounded-xl shadow-lg hover:shadow-2xl transition-all duration-300 transform hover:scale-105 flex items-center justify-center gap-2 text-base"
-            >
-              <span>Ir a Generador</span>
-              <svg class="w-5 h-5 transform group-hover:translate-x-1 transition-transform duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 7l5 5m0 0l-5 5m5-5H6" />
+            <div class="flex flex-col h-full">
+              <div class="flex items-center justify-between mb-6">
+                <div class="w-14 h-14 rounded-2xl bg-gradient-to-br from-blue-500 to-indigo-600 flex items-center justify-center shadow-md transform group-hover:-rotate-3 group-hover:scale-105 transition-all duration-300">
+                  <svg class="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 20l4-16m4 4l4 4-4 4M6 16l-4-4 4-4" />
+                  </svg>
+                </div>
+                <div class="w-9 h-9 rounded-full bg-gray-100 flex items-center justify-center group-hover:bg-blue-100 transition-colors duration-300">
+                  <svg class="w-4 h-4 text-gray-400 group-hover:text-blue-600 transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-all duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                  </svg>
+                </div>
+              </div>
+
+              <h3 class="text-2xl font-bold text-gray-800 mb-3 group-hover:text-blue-600 transition-colors duration-300">JSON a Excel</h3>
+              <p class="text-gray-500 text-base leading-relaxed mb-6 flex-grow">
+                Transforma cualquier objeto o array JSON en una hoja de cálculo estructurada. Formatea datos y expórtalos al instante.
+              </p>
+
+              <div class="flex flex-wrap gap-2 mt-auto">
+                <span class="px-3 py-1 rounded-lg bg-blue-50 border border-blue-100 text-xs text-blue-700 font-medium">Arrays / Objetos</span>
+                <span class="px-3 py-1 rounded-lg bg-blue-50 border border-blue-100 text-xs text-blue-700 font-medium">Descarga directa</span>
+                <span class="px-3 py-1 rounded-lg bg-blue-50 border border-blue-100 text-xs text-blue-700 font-medium">Formateo</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <!-- Other Tools -->
+        <div class="flex items-center gap-3 mb-6">
+          <div class="h-7 w-1 bg-gradient-to-b from-purple-500 to-pink-500 rounded-full"></div>
+          <h2 class="text-2xl font-bold text-gray-800 tracking-wide">Más Herramientas</h2>
+        </div>
+
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
+
+          <!-- Generador SQL Card -->
+          <div
+            @click="$router.push('/generador-sql')"
+            class="group relative bg-white border border-gray-100 rounded-2xl p-7 hover:border-purple-200 transition-all duration-300 cursor-pointer overflow-hidden shadow-sm hover:shadow-lg hover:-translate-y-1"
+          >
+            <div class="absolute top-0 left-0 right-0 h-0.5 bg-gradient-to-r from-purple-500 to-pink-500 opacity-0 group-hover:opacity-100 transition-opacity duration-300 rounded-t-2xl"></div>
+
+            <div class="flex flex-col h-full">
+              <div class="flex items-center justify-between mb-6">
+                <div class="w-14 h-14 rounded-2xl bg-gradient-to-br from-purple-500 to-pink-600 flex items-center justify-center shadow-md transform group-hover:rotate-3 group-hover:scale-105 transition-all duration-300">
+                  <svg class="w-7 h-7 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4" />
+                  </svg>
+                </div>
+                <div class="w-9 h-9 rounded-full bg-gray-100 flex items-center justify-center group-hover:bg-purple-100 transition-colors duration-300">
+                  <svg class="w-4 h-4 text-gray-400 group-hover:text-purple-600 transform group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-all duration-300" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
+                  </svg>
+                </div>
+              </div>
+
+              <h3 class="text-xl font-bold text-gray-800 mb-2 group-hover:text-purple-600 transition-colors duration-300">Generador SQL</h3>
+              <p class="text-gray-500 text-sm leading-relaxed flex-grow">
+                Constructor visual de queries complejas de base de datos.
+              </p>
+            </div>
+          </div>
+
+          <!-- Próximamente Card -->
+          <div class="relative bg-gray-50 border border-dashed border-gray-200 rounded-2xl p-7 flex flex-col items-center justify-center text-center">
+            <div class="w-12 h-12 rounded-xl bg-gray-100 flex items-center justify-center mb-4">
+              <svg class="w-6 h-6 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
               </svg>
-            </button>
-          </div>
-
-          <!-- Animated bottom border -->
-          <div class="absolute bottom-0 left-0 right-0 h-1 bg-gradient-to-r from-purple-500 via-purple-400 to-purple-500 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-500 origin-left"></div>
-        </div>
-      </div>
-
-      <!-- Features Section -->
-      <div class="bg-gray-50 rounded-3xl shadow-lg border border-gray-200 p-8 sm:p-10 lg:p-12">
-        <!-- Header -->
-        <div class="flex flex-col sm:flex-row items-center gap-4 mb-10">
-          <div class="bg-gradient-to-br from-blue-500 to-purple-500 p-4 rounded-2xl shadow-lg">
-            <svg class="w-8 h-8 text-white" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
-            </svg>
-          </div>
-          <h3 class="text-3xl sm:text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-blue-600 to-purple-600 text-center sm:text-left">
-            Funcionalidades disponibles
-          </h3>
-        </div>
-        
-        <!-- Features Grid -->
-        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-          <!-- Feature 1 -->
-          <div class="group bg-white hover:bg-blue-50 rounded-2xl p-6 border border-gray-200 hover:border-blue-300 transition-all duration-300 transform hover:scale-105 shadow-sm hover:shadow-md">
-            <div class="flex items-start gap-4">
-              <div class="flex-shrink-0 bg-gradient-to-br from-green-400 to-green-500 p-3 rounded-xl shadow-md group-hover:scale-110 transition-transform duration-300">
-                <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
-                  <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
-                </svg>
-              </div>
-              <div>
-                <h4 class="font-bold text-gray-800 mb-2 text-lg">Excel a JSON</h4>
-                <p class="text-gray-600 leading-relaxed">Convierte archivos Excel (.xlsx, .xls) a formato JSON con opciones avanzadas</p>
-              </div>
             </div>
-          </div>
-          
-          <!-- Feature 2 -->
-          <div class="group bg-white hover:bg-blue-50 rounded-2xl p-6 border border-gray-200 hover:border-blue-300 transition-all duration-300 transform hover:scale-105 shadow-sm hover:shadow-md">
-            <div class="flex items-start gap-4">
-              <div class="flex-shrink-0 bg-gradient-to-br from-green-400 to-green-500 p-3 rounded-xl shadow-md group-hover:scale-110 transition-transform duration-300">
-                <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
-                  <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
-                </svg>
-              </div>
-              <div>
-                <h4 class="font-bold text-gray-800 mb-2 text-lg">JSON a Excel</h4>
-                <p class="text-gray-600 leading-relaxed">Convierte archivos JSON a formato Excel con búsqueda integrada en tiempo real</p>
-              </div>
-            </div>
-          </div>
-          
-          <!-- Feature 3 -->
-          <div class="group bg-white hover:bg-blue-50 rounded-2xl p-6 border border-gray-200 hover:border-blue-300 transition-all duration-300 transform hover:scale-105 shadow-sm hover:shadow-md">
-            <div class="flex items-start gap-4">
-              <div class="flex-shrink-0 bg-gradient-to-br from-green-400 to-green-500 p-3 rounded-xl shadow-md group-hover:scale-110 transition-transform duration-300">
-                <svg class="w-6 h-6 text-white" fill="currentColor" viewBox="0 0 20 20">
-                  <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm3.707-9.293a1 1 0 00-1.414-1.414L9 10.586 7.707 9.293a1 1 0 00-1.414 1.414l2 2a1 1 0 001.414 0l4-4z" clip-rule="evenodd" />
-                </svg>
-              </div>
-              <div>
-                <h4 class="font-bold text-gray-800 mb-2 text-lg">Generador SQL</h4>
-                <p class="text-gray-600 leading-relaxed">Crea consultas SQL de forma rápida y sencilla con interfaz intuitiva</p>
-              </div>
-            </div>
+            <h3 class="text-base font-bold text-gray-400 mb-1">Próximamente</h3>
+            <p class="text-gray-400 text-xs leading-relaxed">Nuevas utilidades en camino.</p>
           </div>
         </div>
       </div>
@@ -190,14 +156,14 @@
 </template>
 
 <script setup>
-// Página de inicio - contenido específico
+// Home - Landing page
 </script>
 
 <style scoped>
-@keyframes fade-in {
+@keyframes fade-in-up {
   from {
     opacity: 0;
-    transform: translateY(-20px);
+    transform: translateY(24px);
   }
   to {
     opacity: 1;
@@ -205,7 +171,7 @@
   }
 }
 
-.animate-fade-in {
-  animation: fade-in 1s ease-out;
+.animate-fade-in-up {
+  animation: fade-in-up 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards;
 }
 </style>
